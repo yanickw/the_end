@@ -1,0 +1,3792 @@
+﻿Link,Task Name,Pipeline Step,Status,Assigned To
+PIC_0303_303_005,fx,FX,apr,Vlad Tushevskiy
+PIC_0303_303_005,comp,Comp,fin,Kimberly Martinez
+PIC_0303_303_005,anim,Animation,apr,Jason Shulman
+PIC_0303_303_005,light,Lighting/Rendering,apr,"Forrest Arnold, Patricio Harris"
+PIC_0303_303_005,ltcompFx,Light Comp,apr,"Bruce Coy, David Silva, Rick Ramirez, Vlad Tushevskiy"
+PIC_0303_303_005,ltcomp,Light Comp,apr,"Forrest Arnold, Patricio Harris"
+PIC_0303_303_005,ref,,apr,
+PIC_0303_303_005,camB,,apr,
+PIC_0303_303_005,exp,Exports,apr,
+PIC_0303_303_005,fxNebula,FX,apr,Rick Ramirez
+PIC_0303_303_005,ltcompFxNebula,Light Comp,apr,Vlad Tushevskiy
+PIC_0303_303_005,fxRRTest,FX,apr,Rick Ramirez
+PIC_0303_303_005,ltcompFxRRTest,Light Comp,apr,Rick Ramirez
+PIC_0303_303_005,lightNebula,Lighting/Rendering,apr,Rick Ramirez
+PIC_0303_303_005,ltcompNebula,Light Comp,apr,Rick Ramirez
+PIC_0303_303_005,ldev,Look Dev,apr,Steve Graves
+PIC_0303_303_005,fxInteractiveNebula,FX,apr,"Bruce Coy, Vlad Tushevskiy"
+PIC_0303_303_005,ltcompFxInteractiveNebula,Light Comp,apr,Vlad Tushevskiy
+PIC_0303_303_005,ldevDaniel,Look Dev,apr,
+PIC_0303_303_005,ldevDavid,Look Dev,apr,David Gutman
+PIC_0303_303_005,ldevYinglei,Look Dev,apr,Yinglei Yang
+PIC_0303_303_005,fxTorpedo,FX,apr,"David Silva, Vlad Tushevskiy"
+PIC_0303_303_005,ltcompFxTorpedo,Light Comp,apr,"David Silva, Vlad Tushevskiy"
+PIC_0303_303_005,cam,,apr,
+PIC_0303_303_005,prcTorpedo,,apr,
+PIC_0303_303_005,lightTorpedo,Lighting/Rendering,apr,Yinglei Yang
+PIC_0303_303_005,ltcompTorpedo,Light Comp,apr,Yinglei Yang
+PIC_0303_303_005,prcGlow,,apr,
+PIC_0303_303_005,prcHotspot,,apr,
+PIC_0303_303_005,prcFlares,,apr,
+PIC_0303_303_005,prcFlare,Precomps,apr,
+PIC_0303_306_010,comp,Comp,fin,Peter Herlein
+PIC_0303_306_010,anim,Animation,apr,Jason Shulman
+PIC_0303_306_010,light,Lighting/Rendering,apr,"Chris Pierz, David Gutman"
+PIC_0303_306_010,lightPrevis,Previsualization,apr,Steve Graves
+PIC_0303_306_010,animPrevis,Previsualization,apr,
+PIC_0303_306_010,fx,FX,apr,"Rick Ramirez, Vlad Tushevskiy"
+PIC_0303_306_010,fxPrevis,Previsualization,apr,
+PIC_0303_306_010,ltcomp,Light Comp,apr,"Chris Pierz, David Gutman, Rick Ramirez, Steve Graves, Yinglei Yang"
+PIC_0303_306_010,ltcompPrevis,Light Comp,apr,Steve Graves
+PIC_0303_306_010,ltcompFx,Light Comp,apr,"Bruce Coy, David Silva, Rick Ramirez, Vlad Tushevskiy"
+PIC_0303_306_010,ltcompFxPrevis,Light Comp,apr,Steve Graves
+PIC_0303_306_010,ref,,apr,
+PIC_0303_306_010,camA,,apr,
+PIC_0303_306_010,exp,Exports,apr,
+PIC_0303_306_010,fxNebula,FX,apr,Rick Ramirez
+PIC_0303_306_010,ltcompFxNebula,Light Comp,apr,Val Kharitonashvili
+PIC_0303_306_010,lightNebula,Lighting/Rendering,apr,Rick Ramirez
+PIC_0303_306_010,ltcompNebula,Light Comp,apr,Rick Ramirez
+PIC_0303_306_010,fxTorpedo,FX,apr,"David Silva, Vlad Tushevskiy"
+PIC_0303_306_010,ltcompFxTorpedo,Light Comp,apr,Vlad Tushevskiy
+PIC_0303_306_010,cam,,apr,
+PIC_0303_306_010,fxInteractiveNebula,FX,apr,"Bruce Coy, Vlad Tushevskiy"
+PIC_0303_306_010,ltcompFxInteractiveNebula,Light Comp,apr,"Bruce Coy, Vlad Tushevskiy"
+PIC_0303_306_010,fxRRTest,,apr,
+PIC_0303_306_010,ltcompFxRRTest,Light Comp,apr,
+PIC_0303_306_010,prcTorpedo,,apr,
+PIC_0303_306_010,lightTorpedo,Lighting/Rendering,apr,Yinglei Yang
+PIC_0303_306_010,ltcompTorpedo,Light Comp,apr,Yinglei Yang
+PIC_0303_306_010,prcFlares,,apr,
+PIC_0303_306_010,prcGlow,,apr,
+PIC_0303_306_010,prcShrikeFlares,,apr,
+PIC_0303_306_010,prcShrikeGlow,,apr,
+PIC_0303_306_010,prcPatchTest,,apr,
+PIC_0303_306_010,prcJpg,,apr,
+PIC_0303_306_010,prcProxy,,apr,
+PIC_0303_306_010,prcPrenebula,,apr,
+PIC_0303_306_010,prcLightning,,apr,
+PIC_0303_306_010,prcTestcomp,,apr,
+PIC_0303_307_020,trk,Tracking,apr,"VFX Tracking, yannix"
+PIC_0303_307_020,light,Lighting/Rendering,apr,Jon Gourley
+PIC_0303_307_020,anim,Animation,apr,"Rick Ramirez, Steve Graves"
+PIC_0303_307_020,comp,Comp,fin,Heather Fetter
+PIC_0303_307_020,ltcomp,Light Comp,apr,Jon Gourley
+PIC_0303_307_020,plate,,apr,
+PIC_0303_307_020,ref,,apr,
+PIC_0303_307_020,roto,Roto,apr,rhinestoneVFX
+PIC_0303_307_020,pnt,Paint,apr,rhinestoneVFX
+PIC_0303_307_020,cam,,apr,
+PIC_0303_307_020,lay,,apr,
+PIC_0303_307_020,und,,apr,
+PIC_0303_307_020,prcDenoisepnt,,apr,
+PIC_0303_307_020,prcDenoise,,apr,
+PIC_0303_308_010,comp,Comp,fin,Kimberly Martinez
+PIC_0303_308_010,anim,Animation,apr,Jason Shulman
+PIC_0303_308_010,light,Lighting/Rendering,apr,Jon Gourley
+PIC_0303_308_010,compPrevis,Previsualization,apr,Ryan Smolarek
+PIC_0303_308_010,lightPrevis,Previsualization,apr,Steve Graves
+PIC_0303_308_010,animPrevis,Previsualization,apr,Jason Shulman
+PIC_0303_308_010,fx,FX,apr,"Rick Ramirez, Vlad Tushevskiy"
+PIC_0303_308_010,fxPrevis,Previsualization,apr,
+PIC_0303_308_010,ltcomp,Light Comp,apr,"Jon Gourley, Rick Ramirez, Steve Graves, Yinglei Yang"
+PIC_0303_308_010,ltcompPrevis,Light Comp,apr,Steve Graves
+PIC_0303_308_010,ltcompFx,Light Comp,apr,"Rick Ramirez, Vlad Tushevskiy"
+PIC_0303_308_010,ltcompFxPrevis,Light Comp,apr,Steve Graves
+PIC_0303_308_010,ref,,apr,
+PIC_0303_308_010,camC,,apr,
+PIC_0303_308_010,exp,Exports,apr,
+PIC_0303_308_010,fxNebula,FX,apr,"Rick Ramirez, Vlad Tushevskiy"
+PIC_0303_308_010,ltcompFxNebula,Light Comp,apr,"Val Kharitonashvili, Vlad Tushevskiy"
+PIC_0303_308_010,lightNebula,Lighting/Rendering,apr,Rick Ramirez
+PIC_0303_308_010,ltcompNebula,Light Comp,apr,Rick Ramirez
+PIC_0303_308_010,cam,,apr,
+PIC_0303_308_010,fxRRTest,,apr,
+PIC_0303_308_010,ltcompFxRRTest,Light Comp,apr,
+PIC_0303_308_010,prcGlow,,apr,
+PIC_0303_308_010,prcFlares,,apr,
+PIC_0303_308_010,lightMatte,Lighting/Rendering,apr,Yinglei Yang
+PIC_0303_308_010,ltcompMatte,Light Comp,apr,Yinglei Yang
+PIC_0303_310_040,comp,Comp,fin,Heather Fetter
+PIC_0303_310_040,fx,FX,apr,Vlad Tushevskiy
+PIC_0303_310_040,anim,Animation,apr,"Rick Ramirez, Steve Graves"
+PIC_0303_310_040,light,Lighting/Rendering,apr,Jon Gourley
+PIC_0303_310_040,ltcompFx,Light Comp,apr,Vlad Tushevskiy
+PIC_0303_310_040,ltcomp,Light Comp,apr,Jon Gourley
+PIC_0303_310_040,plate,,apr,
+PIC_0303_310_040,ref,,apr,
+PIC_0303_310_040,trk,Tracking,apr,"VFX Tracking, yannix"
+PIC_0303_310_040,prcProxy,,apr,
+PIC_0303_310_040,prcMikeDTest,Precomps,apr,
+PIC_0303_310_040,roto,Roto,apr,rhinestoneVFX
+PIC_0303_310_040,pnt,Paint,apr,rhinestoneVFX
+PIC_0303_310_040,cam,,apr,
+PIC_0303_310_040,lay,,apr,
+PIC_0303_310_040,und,,apr,
+PIC_0303_310_040,prcDenoisepnt,,apr,
+PIC_0303_310_040,prcDenoise,,apr,
+PIC_0303_313_005,fx,FX,apr,Vlad Tushevskiy
+PIC_0303_313_005,comp,Comp,fin,Kimberly Martinez
+PIC_0303_313_005,anim,Animation,apr,Dustin Adair
+PIC_0303_313_005,light,Lighting/Rendering,apr,Jonathan Bliss
+PIC_0303_313_005,ltcompFx,Light Comp,apr,Vlad Tushevskiy
+PIC_0303_313_005,ltcomp,Light Comp,apr,"Jonathan Bliss, Rick Ramirez"
+PIC_0303_313_005,ref,,apr,
+PIC_0303_313_005,exp,Exports,apr,
+PIC_0303_313_005,cam,,apr,
+PIC_0303_313_005,lightNebula,Lighting/Rendering,apr,Rick Ramirez
+PIC_0303_313_005,ltcompNebula,Light Comp,apr,Rick Ramirez
+PIC_0303_313_005,fxRRTest,,apr,
+PIC_0303_313_005,ltcompFxRRTest,Light Comp,apr,
+PIC_0303_313_005,prcFlares,,apr,
+PIC_0303_317_010,fx,FX,apr,Vlad Tushevskiy
+PIC_0303_317_010,comp,Comp,fin,Javier Gallego
+PIC_0303_317_010,anim,Animation,apr,Jason Shulman
+PIC_0303_317_010,light,Lighting/Rendering,apr,"Forrest Arnold, Patricio Harris"
+PIC_0303_317_010,ltcompFx,Light Comp,apr,"Bruce Coy, Vlad Tushevskiy"
+PIC_0303_317_010,ltcomp,Light Comp,apr,"Forrest Arnold, Patricio Harris"
+PIC_0303_317_010,ref,,apr,
+PIC_0303_317_010,exp,Exports,apr,
+PIC_0303_317_010,camC,,apr,
+PIC_0303_317_010,fxInteractiveNebula,FX,apr,"Bruce Coy, Vlad Tushevskiy"
+PIC_0303_317_010,ltcompFxInteractiveNebula,Light Comp,apr,Vlad Tushevskiy
+PIC_0303_317_010,lightNebula,Lighting/Rendering,apr,Rick Ramirez
+PIC_0303_317_010,ltcompNebula,Light Comp,apr,Rick Ramirez
+PIC_0303_317_010,cam,,apr,
+PIC_0303_317_010,prcStars,,apr,
+PIC_0303_317_010,prcNebula,,apr,
+PIC_0303_317_010,prcShips,,apr,
+PIC_0303_317_010,prcNebulabty,,apr,
+PIC_0303_317_010,prcFlare,,apr,
+PIC_0303_317_010,prcLensdirt,,apr,
+PIC_0303_317_010,fxRRTest,,apr,
+PIC_0303_317_010,ltcompFxRRTest,Light Comp,apr,
+PIC_0303_317_010,prcFlare2,,apr,
+PIC_0303_317_010,prcLightflare,,apr,
+PIC_0303_317_010,prcTest,,apr,
+PIC_0303_317_010,prcShip,,apr,
+PIC_0303_317_010,prcAtmobty,,apr,
+PIC_0303_317_010,prcTitanint,,apr,
+PIC_0303_317_010,prcWeightedblurflare,,apr,
+PIC_0303_317_010,prcSkystars,,apr,
+PIC_0303_317_010,prcAtmosphericfog,,apr,
+PIC_0303_317_010,prcComp4Flares,,apr,
+PIC_0303_317_010,prcComp4Flares2,,apr,
+PIC_0303_317_010,prcComp4Flares3,,apr,
+PIC_0303_320_010,comp,Comp,fin,Javier Gallego
+PIC_0303_320_010,anim,Animation,apr,Jason Shulman
+PIC_0303_320_010,light,Lighting/Rendering,apr,Jonathan Bliss
+PIC_0303_320_010,lightPrevis,Previsualization,apr,Steve Graves
+PIC_0303_320_010,animPrevis,Previsualization,apr,
+PIC_0303_320_010,fx,FX,apr,"Rick Ramirez, Vlad Tushevskiy"
+PIC_0303_320_010,fxPrevis,Previsualization,apr,
+PIC_0303_320_010,ltcomp,Light Comp,apr,"David Gutman, Jonathan Bliss, Rick Ramirez, Steve Graves"
+PIC_0303_320_010,ltcompPrevis,Light Comp,apr,Steve Graves
+PIC_0303_320_010,ltcompFx,Light Comp,apr,"David Silva, Rick Ramirez, Val Kharitonashvili, Vlad Tushevskiy"
+PIC_0303_320_010,ltcompFxPrevis,Light Comp,apr,Steve Graves
+PIC_0303_320_010,ref,,apr,
+PIC_0303_320_010,exp,Exports,apr,
+PIC_0303_320_010,fxExplosion,FX,apr,"Val Kharitonashvili, Vlad Tushevskiy"
+PIC_0303_320_010,ltcompFxExplosion,Light Comp,apr,"Val Kharitonashvili, Vlad Tushevskiy"
+PIC_0303_320_010,camC,,apr,
+PIC_0303_320_010,lightNebula,Lighting/Rendering,apr,Rick Ramirez
+PIC_0303_320_010,ltcompNebula,Light Comp,apr,Rick Ramirez
+PIC_0303_320_010,fxBeam,FX,apr,"David Silva, Vlad Tushevskiy"
+PIC_0303_320_010,ltcompFxBeam,Light Comp,apr,"David Silva, Vlad Tushevskiy"
+PIC_0303_320_010,prcStars,,apr,
+PIC_0303_320_010,prcNebula,,apr,
+PIC_0303_320_010,cam,,apr,
+PIC_0303_320_010,fxRRTest,,apr,
+PIC_0303_320_010,ltcompFxRRTest,Light Comp,apr,
+PIC_0303_320_010,prcNebulabty,,apr,
+PIC_0303_320_010,prcShip,,apr,
+PIC_0303_320_010,prcPyro,,apr,
+PIC_0303_320_010,prcAtmobty,,apr,
+PIC_0303_320_010,prcShriketorpedo,,apr,
+PIC_0303_320_010,prcAtmosphericfog,,apr,
+PIC_0303_320_010,prcFlare,,apr,
+PIC_0303_320_010,prcFlare2,,apr,
+PIC_0303_320_010,prcSkystars,,apr,
+PIC_0303_320_010,prcWeightedblurflares,,apr,
+PIC_0303_320_010,prcComp4Flares,,apr,
+PIC_0303_320_010,prcTest,,apr,
+PIC_0303_320_010,prcLensdirt,,apr,
+PIC_0303_320_010,fxShield,FX,rdcmpl,David Silva
+PIC_0303_320_010,ltcompFxShield,Light Comp,apr,David Silva
+PIC_0303_320_010,fxShield,FX,apr,David Silva
+PIC_0303_320_010,prcShieldfx,,apr,
+PIC_0303_320_010,lightShieldINT,Lighting/Rendering,apr,David Gutman
+PIC_0303_320_010,ltcompShieldINT,Light Comp,apr,David Gutman
+PIC_0303_320_010,prcShieldfx2,,apr,
+PIC_0303_320_010,prcComp4Flares2,,apr,
+PIC_0303_321_050,fx,FX,apr,Vlad Tushevskiy
+PIC_0303_321_050,comp,Comp,fin,Elizabeth Bodnar
+PIC_0303_321_050,anim,Animation,apr,"Rick Ramirez, Steve Graves"
+PIC_0303_321_050,light,Lighting/Rendering,apr,Jon Gourley
+PIC_0303_321_050,ltcompFx,Light Comp,apr,Vlad Tushevskiy
+PIC_0303_321_050,ltcomp,Light Comp,apr,Jon Gourley
+PIC_0303_321_050,plate,,apr,
+PIC_0303_321_050,ref,,apr,
+PIC_0303_321_050,trk,Tracking,apr,"VFX Tracking, yannix"
+PIC_0303_321_050,prcProxy,,apr,
+PIC_0303_321_050,roto,Roto,apr,rhinestoneVFX
+PIC_0303_321_050,prcDenoise,,apr,
+PIC_0303_321_050,prcNeat,,apr,
+PIC_0303_321_050,cam,,apr,
+PIC_0303_321_050,lay,,apr,
+PIC_0303_321_050,und,,apr,
+PIC_0303_321_050,prcRototest,,apr,
+PIC_0303_321_050,prcLensflares,,apr,
+PIC_0303_321_050,prcReflection,,apr,
+PIC_0303_321_050,prcBg,,apr,
+PIC_0303_321_050,prcVsgfx,,apr,
+PIC_0303_321_080,fx,FX,apr,Vlad Tushevskiy
+PIC_0303_321_080,comp,Comp,fin,Elizabeth Bodnar
+PIC_0303_321_080,anim,Animation,apr,"Rick Ramirez, Steve Graves"
+PIC_0303_321_080,light,Lighting/Rendering,apr,Jon Gourley
+PIC_0303_321_080,ltcompFx,Light Comp,apr,Vlad Tushevskiy
+PIC_0303_321_080,ltcomp,Light Comp,apr,Jon Gourley
+PIC_0303_321_080,plate,,apr,
+PIC_0303_321_080,ref,,apr,
+PIC_0303_321_080,trk,Tracking,apr,"VFX Tracking, yannix"
+PIC_0303_321_080,prcProxy,,apr,
+PIC_0303_321_080,roto,Roto,apr,rhinestoneVFX
+PIC_0303_321_080,pnt,Paint,apr,rhinestoneVFX
+PIC_0303_321_080,prcDenoise,,apr,
+PIC_0303_321_080,prcTestDenoise,,apr,
+PIC_0303_321_080,prcNeat,,apr,
+PIC_0303_321_080,cam,,apr,
+PIC_0303_321_080,lay,,apr,
+PIC_0303_321_080,und,,apr,
+PIC_0303_321_080,prcRototest,,apr,
+PIC_0303_321_080,prcMikeDtest,Precomps,apr,
+PIC_0303_321_080,prcNebulaTest,,apr,
+PIC_0303_321_080,prcLensflares,,apr,
+PIC_0303_321_080,prcBg,,apr,
+PIC_0303_321_080,prcReflections,,apr,
+PIC_0303_322_010,comp,Comp,fin,Javier Gallego
+PIC_0303_322_010,anim,Animation,apr,Jason Shulman
+PIC_0303_322_010,light,Lighting/Rendering,apr,"Forrest Arnold, Patricio Harris"
+PIC_0303_322_010,lightPrevis,Previsualization,apr,Steve Graves
+PIC_0303_322_010,animPrevis,Previsualization,apr,
+PIC_0303_322_010,fx,FX,apr,"Rick Ramirez, Vlad Tushevskiy"
+PIC_0303_322_010,fxPrevis,Previsualization,apr,
+PIC_0303_322_010,ltcomp,Light Comp,apr,"Forrest Arnold, Patricio Harris"
+PIC_0303_322_010,ltcompPrevis,Light Comp,apr,Steve Graves
+PIC_0303_322_010,ltcompFx,Light Comp,apr,"David Silva, Rick Ramirez, Val Kharitonashvili, Vlad Tushevskiy"
+PIC_0303_322_010,ltcompFxPrevis,Light Comp,apr,Steve Graves
+PIC_0303_322_010,ref,,apr,
+PIC_0303_322_010,exp,Exports,apr,
+PIC_0303_322_010,fxExplosion,FX,apr,"Val Kharitonashvili, Vlad Tushevskiy"
+PIC_0303_322_010,ltcompFxExplosion,Light Comp,apr,Vlad Tushevskiy
+PIC_0303_322_010,fxTorpedo,FX,apr,"David Silva, Vlad Tushevskiy"
+PIC_0303_322_010,ltcompFxTorpedo,Light Comp,apr,Vlad Tushevskiy
+PIC_0303_322_010,fxPhasers,FX,apr,"David Silva, Vlad Tushevskiy"
+PIC_0303_322_010,ltcompFxPhasers,Light Comp,apr,Vlad Tushevskiy
+PIC_0303_322_010,lightNebula,Lighting/Rendering,apr,Rick Ramirez
+PIC_0303_322_010,ltcompNebula,Light Comp,apr,Rick Ramirez
+PIC_0303_322_010,cam,,apr,
+PIC_0303_322_010,prcStars,,apr,
+PIC_0303_322_010,prcNebula,,apr,
+PIC_0303_322_010,prcFlare,,apr,
+PIC_0303_322_010,prcShips,,apr,
+PIC_0303_322_010,prcNebulabty,,apr,
+PIC_0303_322_010,prcEngineflare,,apr,
+PIC_0303_322_010,prcTest,,apr,
+PIC_0303_322_010,fxRRTest,,apr,
+PIC_0303_322_010,ltcompFxRRTest,Light Comp,apr,
+PIC_0303_322_010,prcTorpedo,,apr,
+PIC_0303_322_010,prcAtmo,,apr,
+PIC_0303_322_010,prcStarsbg,,apr,
+PIC_0303_322_010,prcExplosion,,apr,
+PIC_0303_322_010,prcShakewave,,apr,
+PIC_0303_322_010,prcExplosdistort,,apr,
+PIC_0303_322_010,prcTitanlightingflare,,apr,
+PIC_0303_322_010,prcWeightedblur,,apr,
+PIC_0303_322_010,prcComp4Flares,,apr,
+PIC_0303_322_010,prcExplo,,apr,
+PIC_0303_322_010,prcShokwave,,apr,
+PIC_0303_322_010,fxShield,FX,apr,David Silva
+PIC_0303_322_010,ltcompFxShield,Light Comp,apr,David Silva
+PIC_0303_322_010,fxShield,FX,apr,David Silva
+PIC_0303_322_010,lightShieldINT,Lighting/Rendering,apr,David Gutman
+PIC_0303_322_010,ltcompShieldINT,Light Comp,apr,David Gutman
+PIC_0303_322_010,prcComp4Flares2,,apr,
+PIC_0303_322_010,prcComp4Flares3,,apr,
+PIC_0303_322_010,prcLensdirt,,apr,
+PIC_0303_322_010,prcLensdirt,,apr,
+PIC_0303_322_010,prcComp4Flares4,,apr,
+PIC_0303_332_010,comp,Comp,fin,Erik O' Donnell
+PIC_0303_332_010,anim,Animation,apr,Jason Shulman
+PIC_0303_332_010,light,Lighting/Rendering,apr,Jonathan Bliss
+PIC_0303_332_010,compPrevis,Previsualization,apr,
+PIC_0303_332_010,lightPrevis,Previsualization,apr,
+PIC_0303_332_010,animPrevis,Previsualization,apr,
+PIC_0303_332_010,fx,FX,apr,"Rick Ramirez, Vlad Tushevskiy"
+PIC_0303_332_010,fxPrevis,Previsualization,apr,
+PIC_0303_332_010,ltcomp,Light Comp,apr,"Jonathan Bliss, Rick Ramirez"
+PIC_0303_332_010,ltcompPrevis,Light Comp,apr,Steve Graves
+PIC_0303_332_010,ltcompFx,Light Comp,apr,"Rick Ramirez, Vlad Tushevskiy"
+PIC_0303_332_010,ltcompFxPrevis,Light Comp,apr,Steve Graves
+PIC_0303_332_010,ref,,apr,
+PIC_0303_332_010,exp,Exports,apr,
+PIC_0303_332_010,lightNebula,Lighting/Rendering,apr,Rick Ramirez
+PIC_0303_332_010,ltcompNebula,Light Comp,apr,Rick Ramirez
+PIC_0303_332_010,cam,,apr,
+PIC_0303_332_010,prc,,apr,
+PIC_0303_332_010,fxRRTest,,apr,
+PIC_0303_332_010,ltcompFxRRTest,Light Comp,apr,
+PIC_0303_332_010,prcFog,,apr,
+PIC_0303_332_010,prcBg,,apr,
+PIC_0303_333_020,comp,Comp,fin,Alexis Tarakjian
+PIC_0303_333_020,fx,FX,apr,Vlad Tushevskiy
+PIC_0303_333_020,anim,Animation,apr,Dustin Adair
+PIC_0303_333_020,light,Lighting/Rendering,apr,Jon Gourley
+PIC_0303_333_020,ltcompFx,Light Comp,apr,Vlad Tushevskiy
+PIC_0303_333_020,ltcomp,Light Comp,apr,Jon Gourley
+PIC_0303_333_020,plate,,apr,
+PIC_0303_333_020,ref,,apr,
+PIC_0303_333_020,trk,Tracking,apr,"VFX Tracking, yannix"
+PIC_0303_333_020,prcProxy,,apr,
+PIC_0303_333_020,roto,Roto,apr,rhinestoneVFX
+PIC_0303_333_020,pnt,Paint,apr,rhinestoneVFX
+PIC_0303_333_020,prcDenoise,,apr,
+PIC_0303_333_020,prcRotoref,,apr,
+PIC_0303_333_020,cam,,apr,
+PIC_0303_333_020,lay,,apr,
+PIC_0303_333_020,und,,apr,
+PIC_0303_333_020,exp,Exports,apr,
+PIC_0303_333_020,prcDenoise,,apr,
+PIC_0303_333_020,lightNebula,,apr,
+PIC_0303_333_020,ltcompNebula,Light Comp,apr,
+PIC_0303_333_020,prcStars,,apr,
+PIC_0303_333_020,prcNebula,,apr,
+PIC_0303_334_010,comp,Comp,fin,Erik O' Donnell
+PIC_0303_334_010,anim,Animation,apr,Jason Shulman
+PIC_0303_334_010,light,Lighting/Rendering,apr,Jon Gourley
+PIC_0303_334_010,compPrevis,Previsualization,apr,
+PIC_0303_334_010,lightPrevis,Previsualization,apr,
+PIC_0303_334_010,animPrevis,Previsualization,apr,
+PIC_0303_334_010,fx,FX,apr,"Rick Ramirez, Vlad Tushevskiy"
+PIC_0303_334_010,fxPrevis,Previsualization,apr,
+PIC_0303_334_010,ltcomp,Light Comp,apr,"Jon Gourley, Rick Ramirez"
+PIC_0303_334_010,ltcompPrevis,Light Comp,apr,Steve Graves
+PIC_0303_334_010,ltcompFx,Light Comp,apr,"Bruce Coy, Rick Ramirez, Vlad Tushevskiy"
+PIC_0303_334_010,ltcompFxPrevis,Light Comp,apr,Steve Graves
+PIC_0303_334_010,ref,,apr,
+PIC_0303_334_010,exp,Exports,apr,
+PIC_0303_334_010,lightNebula,Lighting/Rendering,apr,Rick Ramirez
+PIC_0303_334_010,ltcompNebula,Light Comp,apr,Rick Ramirez
+PIC_0303_334_010,cam,,apr,
+PIC_0303_334_010,prc,,apr,
+PIC_0303_334_010,fxRRTest,,apr,
+PIC_0303_334_010,ltcompFxRRTest,Light Comp,apr,
+PIC_0303_334_010,prcPreCam,,apr,
+PIC_0303_334_010,fxInteractiveNebula,FX,apr,Bruce Coy
+PIC_0303_334_010,ltcompFxInteractiveNebula,Light Comp,apr,Bruce Coy
+PIC_0303_334_010,prcTitan,,apr,
+PIC_0303_334_010,prcShrike,,apr,
+PIC_0303_337_005,fx,FX,apr,Vlad Tushevskiy
+PIC_0303_337_005,comp,Comp,fin,Peter Herlein
+PIC_0303_337_005,anim,Animation,apr,Jason Shulman
+PIC_0303_337_005,light,Lighting/Rendering,apr,"Chris Pierz, David Gutman"
+PIC_0303_337_005,ltcompFx,Light Comp,apr,"Bruce Coy, Vlad Tushevskiy"
+PIC_0303_337_005,ltcomp,Light Comp,apr,"Chris Pierz, David Gutman, Rick Ramirez"
+PIC_0303_337_005,ref,,apr,
+PIC_0303_337_005,fxPortal,FX,apr,Vlad Tushevskiy
+PIC_0303_337_005,ltcompFxPortal,Light Comp,apr,Vlad Tushevskiy
+PIC_0303_337_005,camB,,apr,
+PIC_0303_337_005,exp,Exports,apr,
+PIC_0303_337_005,fxPortalWeapon,FX,apr,Vlad Tushevskiy
+PIC_0303_337_005,ltcompFxPortalWeapon,Light Comp,apr,Vlad Tushevskiy
+PIC_0303_337_005,lightNebula,Lighting/Rendering,apr,Rick Ramirez
+PIC_0303_337_005,ltcompNebula,Light Comp,apr,Rick Ramirez
+PIC_0303_337_005,cam,,apr,
+PIC_0303_337_005,fxRRTest,,apr,
+PIC_0303_337_005,ltcompFxRRTest,Light Comp,apr,
+PIC_0303_337_005,prcStarfield,,apr,
+PIC_0303_337_005,prcPortalBeams,Precomps,apr,Slava Ponomarev
+PIC_0303_337_005,prcLightningTest,,apr,
+PIC_0303_337_005,fxPortalWeaponRays,FX,apr,"Bruce Coy, Vlad Tushevskiy"
+PIC_0303_337_005,ltcompFxPortalWeaponRays,Light Comp,apr,"Bruce Coy, Vlad Tushevskiy"
+PIC_0303_337_005,prcPortalweaponall,,apr,
+PIC_0303_337_005,prcFlareportalguna,,apr,
+PIC_0303_337_005,prcFlareportalgunb,,apr,
+PIC_0303_337_005,prcPortal,,apr,
+PIC_0303_337_005,prcComppreflares,,apr,
+PIC_0303_337_005,prcNebula,,apr,
+PIC_0303_337_010,comp,Comp,fin,Peter Herlein
+PIC_0303_337_010,anim,Animation,apr,Jason Shulman
+PIC_0303_337_010,light,Lighting/Rendering,apr,"Chris Pierz, David Gutman"
+PIC_0303_337_010,compPrevis,Previsualization,apr,
+PIC_0303_337_010,lightPrevis,Previsualization,apr,
+PIC_0303_337_010,animPrevis,Previsualization,apr,
+PIC_0303_337_010,fx,FX,apr,"Rick Ramirez, Vlad Tushevskiy"
+PIC_0303_337_010,fxPrevis,Previsualization,apr,
+PIC_0303_337_010,ltcomp,Light Comp,apr,"Chris Pierz, David Gutman, Rick Ramirez"
+PIC_0303_337_010,ltcompPrevis,Light Comp,apr,Steve Graves
+PIC_0303_337_010,ltcompFx,Light Comp,apr,"Bruce Coy, Rick Ramirez, Vlad Tushevskiy"
+PIC_0303_337_010,ltcompFxPrevis,Light Comp,apr,Steve Graves
+PIC_0303_337_010,ref,,apr,
+PIC_0303_337_010,fxPortal,FX,apr,Vlad Tushevskiy
+PIC_0303_337_010,ltcompFxPortal,Light Comp,apr,Vlad Tushevskiy
+PIC_0303_337_010,fxPortalWeapon,FX,apr,Vlad Tushevskiy
+PIC_0303_337_010,ltcompFxPortalWeapon,Light Comp,apr,Vlad Tushevskiy
+PIC_0303_337_010,lightNebula,Lighting/Rendering,apr,Rick Ramirez
+PIC_0303_337_010,ltcompNebula,Light Comp,apr,Rick Ramirez
+PIC_0303_337_010,exp,Exports,apr,
+PIC_0303_337_010,cam,,apr,
+PIC_0303_337_010,prcStarfield,,apr,
+PIC_0303_337_010,fxRRTest,,apr,
+PIC_0303_337_010,ltcompFxRRTest,Light Comp,apr,
+PIC_0303_337_010,prcPortalBeem,Precomps,apr,Slava Ponomarev
+PIC_0303_337_010,prcLightning,,apr,
+PIC_0303_337_010,prcLightningTest,,apr,
+PIC_0303_337_010,fxPortalWeaponRays,FX,apr,"Bruce Coy, Vlad Tushevskiy"
+PIC_0303_337_010,ltcompFxPortalWeaponRays,Light Comp,apr,"Bruce Coy, Vlad Tushevskiy"
+PIC_0303_337_010,prcShriketips,,apr,
+PIC_0303_337_010,prcMirrorflaredirt,,apr,
+PIC_0303_337_010,prcNebula,,apr,
+PIC_0303_337_020,fx,FX,apr,Vlad Tushevskiy
+PIC_0303_337_020,comp,Comp,fin,Peter Herlein
+PIC_0303_337_020,anim,Animation,apr,Jason Shulman
+PIC_0303_337_020,light,Lighting/Rendering,apr,"Chris Pierz, David Gutman"
+PIC_0303_337_020,ltcompFx,Light Comp,apr,Vlad Tushevskiy
+PIC_0303_337_020,ltcomp,Light Comp,apr,"Chris Pierz, David Gutman, Rick Ramirez"
+PIC_0303_337_020,ref,,apr,
+PIC_0303_337_020,exp,Exports,apr,
+PIC_0303_337_020,camD,,apr,
+PIC_0303_337_020,fxPortal,FX,apr,Vlad Tushevskiy
+PIC_0303_337_020,ltcompFxPortal,Light Comp,apr,Vlad Tushevskiy
+PIC_0303_337_020,camF,,apr,
+PIC_0303_337_020,lightNebula,Lighting/Rendering,apr,Rick Ramirez
+PIC_0303_337_020,ltcompNebula,Light Comp,apr,Rick Ramirez
+PIC_0303_337_020,fxTest,FX,apr,Mike Krueger
+PIC_0303_337_020,ltcompFxTest,Light Comp,apr,Mike Krueger
+PIC_0303_337_020,prcStarfield,,apr,
+PIC_0303_337_020,fxRRTest,,apr,
+PIC_0303_337_020,ltcompFxRRTest,Light Comp,apr,
+PIC_0303_337_020,prcTestLightning,,apr,
+PIC_0303_337_020,prcPortal,,apr,
+PIC_0303_337_020,prcDenoise,,apr,
+PIC_0303_337_020,prcNebula,,apr,
+PIC_0303_337_050,fx,FX,apr,Vlad Tushevskiy
+PIC_0303_337_050,comp,Comp,fin,Alexis Tarakjian
+PIC_0303_337_050,anim,Animation,apr,Dustin Adair
+PIC_0303_337_050,light,Lighting/Rendering,apr,"Forrest Arnold, Patricio Harris"
+PIC_0303_337_050,ltcompFx,Light Comp,apr,Vlad Tushevskiy
+PIC_0303_337_050,ltcomp,Light Comp,apr,"Forrest Arnold, Patricio Harris"
+PIC_0303_337_050,plate,,apr,
+PIC_0303_337_050,ref,,apr,
+PIC_0303_337_050,trk,Tracking,apr,"VFX Tracking, yannix"
+PIC_0303_337_050,prcProxy,,apr,
+PIC_0303_337_050,roto,Roto,apr,rhinestoneVFX
+PIC_0303_337_050,pnt,Paint,apr,rhinestoneVFX
+PIC_0303_337_050,prcDenoise,,apr,
+PIC_0303_337_050,prcRotoref,,apr,
+PIC_0303_337_050,cam,,apr,
+PIC_0303_337_050,lay,,apr,
+PIC_0303_337_050,und,,apr,
+PIC_0303_337_050,exp,Exports,apr,
+PIC_0303_337_050,prcDenoise,,apr,
+PIC_0303_337_050,lightNebula,,apr,
+PIC_0303_337_050,ltcompNebula,Light Comp,apr,
+PIC_0303_337_050,prcStars,,apr,
+PIC_0303_337_050,prcNebula,,apr,
+PIC_0303_337_050,prcGlitch,,apr,
+PIC_0303_337_050,prcKey,,apr,
+PIC_0303_340_010,comp,Comp,fin,Javier Gallego
+PIC_0303_340_010,anim,Animation,apr,Jason Shulman
+PIC_0303_340_010,light,Lighting/Rendering,apr,"Forrest Arnold, Patricio Harris"
+PIC_0303_340_010,compPrevis,Previsualization,apr,
+PIC_0303_340_010,lightPrevis,Previsualization,apr,
+PIC_0303_340_010,animPrevis,Previsualization,apr,
+PIC_0303_340_010,fx,FX,apr,"Rick Ramirez, Vlad Tushevskiy"
+PIC_0303_340_010,fxPrevis,Previsualization,apr,
+PIC_0303_340_010,ltcomp,Light Comp,apr,"Forrest Arnold, Patricio Harris"
+PIC_0303_340_010,ltcompPrevis,Light Comp,apr,Steve Graves
+PIC_0303_340_010,ltcompFx,Light Comp,apr,"Bruce Coy, David Silva, Rick Ramirez, Val Kharitonashvili, Vlad Tushevskiy"
+PIC_0303_340_010,ltcompFxPrevis,Light Comp,apr,Steve Graves
+PIC_0303_340_010,ref,,apr,
+PIC_0303_340_010,exp,Exports,apr,
+PIC_0303_340_010,fxExplosion,FX,apr,"Val Kharitonashvili, Vlad Tushevskiy"
+PIC_0303_340_010,ltcompFxExplosion,Light Comp,apr,Vlad Tushevskiy
+PIC_0303_340_010,fxLasers,FX,rdcmpl,"David Silva, Vlad Tushevskiy"
+PIC_0303_340_010,ltcompFxLasers,Light Comp,apr,Vlad Tushevskiy
+PIC_0303_340_010,lightNebula,Lighting/Rendering,apr,Rick Ramirez
+PIC_0303_340_010,ltcompNebula,Light Comp,apr,Rick Ramirez
+PIC_0303_340_010,cam,,apr,
+PIC_0303_340_010,prcStars,,apr,
+PIC_0303_340_010,prcNebula,,apr,
+PIC_0303_340_010,fxRRTest,,apr,
+PIC_0303_340_010,ltcompFxRRTest,Light Comp,apr,
+PIC_0303_340_010,fxInteractiveNebula,FX,apr,"Bruce Coy, Vlad Tushevskiy"
+PIC_0303_340_010,ltcompFxInteractiveNebula,Light Comp,apr,Bruce Coy
+PIC_0303_340_010,prcTest,,apr,
+PIC_0303_340_010,prcNebulabty,,apr,
+PIC_0303_340_010,prcShip,,apr,
+PIC_0303_340_010,prcAtmobty,,apr,
+PIC_0303_340_010,prcShriketorpedo,,apr,
+PIC_0303_340_010,prcPyro,,apr,
+PIC_0303_340_010,prcFlare,,apr,
+PIC_0303_340_010,prcAtmosphericfog,,apr,
+PIC_0303_340_010,prcSkystars,,apr,
+PIC_0303_340_010,prcNebulalightning,,apr,
+PIC_0303_340_010,prcWeightedblurflares,,apr,
+PIC_0303_340_010,prcComp4Flares,,apr,
+PIC_0303_340_010,lightTorpedo,Lighting/Rendering,apr,Yinglei Yang
+PIC_0303_340_010,ltcompTorpedo,Light Comp,apr,Yinglei Yang
+PIC_0303_340_010,fxShield,FX,apr,David Silva
+PIC_0303_340_010,ltcompFxShield,Light Comp,apr,David Silva
+PIC_0303_340_010,fxShield,FX,apr,David Silva
+PIC_0303_340_010,lightShieldINT,Lighting/Rendering,apr,David Gutman
+PIC_0303_340_010,ltcompShieldINT,Light Comp,apr,David Gutman
+PIC_0303_340_010,prcShieldfx,,apr,
+PIC_0303_340_010,prcShieldfx2,,apr,
+PIC_0303_365_020,fx,FX,apr,Vlad Tushevskiy
+PIC_0303_365_020,comp,Comp,fin,Alexis Tarakjian
+PIC_0303_365_020,anim,Animation,apr,Dustin Adair
+PIC_0303_365_020,light,Lighting/Rendering,apr,Jon Gourley
+PIC_0303_365_020,ltcompFx,Light Comp,apr,Vlad Tushevskiy
+PIC_0303_365_020,ltcomp,Light Comp,apr,Jon Gourley
+PIC_0303_365_020,plate,,apr,
+PIC_0303_365_020,ref,,apr,
+PIC_0303_365_020,trk,Tracking,apr,"VFX Tracking, yannix"
+PIC_0303_365_020,prcProxy,,apr,
+PIC_0303_365_020,roto,Roto,apr,rhinestoneVFX
+PIC_0303_365_020,pnt,Paint,apr,rhinestoneVFX
+PIC_0303_365_020,prcDenoise,,apr,
+PIC_0303_365_020,cam,,apr,
+PIC_0303_365_020,lay,,apr,
+PIC_0303_365_020,und,,apr,
+PIC_0303_365_020,prcRotoref,,apr,
+PIC_0303_365_020,exp,Exports,apr,
+PIC_0303_365_020,prcTracktest,,apr,
+PIC_0303_365_020,prcDenoise,,apr,
+PIC_0303_365_020,lightNebula,,apr,
+PIC_0303_365_020,ltcompNebula,Light Comp,apr,
+PIC_0303_365_020,prcStars,,apr,
+PIC_0303_365_020,prcBg,,apr,
+PIC_0303_366_010,comp,Comp,fin,Peter Herlein
+PIC_0303_366_010,anim,Animation,apr,Jason Shulman
+PIC_0303_366_010,light,Lighting/Rendering,apr,Jonathan Bliss
+PIC_0303_366_010,compPrevis,Previsualization,apr,
+PIC_0303_366_010,lightPrevis,Previsualization,apr,
+PIC_0303_366_010,animPrevis,Previsualization,apr,
+PIC_0303_366_010,fx,FX,apr,"Rick Ramirez, Vlad Tushevskiy"
+PIC_0303_366_010,fxPrevis,Previsualization,apr,
+PIC_0303_366_010,ltcomp,Light Comp,apr,"Daniel Fazel, David Gutman, Jonathan Bliss, Rick Ramirez"
+PIC_0303_366_010,ltcompPrevis,Light Comp,apr,Steve Graves
+PIC_0303_366_010,ltcompFx,Light Comp,apr,"Bruce Coy, David Silva, Rick Ramirez, Slava Ponomarev, Vlad Tushevskiy"
+PIC_0303_366_010,ltcompFxPrevis,Light Comp,apr,Steve Graves
+PIC_0303_366_010,ref,,apr,
+PIC_0303_366_010,exp,Exports,apr,
+PIC_0303_366_010,camG,,apr,
+PIC_0303_366_010,fxPortal,FX,apr,Vlad Tushevskiy
+PIC_0303_366_010,ltcompFxPortal,Light Comp,apr,Vlad Tushevskiy
+PIC_0303_366_010,fxTorpedos,FX,apr,"David Silva, Vlad Tushevskiy"
+PIC_0303_366_010,ltcompFxTorpedos,Light Comp,apr,Vlad Tushevskiy
+PIC_0303_366_010,fxPortalWeapon,FX,apr,Vlad Tushevskiy
+PIC_0303_366_010,ltcompFxPortalWeapon,Light Comp,apr,Vlad Tushevskiy
+PIC_0303_366_010,lightNebula,Lighting/Rendering,apr,"Daniel Fazel, David Gutman, Rick Ramirez"
+PIC_0303_366_010,ltcompNebula,Light Comp,apr,"Daniel Fazel, Rick Ramirez"
+PIC_0303_366_010,cam,,apr,
+PIC_0303_366_010,prcTest,,apr,
+PIC_0303_366_010,fxRRTest,,apr,
+PIC_0303_366_010,ltcompFxRRTest,Light Comp,apr,
+PIC_0303_366_010,prcTorpedo,Precomps,apr,Slava Ponomarev
+PIC_0303_366_010,prcPortalBeam,Precomps,apr,Slava Ponomarev
+PIC_0303_366_010,fxPortalBeams,Precomps,apr,Slava Ponomarev
+PIC_0303_366_010,ltcompFxPortalBeams,Light Comp,apr,Slava Ponomarev
+PIC_0303_366_010,fxPortalWeaponRays,FX,apr,"Bruce Coy, Vlad Tushevskiy"
+PIC_0303_366_010,ltcompFxPortalWeaponRays,Light Comp,apr,"Bruce Coy, Vlad Tushevskiy"
+PIC_0303_366_010,prcTorpedoes,,apr,
+PIC_0303_366_010,prcTorpedostitana,,wtg,
+PIC_0303_366_010,prcTorpedotitana,,wtg,
+PIC_0303_368_010,comp,Comp,fin,Peter Herlein
+PIC_0303_368_010,light,Lighting/Rendering,apr,Jonathan Bliss
+PIC_0303_368_010,compPrevis,Previsualization,apr,
+PIC_0303_368_010,lightPrevis,Previsualization,apr,
+PIC_0303_368_010,animPrevis,Previsualization,apr,
+PIC_0303_368_010,fx,FX,apr,"Rick Ramirez, Vlad Tushevskiy"
+PIC_0303_368_010,fxPrevis,Previsualization,apr,
+PIC_0303_368_010,ltcomp,Light Comp,apr,"Daniel Fazel, David Gutman, Jonathan Bliss, Rick Ramirez"
+PIC_0303_368_010,ltcompPrevis,Light Comp,apr,Steve Graves
+PIC_0303_368_010,ltcompFx,Light Comp,apr,"David Silva, Rick Ramirez, Val Kharitonashvili, Vlad Tushevskiy"
+PIC_0303_368_010,ltcompFxPrevis,Light Comp,apr,Steve Graves
+PIC_0303_368_010,ref,,apr,
+PIC_0303_368_010,anim,Animation,apr,Jason Shulman
+PIC_0303_368_010,exp,Exports,apr,
+PIC_0303_368_010,fxPortal,FX,apr,Vlad Tushevskiy
+PIC_0303_368_010,ltcompFxPortal,Light Comp,apr,Vlad Tushevskiy
+PIC_0303_368_010,fxExplosion,FX,apr,"Val Kharitonashvili, Vlad Tushevskiy"
+PIC_0303_368_010,ltcompFxExplosion,Light Comp,apr,Vlad Tushevskiy
+PIC_0303_368_010,fxTorpedo,FX,rdcmpl,"David Silva, Vlad Tushevskiy"
+PIC_0303_368_010,ltcompFxTorpedo,Light Comp,apr,Vlad Tushevskiy
+PIC_0303_368_010,lightNebula,Lighting/Rendering,apr,"Daniel Fazel, David Gutman, Rick Ramirez"
+PIC_0303_368_010,ltcompNebula,Light Comp,apr,"Daniel Fazel, Rick Ramirez"
+PIC_0303_368_010,cam,,apr,
+PIC_0303_368_010,prcTest,,apr,
+PIC_0303_368_010,fxRRTest,,apr,
+PIC_0303_368_010,ltcompFxRRTest,Light Comp,apr,
+PIC_0303_368_010,prcLightningtest,,apr,
+PIC_0303_368_010,prcTorpedo,,apr,
+PIC_0303_368_010,prcNebulacctest,,apr,
+PIC_0303_368_010,fxShield,FX,apr,David Silva
+PIC_0303_368_010,ltcompFxShield,Light Comp,apr,David Silva
+PIC_0303_368_010,fxShield,FX,apr,David Silva
+PIC_0303_368_010,prcNacelles,,apr,
+PIC_0303_368_010,prcPortal,,apr,
+PIC_0303_368_010,lightShieldINT,Lighting/Rendering,apr,David Gutman
+PIC_0303_368_010,ltcompShieldINT,Light Comp,apr,David Gutman
+PIC_0303_368_010,prcComp,,apr,
+PIC_0303_368_010,prcExplosion,,apr,
+PIC_0303_368_010,prcTitan,,apr,
+PIC_0303_373_010,comp,Comp,fin,Javier Gallego
+PIC_0303_373_010,anim,Animation,apr,Dustin Adair
+PIC_0303_373_010,light,Lighting/Rendering,apr,"Forrest Arnold, Patricio Harris"
+PIC_0303_373_010,compPrevis,Previsualization,apr,
+PIC_0303_373_010,lightPrevis,Previsualization,apr,
+PIC_0303_373_010,animPrevis,Previsualization,apr,
+PIC_0303_373_010,fx,FX,apr,"Rick Ramirez, Vlad Tushevskiy"
+PIC_0303_373_010,fxPrevis,Previsualization,apr,
+PIC_0303_373_010,ltcomp,Light Comp,apr,"Forrest Arnold, Patricio Harris"
+PIC_0303_373_010,ltcompPrevis,Light Comp,apr,Steve Graves
+PIC_0303_373_010,ltcompFx,Light Comp,apr,"David Silva, Rick Ramirez, Vlad Tushevskiy"
+PIC_0303_373_010,ltcompFxPrevis,Light Comp,apr,Steve Graves
+PIC_0303_373_010,ref,,apr,
+PIC_0303_373_010,fxSparks,FX,apr,"David Silva, Vlad Tushevskiy"
+PIC_0303_373_010,ltcompFxSparks,Light Comp,apr,Vlad Tushevskiy
+PIC_0303_373_010,lightNebula,Lighting/Rendering,apr,Rick Ramirez
+PIC_0303_373_010,ltcompNebula,Light Comp,apr,Rick Ramirez
+PIC_0303_373_010,camA,,apr,
+PIC_0303_373_010,cam,,apr,
+PIC_0303_373_010,exp,Exports,apr,
+PIC_0303_373_010,fxRRTest,,apr,
+PIC_0303_373_010,ltcompFxRRTest,Light Comp,apr,
+PIC_0303_373_010,prcSkystars,,apr,
+PIC_0303_373_010,prcShip,,apr,
+PIC_0303_373_010,prcNebulabty,,apr,
+PIC_0303_373_010,prcAtmobty,,apr,
+PIC_0303_373_010,prcSparksilbty,,apr,
+PIC_0303_373_010,prcLensdirt,,apr,
+PIC_0303_373_010,prcNebula,,apr,
+PIC_0303_373_010,prcStars,,apr,
+PIC_0303_373_010,prcAtmosphericfog,,apr,
+PIC_0303_373_010,prcNebulatst,,apr,
+PIC_0303_373_010,prcNebulalightning,,apr,
+PIC_0303_373_010,prcTest,,apr,
+PIC_0303_373_010,prcAsteroid,,apr,
+PIC_0303_373_010,prcComp4Flares,,apr,
+PIC_0303_373_010,prcShip2,,apr,
+PIC_0303_373_010,prcComp4Flares2,,apr,
+PIC_0303_373_010,prcComp4Flares3,,apr,
+PIC_0303_373_010,prcComp4Flares3,,apr,
+PIC_0304_404_005,fx,FX,apr,Vlad Tushevskiy
+PIC_0304_404_005,comp,Comp,fin,Daniel Flores
+PIC_0304_404_005,anim,Animation,apr,
+PIC_0304_404_005,light,Lighting/Rendering,apr,"Chris Pierz, David Gutman"
+PIC_0304_404_005,ltcompFx,Light Comp,apr,Vlad Tushevskiy
+PIC_0304_404_005,ltcomp,Light Comp,apr,"Chris Pierz, Daniel Fazel, David Gutman, Yinglei Yang"
+PIC_0304_404_005,plate,,apr,
+PIC_0304_404_005,ref,,apr,
+PIC_0304_404_005,roto,Roto,apr,rhinestoneVFX
+PIC_0304_404_005,trk,Tracking,apr,"VFX Tracking, yannix"
+PIC_0304_404_005,prcProxy,,apr,
+PIC_0304_404_005,pnt,Paint,apr,rhinestoneVFX
+PIC_0304_404_005,cam,,apr,
+PIC_0304_404_005,lay,,apr,
+PIC_0304_404_005,und,,apr,
+PIC_0304_404_005,prcDenoise,,apr,
+PIC_0304_404_005,layNebula,Layout,apr,Rick Ramirez
+PIC_0304_404_005,trkNebula,Tracking,apr,Rick Ramirez
+PIC_0304_404_005,lightNebula,Light Comp,apr,"Daniel Fazel, Yinglei Yang"
+PIC_0304_404_005,ltcompNebula,Light Comp,apr,"Daniel Fazel, Yinglei Yang"
+PIC_0304_404_005,prcMikeDemo,Precomps,apr,Michael De Lorenzo
+PIC_0304_404_005,prcMikeDTestingPrecomps,,apr,
+PIC_0304_404_005,prcNebulaBg,,apr,
+PIC_0304_404_005,prcPrefgV01,,apr,
+PIC_0304_404_005,prcMikeDTest,Precomps,apr,
+PIC_0304_404_010,animPrevis,Animation,apr,
+PIC_0304_404_010,fx,FX,apr,Vlad Tushevskiy
+PIC_0304_404_010,comp,Comp,fin,Heather Fetter
+PIC_0304_404_010,anim,Animation,apr,Jason Shulman
+PIC_0304_404_010,light,Lighting/Rendering,apr,"Chris Pierz, David Gutman"
+PIC_0304_404_010,ltcompFx,Light Comp,apr,"David Silva, Rick Ramirez, Vlad Tushevskiy"
+PIC_0304_404_010,ltcomp,Light Comp,apr,"Chris Pierz, David Gutman, Yinglei Yang"
+PIC_0304_404_010,exp,Exports,apr,
+PIC_0304_404_010,ref,Reference,apr,
+PIC_0304_404_010,camA,,apr,
+PIC_0304_404_010,fxAsteroidDestruction,FX,rdcmpl,David Silva
+PIC_0304_404_010,ltcompFxAsteroidDestruction,Light Comp,apr,David Silva
+PIC_0304_404_010,cam,,apr,
+PIC_0304_404_010,fxBeam,FX,apr,"David Silva, Vlad Tushevskiy"
+PIC_0304_404_010,ltcompFxBeam,Light Comp,apr,"David Silva, Vlad Tushevskiy"
+PIC_0304_404_010,fxNebula,FX,apr,Rick Ramirez
+PIC_0304_404_010,ltcompFxNebula,Light Comp,apr,Rick Ramirez
+PIC_0304_404_010,layNebula,Layout,apr,Rick Ramirez
+PIC_0304_404_010,trkNebula,Tracking,apr,Rick Ramirez
+PIC_0304_404_010,lightNebula,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_404_010,ltcompNebula,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_404_010,Lightning,,apr,
+PIC_0304_404_010,fxtrails,FX,apr,"David Silva, Vlad Tushevskiy"
+PIC_0304_404_010,fxShield,FX,apr,David Silva
+PIC_0304_404_010,ltcompFxShield,Light Comp,apr,David Silva
+PIC_0304_404_010,lightShieldINT,Lighting/Rendering,apr,David Gutman
+PIC_0304_404_010,ltcompShieldINT,Light Comp,apr,David Gutman
+PIC_0304_404_010,prcMikeDtest,Precomps,apr,
+PIC_0304_405_080,comp,Comp,fin,Jacob Coy
+PIC_0304_405_080,anim,Animation,apr,
+PIC_0304_405_080,light,Lighting/Rendering,apr,Jon Gourley
+PIC_0304_405_080,fx,FX,apr,Vlad Tushevskiy
+PIC_0304_405_080,ltcomp,Light Comp,apr,"David Gutman, Jon Gourley, Yinglei Yang"
+PIC_0304_405_080,ltcompFx,Light Comp,apr,Vlad Tushevskiy
+PIC_0304_405_080,plate,,apr,
+PIC_0304_405_080,ref,,apr,
+PIC_0304_405_080,roto,Roto,apr,rhinestoneVFX
+PIC_0304_405_080,trk,Tracking,apr,"VFX Tracking, yannix"
+PIC_0304_405_080,prcProxy,,apr,
+PIC_0304_405_080,pnt,Paint,apr,rhinestoneVFX
+PIC_0304_405_080,prcRotoref,,apr,
+PIC_0304_405_080,cam,,apr,
+PIC_0304_405_080,lay,,apr,
+PIC_0304_405_080,und,,apr,
+PIC_0304_405_080,prcDenoise,,apr,
+PIC_0304_405_080,layNebula,Layout,apr,Rick Ramirez
+PIC_0304_405_080,trkNebula,Tracking,apr,Rick Ramirez
+PIC_0304_405_080,lightNebula,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_405_080,ltcompNebula,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_422_010,animPrevis,Animation,apr,Jason Shulman
+PIC_0304_422_010,fx,FX,apr,Vlad Tushevskiy
+PIC_0304_422_010,comp,Comp,fin,Jacob Coy
+PIC_0304_422_010,anim,Animation,apr,Jason Shulman
+PIC_0304_422_010,light,Lighting/Rendering,apr,"Forrest Arnold, Patricio Harris"
+PIC_0304_422_010,ltcompFx,Light Comp,apr,"Bruce Coy, Vlad Tushevskiy"
+PIC_0304_422_010,ltcomp,Light Comp,apr,"Forrest Arnold, Patricio Harris"
+PIC_0304_422_010,ref,Reference,apr,
+PIC_0304_422_010,ltcompFxInteractiveNebula,FX,apr,"Bruce Coy, Vlad Tushevskiy"
+PIC_0304_422_010,exp,Exports,apr,
+PIC_0304_422_010,cam,,apr,
+PIC_0304_422_010,layNebula,Layout,apr,Rick Ramirez
+PIC_0304_422_010,trkNebula,Tracking,apr,Rick Ramirez
+PIC_0304_422_010,lightNebula,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_422_010,ltcompNebula,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_422_010,fxInteractiveNebulas,FX,apr,"Bruce Coy, Vlad Tushevskiy"
+PIC_0304_422_010,ltcompFxInteractiveNebulas,Light Comp,apr,"Bruce Coy, Vlad Tushevskiy"
+PIC_0304_422_010,prcLdev,Precomps,apr,Ryan Smolarek
+PIC_0304_422_010,tomaya,,apr,
+PIC_0304_422_010,prcBgPc,,apr,
+PIC_0304_422_010,prcProxy,,apr,
+PIC_0304_422_010,prcShipBeg,,apr,
+PIC_0304_423_010,fx,FX,apr,"Rick Ramirez, Vlad Tushevskiy"
+PIC_0304_423_010,comp,Comp,fin,Jacob Coy
+PIC_0304_423_010,anim,Animation,apr,Jason Shulman
+PIC_0304_423_010,light,Lighting/Rendering,apr,Yinglei Yang
+PIC_0304_423_010,ltcompFx,Light Comp,apr,"David Silva, Rick Ramirez, Vlad Tushevskiy"
+PIC_0304_423_010,ltcomp,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_423_010,ref,Reference,apr,
+PIC_0304_423_010,fxDebris,FX,apr,"David Silva, Vlad Tushevskiy"
+PIC_0304_423_010,ltcompFxDebris,Light Comp,apr,David Silva
+PIC_0304_423_010,cam,,apr,
+PIC_0304_423_010,exp,Exports,apr,
+PIC_0304_423_010,layNebula,Layout,apr,Rick Ramirez
+PIC_0304_423_010,trkNebula,Tracking,apr,Rick Ramirez
+PIC_0304_423_010,lightNebula,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_423_010,ltcompNebula,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_423_010,prcLdev,Precomps,apr,Ryan Smolarek
+PIC_0304_423_010,prcBgNebula,,apr,
+PIC_0304_432_010,fx,FX,apr,Vlad Tushevskiy
+PIC_0304_432_010,comp,Comp,fin,Slava Ponomarev
+PIC_0304_432_010,anim,Animation,apr,Jason Shulman
+PIC_0304_432_010,light,Lighting/Rendering,apr,"Chris Pierz, David Gutman"
+PIC_0304_432_010,ltcompFx,Light Comp,apr,Vlad Tushevskiy
+PIC_0304_432_010,ltcomp,Light Comp,apr,"Chris Pierz, David Gutman, Yinglei Yang"
+PIC_0304_432_010,camA,,apr,
+PIC_0304_432_010,camD,,apr,
+PIC_0304_432_010,exp,Exports,apr,
+PIC_0304_432_010,ref,Reference,apr,
+PIC_0304_432_010,cam,,apr,
+PIC_0304_432_010,layNebula,Layout,apr,Rick Ramirez
+PIC_0304_432_010,trkNebula,Tracking,apr,Rick Ramirez
+PIC_0304_432_010,lightNebula,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_432_010,ltcompNebula,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_432_010,prc,,apr,
+PIC_0304_432_010,prcNewlightning,,apr,
+PIC_0304_447_010,fx,FX,apr,Vlad Tushevskiy
+PIC_0304_447_010,comp,Comp,fin,Slava Ponomarev
+PIC_0304_447_010,anim,Animation,apr,Jason Shulman
+PIC_0304_447_010,light,Lighting/Rendering,apr,Yinglei Yang
+PIC_0304_447_010,ltcompFx,Light Comp,apr,"Andrei Orehov, Bruce Coy, Rick Ramirez, Vlad Tushevskiy"
+PIC_0304_447_010,ltcomp,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_447_010,ref,Reference,apr,
+PIC_0304_447_010,fxNebula,FX,apr,"Rick Ramirez, Vlad Tushevskiy"
+PIC_0304_447_010,ltcompFxNebula,Light Comp,apr,Vlad Tushevskiy
+PIC_0304_447_010,exp,Exports,apr,
+PIC_0304_447_010,cam,,apr,
+PIC_0304_447_010,layNebula,Layout,apr,Rick Ramirez
+PIC_0304_447_010,trkNebula,Tracking,apr,Rick Ramirez
+PIC_0304_447_010,lightNebula,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_447_010,ltcompNebula,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_447_010,Lightning,,apr,
+PIC_0304_447_010,prc,,apr,
+PIC_0304_447_010,prcNewlightnings,,apr,
+PIC_0304_447_010,fxThrusters,FX,apr,"Andrei Orehov, Bruce Coy"
+PIC_0304_447_010,ltcompFxThrusters,Light Comp,apr,Bruce Coy
+PIC_0304_448_010,fx,FX,apr,Vlad Tushevskiy
+PIC_0304_448_010,comp,Comp,fin,Slava Ponomarev
+PIC_0304_448_010,anim,Animation,apr,"Dustin Adair, Jason Shulman"
+PIC_0304_448_010,light,Lighting/Rendering,apr,Jon Gourley
+PIC_0304_448_010,ltcompFx,Light Comp,apr,"Andrei Orehov, Bruce Coy, Rick Ramirez, Vlad Tushevskiy"
+PIC_0304_448_010,ltcomp,Light Comp,apr,"David Gutman, Jon Gourley, Yinglei Yang"
+PIC_0304_448_010,ref,Reference,apr,
+PIC_0304_448_010,fxNebula,FX,apr,"Rick Ramirez, Vlad Tushevskiy"
+PIC_0304_448_010,ltcompFxNebula,Light Comp,apr,Vlad Tushevskiy
+PIC_0304_448_010,cam,,apr,
+PIC_0304_448_010,exp,Exports,apr,
+PIC_0304_448_010,layNebula,Layout,apr,Rick Ramirez
+PIC_0304_448_010,trkNebula,Tracking,apr,Rick Ramirez
+PIC_0304_448_010,lightNebula,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_448_010,ltcompNebula,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_448_010,prc,,apr,
+PIC_0304_448_010,prcNebula,,apr,
+PIC_0304_448_010,prcNebulalightning206,,apr,
+PIC_0304_448_010,fxThrusters,FX,apr,"Andrei Orehov, Bruce Coy"
+PIC_0304_448_010,ltcompFxThrusters,Light Comp,apr,Bruce Coy
+PIC_0304_451_010,fx,FX,apr,Vlad Tushevskiy
+PIC_0304_451_010,comp,Comp,fin,Slava Ponomarev
+PIC_0304_451_010,anim,Animation,apr,Jason Shulman
+PIC_0304_451_010,light,Lighting/Rendering,apr,Jonathan Bliss
+PIC_0304_451_010,ltcompFx,Light Comp,apr,"David Silva, Vlad Tushevskiy"
+PIC_0304_451_010,ltcomp,Light Comp,apr,Jonathan Bliss
+PIC_0304_451_010,ref,Reference,apr,
+PIC_0304_451_010,fxEjects,FX,apr,"David Silva, Vlad Tushevskiy"
+PIC_0304_451_010,ltcompFxEjects,Light Comp,apr,Vlad Tushevskiy
+PIC_0304_451_010,ltcompAnim,Light Comp,apr,Rick Ramirez
+PIC_0304_451_010,exp,Exports,apr,
+PIC_0304_451_010,cam,,apr,
+PIC_0304_451_010,layNebula,Layout,apr,Rick Ramirez
+PIC_0304_451_010,trkNebula,Tracking,apr,Rick Ramirez
+PIC_0304_451_010,lightNebula,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_451_010,ltcompNebula,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_451_010,prc,,apr,
+PIC_0304_451_010,lightNacelle,Lighting/Rendering,apr,Yinglei Yang
+PIC_0304_451_010,ltcompNacelle,Light Comp,apr,Yinglei Yang
+PIC_0304_455_000,comp,Comp,fin,Elizabeth Bodnar
+PIC_0304_455_000,fx,FX,apr,
+PIC_0304_455_000,anim,Animation,apr,Dustin Adair
+PIC_0304_455_000,light,Lighting/Rendering,apr,"Jon Gourley, Yinglei Yang"
+PIC_0304_455_000,ltcompFx,Light Comp,apr,
+PIC_0304_455_000,ltcomp,Light Comp,apr,"Jon Gourley, Yinglei Yang"
+PIC_0304_455_000,cam,,apr,
+PIC_0304_455_000,exp,Exports,apr,
+PIC_0304_455_000,lightNebula,Lighting/Rendering,apr,Yinglei Yang
+PIC_0304_455_000,ltcompNebula,Light Comp,apr,Yinglei Yang
+PIC_0304_455_000,prcAsteroidsonly,,apr,
+PIC_0304_455_020,fx,FX,apr,Vlad Tushevskiy
+PIC_0304_455_020,comp,Comp,fin,Elizabeth Bodnar
+PIC_0304_455_020,anim,Animation,apr,Jason Shulman
+PIC_0304_455_020,light,Lighting/Rendering,apr,Jon Gourley
+PIC_0304_455_020,ltcompFx,Light Comp,apr,Vlad Tushevskiy
+PIC_0304_455_020,ltcomp,Light Comp,apr,"David Gutman, Jon Gourley, Yinglei Yang"
+PIC_0304_455_020,plate,,apr,
+PIC_0304_455_020,ref,,apr,
+PIC_0304_455_020,roto,Roto,apr,rhinestoneVFX
+PIC_0304_455_020,trk,Tracking,apr,"VFX Tracking, yannix"
+PIC_0304_455_020,prcProxy,,apr,
+PIC_0304_455_020,pnt,Paint,apr,rhinestoneVFX
+PIC_0304_455_020,prcRotoref,,apr,
+PIC_0304_455_020,cam,,apr,
+PIC_0304_455_020,lay,,apr,
+PIC_0304_455_020,und,,apr,
+PIC_0304_455_020,prcNeat,,apr,
+PIC_0304_455_020,exp,Exports,apr,
+PIC_0304_455_020,camviewscreen,,apr,
+PIC_0304_455_020,layNebula,Layout,apr,Rick Ramirez
+PIC_0304_455_020,trkNebula,Tracking,apr,Rick Ramirez
+PIC_0304_455_020,lightNebula,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_455_020,ltcompNebula,Light Comp,apr,"Daniel Fazel, Yinglei Yang"
+PIC_0304_455_020,prcAsteroidprc,,apr,
+PIC_0304_455_020,prcLighning,,apr,
+PIC_0304_455_020,prcLightningnebula,,apr,
+PIC_0304_455_020,prcKeywithbg,,apr,
+PIC_0304_455_020,prcKey,,apr,
+PIC_0304_455_020,prcReflections,,apr,
+PIC_0304_455_020,prcLensflare,,apr,
+PIC_0304_455_020,prcUtl,,apr,
+PIC_0304_455_020,prcBtyastr,,apr,
+PIC_0304_455_020,prcLightast,,apr,
+PIC_0304_455_030,fx,FX,apr,Vlad Tushevskiy
+PIC_0304_455_030,comp,Comp,fin,Elizabeth Bodnar
+PIC_0304_455_030,anim,Animation,apr,Jason Shulman
+PIC_0304_455_030,light,Lighting/Rendering,apr,Jon Gourley
+PIC_0304_455_030,ltcompFx,Light Comp,apr,Vlad Tushevskiy
+PIC_0304_455_030,ltcomp,Light Comp,apr,"David Gutman, Jon Gourley, Yinglei Yang"
+PIC_0304_455_030,plate,,apr,
+PIC_0304_455_030,ref,,apr,
+PIC_0304_455_030,roto,Roto,apr,rhinestoneVFX
+PIC_0304_455_030,trk,Tracking,apr,"VFX Tracking, yannix"
+PIC_0304_455_030,prcProxy,,apr,
+PIC_0304_455_030,pnt,Paint,apr,rhinestoneVFX
+PIC_0304_455_030,cam,,apr,
+PIC_0304_455_030,lay,,apr,
+PIC_0304_455_030,und,,apr,
+PIC_0304_455_030,prcDenoise,,apr,
+PIC_0304_455_030,prcRotoref,,apr,
+PIC_0304_455_030,prcNeat,,apr,
+PIC_0304_455_030,exp,Exports,apr,
+PIC_0304_455_030,camviewscreen,,apr,
+PIC_0304_455_030,layNebula,Layout,apr,Rick Ramirez
+PIC_0304_455_030,trkNebula,Tracking,apr,Rick Ramirez
+PIC_0304_455_030,lightNebula,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_455_030,ltcompNebula,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_455_030,prcLightning,,apr,
+PIC_0304_455_030,prcAsteroidsnebulalightning,,apr,
+PIC_0304_455_030,prcBgwithkey,,apr,
+PIC_0304_455_030,prcKey,,apr,
+PIC_0304_455_030,prcReflections,,apr,
+PIC_0304_455_030,prcLensflare,,apr,
+PIC_0304_456_010,fx,FX,apr,Vlad Tushevskiy
+PIC_0304_456_010,comp,Comp,fin,Alexis Tarakjian
+PIC_0304_456_010,anim,Animation,apr,Jason Shulman
+PIC_0304_456_010,light,Lighting/Rendering,apr,Jonathan Bliss
+PIC_0304_456_010,ltcompFx,Light Comp,apr,"Bruce Coy, Vlad Tushevskiy"
+PIC_0304_456_010,ltcomp,Light Comp,apr,Jonathan Bliss
+PIC_0304_456_010,ref,Reference,apr,
+PIC_0304_456_010,camB,,apr,
+PIC_0304_456_010,exp,Exports,apr,
+PIC_0304_456_010,cam,,apr,
+PIC_0304_456_010,fxThrusters,FX,apr,"Bruce Coy, Vlad Tushevskiy"
+PIC_0304_456_010,ltcompFxThrusters,Light Comp,apr,Vlad Tushevskiy
+PIC_0304_456_010,layNebula,Layout,apr,Rick Ramirez
+PIC_0304_456_010,trkNebula,Tracking,apr,Rick Ramirez
+PIC_0304_456_010,lightNebula,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_456_010,ltcompNebula,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_456_010,prcNebulalightning,,apr,
+PIC_0304_456_010,prcNebulaltngtest,,apr,
+PIC_0304_456_010,prcDeeptest,,apr,
+PIC_0304_456_010,prcNebulalightning,,apr,
+PIC_0304_456_010,prcNebula,,apr,
+PIC_0304_456_010,prcTestflicker,,apr,
+PIC_0304_456_030,fx,FX,apr,Vlad Tushevskiy
+PIC_0304_456_030,comp,Comp,fin,Elizabeth Bodnar
+PIC_0304_456_030,anim,Animation,apr,Dustin Adair
+PIC_0304_456_030,light,Lighting/Rendering,apr,Jon Gourley
+PIC_0304_456_030,ltcompFx,Light Comp,apr,Vlad Tushevskiy
+PIC_0304_456_030,ltcomp,Light Comp,apr,"David Gutman, Jon Gourley, Yinglei Yang"
+PIC_0304_456_030,plate,,apr,
+PIC_0304_456_030,ref,,apr,
+PIC_0304_456_030,roto,Roto,apr,rhinestoneVFX
+PIC_0304_456_030,trk,Tracking,apr,"VFX Tracking, yannix"
+PIC_0304_456_030,prcProxy,,apr,
+PIC_0304_456_030,pnt,Paint,apr,rhinestoneVFX
+PIC_0304_456_030,prcRotoref,,apr,
+PIC_0304_456_030,cam,,apr,
+PIC_0304_456_030,lay,,apr,
+PIC_0304_456_030,und,,apr,
+PIC_0304_456_030,prcNeat,,apr,
+PIC_0304_456_030,camviewscreen,,apr,
+PIC_0304_456_030,layNebula,Layout,apr,Rick Ramirez
+PIC_0304_456_030,trkNebula,Tracking,apr,Rick Ramirez
+PIC_0304_456_030,lightNebula,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_456_030,ltcompNebula,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_456_030,exp,Exports,apr,
+PIC_0304_456_030,prcKey,,apr,
+PIC_0304_456_030,prcReflections,,apr,
+PIC_0304_456_030,prcLensflares,,apr,
+PIC_0304_456_040,fx,FX,apr,Vlad Tushevskiy
+PIC_0304_456_040,comp,Comp,fin,Elizabeth Bodnar
+PIC_0304_456_040,anim,Animation,apr,Dustin Adair
+PIC_0304_456_040,light,Lighting/Rendering,apr,Jon Gourley
+PIC_0304_456_040,ltcompFx,Light Comp,apr,Vlad Tushevskiy
+PIC_0304_456_040,ltcomp,Light Comp,apr,"David Gutman, Jon Gourley, Yinglei Yang"
+PIC_0304_456_040,plate,,apr,
+PIC_0304_456_040,ref,,apr,
+PIC_0304_456_040,trk,Tracking,apr,"VFX Tracking, yannix"
+PIC_0304_456_040,prcProxy,,apr,
+PIC_0304_456_040,roto,Roto,apr,rhinestoneVFX
+PIC_0304_456_040,pnt,Paint,apr,rhinestoneVFX
+PIC_0304_456_040,cam,,apr,
+PIC_0304_456_040,lay,,apr,
+PIC_0304_456_040,und,,apr,
+PIC_0304_456_040,prcDenoise,,apr,
+PIC_0304_456_040,prcRotoref,,apr,
+PIC_0304_456_040,camviewscreen,,apr,
+PIC_0304_456_040,layNebula,Layout,apr,Rick Ramirez
+PIC_0304_456_040,trkNebula,Tracking,apr,Rick Ramirez
+PIC_0304_456_040,lightNebula,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_456_040,ltcompNebula,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_456_040,exp,Exports,apr,
+PIC_0304_456_040,prcMikeDTest,Precomps,apr,Michael De Lorenzo
+PIC_0304_458_010,comp,Comp,fin,Jacob Coy
+PIC_0304_458_010,fx,FX,apr,Vlad Tushevskiy
+PIC_0304_458_010,anim,Animation,apr,Dustin Adair
+PIC_0304_458_010,light,Lighting/Rendering,apr,"Jon Gourley, Steve Graves"
+PIC_0304_458_010,ltcompFx,Light Comp,apr,Vlad Tushevskiy
+PIC_0304_458_010,ltcomp,Light Comp,apr,"David Gutman, Jon Gourley, Steve Graves, Yinglei Yang"
+PIC_0304_458_010,plate,,apr,
+PIC_0304_458_010,ref,,apr,
+PIC_0304_458_010,roto,Roto,apr,rhinestoneVFX
+PIC_0304_458_010,trk,Tracking,apr,"VFX Tracking, yannix"
+PIC_0304_458_010,prcProxy,,apr,
+PIC_0304_458_010,pnt,Paint,apr,rhinestoneVFX
+PIC_0304_458_010,cam,,apr,
+PIC_0304_458_010,lay,,apr,
+PIC_0304_458_010,und,,apr,
+PIC_0304_458_010,prcDenoise,,apr,
+PIC_0304_458_010,prcRotoref,,apr,
+PIC_0304_458_010,layNebula,Layout,apr,Rick Ramirez
+PIC_0304_458_010,trkNebula,Tracking,apr,Rick Ramirez
+PIC_0304_458_010,lightNebula,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_458_010,ltcompNebula,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_458_010,exp,Exports,apr,
+PIC_0304_458_010,prcMikeDTest,Precomps,wtg,
+PIC_0304_459_010,fx,FX,apr,Vlad Tushevskiy
+PIC_0304_459_010,comp,Comp,fin,Gary Lopez
+PIC_0304_459_010,anim,Animation,apr,Jason Shulman
+PIC_0304_459_010,light,Lighting/Rendering,apr,"Chris Pierz, David Gutman"
+PIC_0304_459_010,ltcompFx,Light Comp,apr,"Alexey Cheprakov, David Silva, Vlad Tushevskiy"
+PIC_0304_459_010,ltcomp,Light Comp,apr,"Chris Pierz, David Gutman, Yinglei Yang"
+PIC_0304_459_010,ref,Reference,apr,
+PIC_0304_459_010,fxGravityExplosion,FX,apr,"Alexey Cheprakov, Vlad Tushevskiy"
+PIC_0304_459_010,ltcompFxGravityExplosion,Light Comp,apr,"Alexey Cheprakov, Val Kharitonashvili"
+PIC_0304_459_010,fxGravityWave,FX,apr,"Alexey Cheprakov, Vlad Tushevskiy"
+PIC_0304_459_010,ltcompFxGravityWave,Light Comp,apr,Alexey Cheprakov
+PIC_0304_459_010,camA,,apr,
+PIC_0304_459_010,exp,Exports,apr,
+PIC_0304_459_010,fxDebris,FX,apr,"David Silva, Vlad Tushevskiy"
+PIC_0304_459_010,ltcompFxDebris,Light Comp,apr,Vlad Tushevskiy
+PIC_0304_459_010,fxTest,FX,rdcmpl,Mike Krueger
+PIC_0304_459_010,ltcompFxTest,Light Comp,apr,Mike Krueger
+PIC_0304_459_010,prcFxDev,,apr,
+PIC_0304_459_010,prcTest,,apr,
+PIC_0304_459_010,layNebula,Layout,apr,Rick Ramirez
+PIC_0304_459_010,trkNebula,Tracking,apr,Rick Ramirez
+PIC_0304_459_010,lightNebula,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_459_010,ltcompNebula,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_459_010,prcExplosion,,apr,
+PIC_0304_459_010,prcExplosionNowave,,apr,
+PIC_0304_459_010,prcLightning,,apr,
+PIC_0304_459_010,prcDenoiseNebula,,apr,
+PIC_0304_459_010,prcHoldoutTest,,apr,
+PIC_0304_459_010,prcTestLightComp,,apr,
+PIC_0304_459_010,prcDegrainNebulaInteractive,,apr,
+PIC_0304_459_010,prcDegrainNebulaBeauty,,apr,
+PIC_0304_459_010,prcWedgeTest,,apr,
+PIC_0304_459_010,prcTitanLightWedge,,apr,
+PIC_0304_459_020,fx,FX,apr,Vlad Tushevskiy
+PIC_0304_459_020,comp,Comp,fin,Gary Lopez
+PIC_0304_459_020,anim,Animation,apr,
+PIC_0304_459_020,light,Lighting/Rendering,apr,Jon Gourley
+PIC_0304_459_020,ltcompFx,Light Comp,apr,"Alexey Cheprakov, Vlad Tushevskiy"
+PIC_0304_459_020,ltcomp,Light Comp,apr,"Jon Gourley, Rick Ramirez"
+PIC_0304_459_020,plate,,apr,
+PIC_0304_459_020,ref,,apr,
+PIC_0304_459_020,roto,Roto,apr,rhinestoneVFX
+PIC_0304_459_020,trk,Tracking,apr,"VFX Tracking, yannix"
+PIC_0304_459_020,prcProxy,,apr,
+PIC_0304_459_020,pnt,Paint,apr,rhinestoneVFX
+PIC_0304_459_020,cam,,apr,
+PIC_0304_459_020,lay,,apr,
+PIC_0304_459_020,und,,apr,
+PIC_0304_459_020,prcRotoref,,apr,
+PIC_0304_459_020,prcDegrainPnt,,apr,
+PIC_0304_459_020,fxWave,FX,apr,"Alexey Cheprakov, Vlad Tushevskiy"
+PIC_0304_459_020,ltcompFxWave,Light Comp,apr,"Alexey Cheprakov, Vlad Tushevskiy"
+PIC_0304_459_020,layNebula,Layout,apr,Rick Ramirez
+PIC_0304_459_020,trkNebula,Tracking,apr,Rick Ramirez
+PIC_0304_459_020,lightNebula,Light Comp,apr,Rick Ramirez
+PIC_0304_459_020,ltcompNebula,Light Comp,apr,Rick Ramirez
+PIC_0304_459_020,prcTest,,apr,
+PIC_0304_459_020,prcTestPointRender,,apr,
+PIC_0304_459_020,prcPointFx,,apr,
+PIC_0304_459_020,prcPlatePremult,,apr,
+PIC_0304_459_020,prcBgWave,,apr,
+PIC_0304_459_020,prcPointrender,,apr,
+PIC_0304_459_020,prcBg,,apr,
+PIC_0304_459_020,prcFog01,,apr,
+PIC_0304_459_020,prcFog02,,apr,
+PIC_0304_459_020,prcHud,,apr,
+PIC_0304_459_020,prcOpFlares,,apr,
+PIC_0304_460_010,fx,FX,apr,Vlad Tushevskiy
+PIC_0304_460_010,comp,Comp,fin,Gary Lopez
+PIC_0304_460_010,anim,Animation,apr,Jason Shulman
+PIC_0304_460_010,light,Lighting/Rendering,apr,"Jonathan Bliss, Yinglei Yang"
+PIC_0304_460_010,ltcompFx,Light Comp,apr,"Alexey Cheprakov, Vlad Tushevskiy"
+PIC_0304_460_010,ltcomp,Light Comp,apr,"David Gutman, Jonathan Bliss, Yinglei Yang"
+PIC_0304_460_010,ref,Reference,apr,
+PIC_0304_460_010,fxGravityWaveInteration,FX,apr,"Alexey Cheprakov, Vlad Tushevskiy"
+PIC_0304_460_010,ltcompFxGravityWaveInteration,Light Comp,apr,Alexey Cheprakov
+PIC_0304_460_010,fxGravityWave,FX,apr,"Alexey Cheprakov, Vlad Tushevskiy"
+PIC_0304_460_010,ltcompFxGravityWave,Light Comp,apr,Alexey Cheprakov
+PIC_0304_460_010,cam,,apr,
+PIC_0304_460_010,exp,Exports,apr,
+PIC_0304_460_010,layNebula,Layout,apr,Rick Ramirez
+PIC_0304_460_010,trkNebula,Tracking,apr,Rick Ramirez
+PIC_0304_460_010,lightNebula,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_460_010,ltcompNebula,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_460_010,prcTest,,apr,
+PIC_0304_460_010,prcLightning,,apr,
+PIC_0304_460_010,prcBeforeFx,,apr,
+PIC_0304_460_010,prcWedge01,,apr,
+PIC_0304_460_010,prcWedge02,,apr,
+PIC_0304_460_010,prcWedge03,,apr,
+PIC_0304_461_010,fx,FX,apr,Vlad Tushevskiy
+PIC_0304_461_010,comp,Comp,fin,Gary Lopez
+PIC_0304_461_010,anim,Animation,apr,Jason Shulman
+PIC_0304_461_010,light,Lighting/Rendering,apr,Yinglei Yang
+PIC_0304_461_010,ltcompFx,Light Comp,apr,"Alexey Cheprakov, Vlad Tushevskiy"
+PIC_0304_461_010,ltcomp,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_461_010,ref,Reference,apr,
+PIC_0304_461_010,fxGravityWaveInteration,FX,apr,"Alexey Cheprakov, Vlad Tushevskiy"
+PIC_0304_461_010,ltcompFxGravityWaveInteration,Light Comp,apr,Alexey Cheprakov
+PIC_0304_461_010,fxGravityWave,FX,apr,"Alexey Cheprakov, Vlad Tushevskiy"
+PIC_0304_461_010,ltcompFxGravityWave,Light Comp,apr,Vlad Tushevskiy
+PIC_0304_461_010,cam,,apr,
+PIC_0304_461_010,exp,Exports,apr,
+PIC_0304_461_010,layNebula,Layout,apr,Rick Ramirez
+PIC_0304_461_010,trkNebula,Tracking,apr,Rick Ramirez
+PIC_0304_461_010,lightNebula,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_461_010,ltcompNebula,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_461_010,prcTest,,apr,
+PIC_0304_461_010,prcDeepHoldouts,,apr,
+PIC_0304_461_010,prcWave,,apr,
+PIC_0304_461_010,prcPreFlare,,apr,
+PIC_0304_463_010,fx,FX,apr,Vlad Tushevskiy
+PIC_0304_463_010,comp,Comp,fin,Gary Lopez
+PIC_0304_463_010,anim,Animation,apr,Jason Shulman
+PIC_0304_463_010,light,Lighting/Rendering,apr,"Forrest Arnold, Patricio Harris"
+PIC_0304_463_010,ltcompFx,Light Comp,apr,"Alexey Cheprakov, Vlad Tushevskiy"
+PIC_0304_463_010,ltcomp,Light Comp,apr,"Forrest Arnold, Patricio Harris"
+PIC_0304_463_010,ref,Reference,apr,
+PIC_0304_463_010,fxGravityWave,FX,apr,"Alexey Cheprakov, Vlad Tushevskiy"
+PIC_0304_463_010,ltcompFxGravityWave,Light Comp,apr,Vlad Tushevskiy
+PIC_0304_463_010,fxGravityWaveInteraction,FX,apr,"Alexey Cheprakov, Vlad Tushevskiy"
+PIC_0304_463_010,ltcompFxGravityWaveInteraction,Light Comp,apr,Vlad Tushevskiy
+PIC_0304_463_010,cam,,apr,
+PIC_0304_463_010,exp,Exports,apr,
+PIC_0304_463_010,layNebula,Layout,apr,Rick Ramirez
+PIC_0304_463_010,trkNebula,Tracking,apr,Rick Ramirez
+PIC_0304_463_010,lightNebula,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_463_010,ltcompNebula,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_463_010,prcTest,,apr,
+PIC_0304_463_010,prcTestBg,,apr,
+PIC_0304_463_010,prcPreFlare,,apr,
+PIC_0304_463_010,prcWave,,apr,
+PIC_0304_464_100,comp,Comp,fin,Peter Herlein
+PIC_0304_464_100,anim,Animation,apr,Jason Shulman
+PIC_0304_464_100,light,Lighting/Rendering,apr,Jon Gourley
+PIC_0304_464_100,fx,FX,apr,"Vlad Tushevskiy, Vlad Tushevskiy"
+PIC_0304_464_100,ltcomp,Light Comp,apr,"David Gutman, Jon Gourley, Yinglei Yang"
+PIC_0304_464_100,ltcompFx,Light Comp,apr,"Alexey Cheprakov, David Silva, Vlad Tushevskiy"
+PIC_0304_464_100,plate,,apr,
+PIC_0304_464_100,ref,,apr,
+PIC_0304_464_100,roto,Roto,apr,rhinestoneVFX
+PIC_0304_464_100,trk,Tracking,apr,"VFX Tracking, yannix"
+PIC_0304_464_100,prcProxy,,apr,
+PIC_0304_464_100,pnt,Paint,apr,rhinestoneVFX
+PIC_0304_464_100,cam,,apr,
+PIC_0304_464_100,lay,,apr,
+PIC_0304_464_100,und,,apr,
+PIC_0304_464_100,prcRotoref,,apr,
+PIC_0304_464_100,prcDenoise,,apr,
+PIC_0304_464_100,prcTracktest,,apr,
+PIC_0304_464_100,fxWave,FX,apr,"Alexey Cheprakov, Vlad Tushevskiy"
+PIC_0304_464_100,ltcompFxWave,Light Comp,apr,"Alexey Cheprakov, Vlad Tushevskiy"
+PIC_0304_464_100,prcStars,,apr,
+PIC_0304_464_100,camFront,,apr,
+PIC_0304_464_100,camRear,,apr,
+PIC_0304_464_100,exp,Exports,apr,
+PIC_0304_464_100,fxTractorBeam,FX,apr,"David Silva, Vlad Tushevskiy"
+PIC_0304_464_100,ltcompFxTractorBeam,Light Comp,apr,"David Silva, Vlad Tushevskiy"
+PIC_0304_464_100,layNebula,Layout,apr,Rick Ramirez
+PIC_0304_464_100,trkNebula,Tracking,apr,Rick Ramirez
+PIC_0304_464_100,lightNebula,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_464_100,ltcompNebula,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_464_100,prcKey,,apr,
+PIC_0304_464_100,prcGraphic,,apr,
+PIC_0304_464_100,prcFrontlightning,,apr,
+PIC_0304_464_100,prcPlate,,apr,
+PIC_0304_464_100,prcDegrain,,apr,
+PIC_0304_464_100,prcFlarelensdirt,,apr,
+PIC_0304_464_100,prcViewscreen,,apr,
+PIC_0304_464_100,prcForwardview,,apr,
+PIC_0304_465_010,fx,FX,apr,"Vlad Tushevskiy, Vlad Tushevskiy"
+PIC_0304_465_010,comp,Comp,fin,Gary Lopez
+PIC_0304_465_010,anim,Animation,apr,Jason Shulman
+PIC_0304_465_010,light,Lighting/Rendering,apr,Jonathan Bliss
+PIC_0304_465_010,ltcompFx,Light Comp,apr,"Alexey Cheprakov, Bruce Coy, David Silva, Val Kharitonashvili, Vlad Tushevskiy"
+PIC_0304_465_010,ltcomp,Light Comp,apr,"David Gutman, Jonathan Bliss, Yinglei Yang"
+PIC_0304_465_010,ref,Reference,apr,
+PIC_0304_465_010,fxTractorBeam,FX,apr,"David Silva, Vlad Tushevskiy"
+PIC_0304_465_010,ltcompFxTractorBeam,Light Comp,apr,Vlad Tushevskiy
+PIC_0304_465_010,fxEnergyWave,FX,apr,"Alexey Cheprakov, Vlad Tushevskiy"
+PIC_0304_465_010,ltcompFxEnergyWave,Light Comp,apr,Vlad Tushevskiy
+PIC_0304_465_010,fxSparks,FX,apr,"David Silva, Vlad Tushevskiy"
+PIC_0304_465_010,ltcompFxSparks,Light Comp,apr,Vlad Tushevskiy
+PIC_0304_465_010,fxDebris,FX,apr,"David Silva, Vlad Tushevskiy"
+PIC_0304_465_010,ltcompFxDebris,Light Comp,apr,Vlad Tushevskiy
+PIC_0304_465_010,fxThrusters,FX,apr,"Bruce Coy, Vlad Tushevskiy"
+PIC_0304_465_010,ltcompFxThrusters,Light Comp,apr,Vlad Tushevskiy
+PIC_0304_465_010,exp,Exports,apr,
+PIC_0304_465_010,cam,,apr,
+PIC_0304_465_010,layNebula,Layout,apr,Rick Ramirez
+PIC_0304_465_010,trkNebula,Tracking,apr,Rick Ramirez
+PIC_0304_465_010,lightNebula,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_465_010,ltcompNebula,Light Comp,apr,"David Gutman, Yinglei Yang"
+PIC_0304_465_010,prcTest,,apr,
+PIC_0304_465_010,fxExplosion,FX,apr,"Val Kharitonashvili, Vlad Tushevskiy"
+PIC_0304_465_010,ltcompFxExplosion,Light Comp,apr,"Val Kharitonashvili, Vlad Tushevskiy"
+PIC_0304_465_010,prcTestFx,,apr,
+PIC_0304_465_010,prcPreWave,,apr,
+PIC_0304_465_010,prcWave,,apr,
+PIC_0304_465_010,fxShield,FX,apr,David Silva
+PIC_0304_465_010,ltcompFxShield,Light Comp,apr,David Silva
+PIC_0304_465_010,prcTestLightComp,,apr,
+PIC_0304_465_010,lightExplotionDustlight,,apr,Jonathan Bliss
+PIC_0304_465_010,ltcompExplotionDustlight,Light Comp,apr,Jonathan Bliss
+PIC_0304_465_010,prcTestBg,,apr,
+PIC_0304_465_010,lightShieldINT,Lighting/Rendering,apr,David Gutman
+PIC_0304_465_010,ltcompShieldINT,Light Comp,apr,David Gutman
+PIC_0304_465_010,prcPreFlare,,apr,
+PIC_0304_465_010,prcSparks,,apr,
+PIC_0304_465_010,prcSpark02,,apr,
+PIC_0304_467_020,comp,Comp,hld,"Ryan Smolarek, Ryan Smolarek"
+PIC_0304_467_020,fx,FX,hld,"Vlad Tushevskiy, Vlad Tushevskiy"
+PIC_0304_467_020,anim,Animation,hld,
+PIC_0304_467_020,light,Lighting/Rendering,hld,Steve Graves
+PIC_0304_467_020,ltcompFx,Light Comp,hld,Vlad Tushevskiy
+PIC_0304_467_020,ltcomp,Light Comp,hld,Steve Graves
+PIC_0304_467_020,plate,,hld,
+PIC_0304_467_020,ref,,apr,
+PIC_0304_467_020,roto,Roto,hld,
+PIC_0304_467_030,comp,Comp,hld,"Ryan Smolarek, Ryan Smolarek"
+PIC_0304_467_030,anim,Animation,hld,
+PIC_0304_467_030,light,Lighting/Rendering,hld,Steve Graves
+PIC_0304_467_030,fx,FX,hld,"Vlad Tushevskiy, Vlad Tushevskiy"
+PIC_0304_467_030,ltcomp,Light Comp,hld,Steve Graves
+PIC_0304_467_030,ltcompFx,Light Comp,hld,Vlad Tushevskiy
+PIC_0304_467_030,plate,,hld,
+PIC_0304_467_030,ref,,apr,
+PIC_0304_467_030,roto,Roto,hld,
+PIC_0304_469_010,fx,FX,hld,"Vlad Tushevskiy, Vlad Tushevskiy"
+PIC_0304_469_010,comp,Comp,hld,"Ryan Smolarek, Ryan Smolarek"
+PIC_0304_469_010,anim,Animation,hld,Dustin Adair
+PIC_0304_469_010,light,Lighting/Rendering,hld,Steve Graves
+PIC_0304_469_010,ltcompFx,Light Comp,hld,Vlad Tushevskiy
+PIC_0304_469_010,ltcomp,Light Comp,hld,Steve Graves
+PIC_0304_469_010,ref,Reference,apr,
+PIC_0304_469_020,fx,FX,hld,"Vlad Tushevskiy, Vlad Tushevskiy"
+PIC_0304_469_020,comp,Comp,hld,"Ryan Smolarek, Ryan Smolarek"
+PIC_0304_469_020,anim,Animation,hld,
+PIC_0304_469_020,light,Lighting/Rendering,hld,Steve Graves
+PIC_0304_469_020,ltcompFx,Light Comp,hld,Vlad Tushevskiy
+PIC_0304_469_020,ltcomp,Light Comp,hld,Steve Graves
+PIC_0304_469_020,plate,,hld,
+PIC_0304_469_020,ref,,apr,
+PIC_0304_469_020,roto,Roto,hld,
+PIC_0304_470_010,fx,FX,hld,"Vlad Tushevskiy, Vlad Tushevskiy"
+PIC_0304_470_010,comp,Comp,hld,"Ryan Smolarek, Ryan Smolarek"
+PIC_0304_470_010,anim,Animation,apr,Dustin Adair
+PIC_0304_470_010,light,Lighting/Rendering,hld,Steve Graves
+PIC_0304_470_010,ltcompFx,Light Comp,hld,Vlad Tushevskiy
+PIC_0304_470_010,ltcomp,Light Comp,hld,Steve Graves
+PIC_0304_470_010,ref,Reference,apr,
+PIC_0307_701_010,plate,Edit,apr,
+PIC_0307_701_010,ref,,apr,
+PIC_0307_701_010,trk,Tracking,apr,Nick Sinnott
+PIC_0307_701_010,comp,Comp,fin,Gary Lopez
+PIC_0307_701_010,prcProxy,,apr,
+PIC_0307_701_010,lay,,apr,
+PIC_0307_701_010,cam,,apr,
+PIC_0307_701_010,und,,apr,
+PIC_0307_701_010,roto,Roto,apr,Rotomaker
+PIC_0307_701_010,pnt,Paint,apr,Rotomaker
+PIC_0307_701_010,prcPntDegrain,,apr,
+PIC_0307_701_010,prcDegrainInsert,,apr,
+PIC_0307_701_010,prcTest,,apr,
+PIC_0307_701_010,prcTest02,,apr,
+PIC_0307_702_020,plate,Edit,apr,
+PIC_0307_702_020,ref,,apr,
+PIC_0307_702_020,trk,Tracking,apr,Nick Sinnott
+PIC_0307_702_020,comp,Comp,fin,Gary Lopez
+PIC_0307_702_020,prcProxy,,apr,
+PIC_0307_702_020,lay,,apr,
+PIC_0307_702_020,cam,,apr,
+PIC_0307_702_020,und,,apr,
+PIC_0307_702_020,roto,Roto,apr,Rotomaker
+PIC_0307_702_020,pnt,Paint,apr,Rotomaker
+PIC_0307_702_020,prcDegrainPnt,,apr,
+PIC_0307_702_020,prcInsertDegrain,,apr,
+PIC_0307_702_020,prcTest,,apr,
+PIC_0307_702_030,plate,Edit,apr,
+PIC_0307_702_030,ref,,apr,
+PIC_0307_702_030,trk,Tracking,apr,Nick Sinnott
+PIC_0307_702_030,comp,Comp,fin,Gary Lopez
+PIC_0307_702_030,prcProxy,,apr,
+PIC_0307_702_030,lay,,apr,
+PIC_0307_702_030,cam,,apr,
+PIC_0307_702_030,und,,apr,
+PIC_0307_702_030,roto,Roto,apr,Rotomaker
+PIC_0307_702_030,pnt,Paint,apr,Rotomaker
+PIC_0307_702_030,prcDegrainPnt,,apr,
+PIC_0307_702_030,prcDegrainInsert,,apr,
+PIC_0307_702_040,plate,Edit,apr,
+PIC_0307_702_040,ref,,apr,
+PIC_0307_702_040,trk,Tracking,apr,Nick Sinnott
+PIC_0307_702_040,comp,Comp,fin,Peter Herlein
+PIC_0307_702_040,prcProxy,,apr,
+PIC_0307_702_040,lay,,apr,
+PIC_0307_702_040,cam,,apr,
+PIC_0307_702_040,roto,Roto,apr,Rotomaker
+PIC_0307_702_040,pnt,Paint,apr,Rotomaker
+PIC_0307_702_040,prcDenoise,,apr,
+PIC_0307_702_040,prcTesttrk,,apr,
+PIC_0307_702_050,plate,Edit,apr,
+PIC_0307_702_050,ref,,apr,
+PIC_0307_702_050,trk,Tracking,apr,Nick Sinnott
+PIC_0307_702_050,comp,Comp,fin,Peter Herlein
+PIC_0307_702_050,prcProxy,,apr,
+PIC_0307_702_050,lay,,apr,
+PIC_0307_702_050,cam,,apr,
+PIC_0307_702_050,und,,apr,
+PIC_0307_702_050,roto,Roto,apr,Rotomaker
+PIC_0307_702_050,pnt,Paint,apr,Rotomaker
+PIC_0307_702_050,prcDenoise,,apr,
+PIC_0307_702_050,prcTesttrk,,apr,
+PIC_0307_702_050,prcUndisttrkplate,,apr,
+PIC_0307_702_050,prcTestcomp,,apr,
+PIC_0307_702_060,plate,Edit,apr,
+PIC_0307_702_060,ref,,apr,
+PIC_0307_702_060,trk,Tracking,apr,Nick Sinnott
+PIC_0307_702_060,comp,Comp,fin,Peter Herlein
+PIC_0307_702_060,prcProxy,,apr,
+PIC_0307_702_060,lay,,apr,
+PIC_0307_702_060,cam,,apr,
+PIC_0307_702_060,roto,Roto,apr,Rotomaker
+PIC_0307_702_060,pnt,Paint,apr,Rotomaker
+PIC_0307_702_060,prcDenoise,,apr,
+PIC_0307_702_060,prcTestcomp,,apr,
+PIC_0309_909_015,plate,Edit,apr,
+PIC_0309_909_015,ref,Reference,apr,
+PIC_0309_909_015,comp,Comp,fin,Peter Herlein
+PIC_0309_909_015,roto,Roto,apr,Rotomaker
+PIC_0309_909_015,pnt,Paint,apr,Rotomaker
+PIC_0309_909_015,prcDenoise,,apr,
+PIC_0309_909_015,prcTestcomp,,apr,
+PIC_0309_909_015,prcBgwarp,,apr,
+PIC_0309_909_015,prcWarptunnel,,apr,
+PIC_0309_909_015,prcStars,,apr,
+PIC_0309_909_015,prcTestref,,apr,
+PIC_0309_917_010,ref,Reference,apr,
+PIC_0309_917_010,plate,Edit,rdycmp,
+PIC_0309_917_010,prcProxy,,rdcmpl,
+PIC_0309_917_010,trk,Tracking,apr,"Edith Clara, VFX Tracking"
+PIC_0309_917_010,anim,Animation,apr,Jason Shulman
+PIC_0309_917_010,comp,Comp,ip,Slava Ponomarev
+PIC_0309_917_010,fx,FX,wtg,Rick Ramirez
+PIC_0309_917_010,ltcompFx,Light Comp,wtg,"Alexey Cheprakov, Rick Ramirez"
+PIC_0309_917_010,ltcomp,Light Comp,ip,"Christopher Knight, David Gutman, Jon Gourley, Jonathan Bliss, William Mauer, Yinglei Yang"
+PIC_0309_917_010,lightCkTesting,Lighting/Rendering,omt,Christopher Knight
+PIC_0309_917_010,ltcompCkTesting,Light Comp,omt,Christopher Knight
+PIC_0309_917_010,light,Lighting/Rendering,rdycmp,Jonathan Bliss
+PIC_0309_917_010,animPrevis,,rrq,Jason Shulman
+PIC_0309_917_010,lightInterior,Lighting/Rendering,apr,"William Mauer, Yinglei Yang"
+PIC_0309_917_010,ltcompInterior,Light Comp,apr,"William Mauer, Yinglei Yang"
+PIC_0309_917_010,lay,,apr,
+PIC_0309_917_010,cam,,rev,
+PIC_0309_917_010,und,,apr,
+PIC_0309_917_010,lightFireworksINT,Lighting/Rendering,rdycmp,David Gutman
+PIC_0309_917_010,ltcompFireworksINT,Light Comp,apr,David Gutman
+PIC_0309_917_010,exp,Exports,apr,
+PIC_0309_917_010,lightEarth,Lighting/Rendering,rdcmpl,Jon Gourley
+PIC_0309_917_010,ltcompEarth,Light Comp,rrq,Jon Gourley
+PIC_0309_917_010,fxFireworks,FX,rdycmp,Alexey Cheprakov
+PIC_0309_917_010,ltcompFxFireworks,Light Comp,apr,Alexey Cheprakov
+PIC_0309_917_010,lightEntF,Lighting/Rendering,rdycmp,Yinglei Yang
+PIC_0309_917_010,ltcompEntF,Light Comp,rdy,Yinglei Yang
+PIC_0309_917_010,prcEarthref,,rev,
+PIC_0309_917_010,prcStars,,wtg,
+PIC_0309_917_010,prcLdev,Precomps,apr,Ryan Smolarek
+PIC_0309_917_010,prcStars,,wtg,
+PIC_0309_917_010,prcLdevbg,,wtg,
+PIC_0309_917_010,prcRef,,wtg,
+PIC_0309_917_010,mpt,Matte Painting,apr,Richard Mahon
+PIC_0309_917_010,prcMptbg,,wtg,
+PIC_0309_917_010,prcShipposition,,apr,
+PIC_0309_920_010,comp,Comp,fin,Slava Ponomarev
+PIC_0309_920_010,anim,Animation,apr,Jason Shulman
+PIC_0309_920_010,light,Lighting/Rendering,apr,"Chris Pierz, Forrest Arnold, Jonathan Bliss"
+PIC_0309_920_010,fx,FX,apr,Rick Ramirez
+PIC_0309_920_010,ltcomp,Light Comp,apr,"Chris Pierz, David Gutman, Forrest Arnold, Jon Gourley, Jonathan Bliss, Yinglei Yang"
+PIC_0309_920_010,ltcompFx,Light Comp,apr,"Alexey Cheprakov, Rick Ramirez"
+PIC_0309_920_010,ref,Reference,apr,
+PIC_0309_920_010,animPrevis,,apr,Jason Shulman
+PIC_0309_920_010,lightEarth,Lighting/Rendering,apr,Jon Gourley
+PIC_0309_920_010,ltcompEarth,Light Comp,apr,
+PIC_0309_920_010,cam,,apr,
+PIC_0309_920_010,lightLightSetupTest,,apr,"Forrest Arnold, Jonathan Bliss"
+PIC_0309_920_010,ltcompLightSetupTest,Light Comp,apr,Jonathan Bliss
+PIC_0309_920_010,camPrevis,,apr,
+PIC_0309_920_010,lightFleetTest,,apr,Jonathan Bliss
+PIC_0309_920_010,ltcompFleetTest,Light Comp,apr,Jonathan Bliss
+PIC_0309_920_010,exp,Exports,apr,
+PIC_0309_920_010,lightSpaceDock,Lighting/Rendering,apr,Yinglei Yang
+PIC_0309_920_010,ltcompSpaceDock,Light Comp,apr,Yinglei Yang
+PIC_0309_920_010,prcStars,,apr,
+PIC_0309_920_010,prcLdev,Precomps,apr,Ryan Smolarek
+PIC_0309_920_010,prcLdevbg,,apr,
+PIC_0309_920_010,ldevCam,Camera,apr,Jon Gourley
+PIC_0309_920_010,camEarth,,apr,
+PIC_0309_920_010,camEarthPushIn,,apr,
+PIC_0309_920_010,fxFireworks,FX,apr,Alexey Cheprakov
+PIC_0309_920_010,ltcompFxFireworks,Light Comp,apr,Alexey Cheprakov
+PIC_0309_920_010,prcEarth,,apr,
+PIC_0309_920_010,lightFireworksINT,Lighting/Rendering,apr,David Gutman
+PIC_0309_920_010,ltcompFireworksINT,Light Comp,apr,David Gutman
+PIC_0309_920_010,prcEarth,,apr,
+PIC_0309_922_030,plate,Edit,apr,
+PIC_0309_922_030,ref,,apr,
+PIC_0309_922_030,comp,Comp,fin,Kenney Kimble
+PIC_0309_922_030,light,Lighting/Rendering,apr,Steve Graves
+PIC_0309_922_030,ltcomp,Light Comp,apr,Steve Graves
+PIC_0309_922_030,fx,FX,apr,Rick Ramirez
+PIC_0309_922_030,ltcompFx,Light Comp,apr,Rick Ramirez
+PIC_0309_922_030,prcProxy,,apr,
+PIC_0309_924_080,plate,Edit,apr,
+PIC_0309_924_080,ref,,apr,
+PIC_0309_924_080,comp,Comp,fin,Alexis Tarakjian
+PIC_0309_924_080,light,Lighting/Rendering,apr,Yinglei Yang
+PIC_0309_924_080,ltcomp,Light Comp,apr,Yinglei Yang
+PIC_0309_924_080,fx,FX,apr,Rick Ramirez
+PIC_0309_924_080,anim,Animation,apr,Dustin Adair
+PIC_0309_924_080,ltcompFx,Light Comp,apr,Rick Ramirez
+PIC_0309_924_080,prcProxy,,apr,
+PIC_0309_924_080,trk,Tracking,apr,"Holly Wenger, VFX Tracking"
+PIC_0309_924_080,lay,,apr,
+PIC_0309_924_080,cam,,apr,
+PIC_0309_924_080,prcDenoise,,apr,
+PIC_0309_924_080,exp,Exports,apr,
+PIC_0309_924_110,plate,Edit,apr,
+PIC_0309_924_110,ref,,apr,
+PIC_0309_924_110,comp,Comp,fin,Alexis Tarakjian
+PIC_0309_924_110,light,Lighting/Rendering,apr,Yinglei Yang
+PIC_0309_924_110,fx,FX,apr,Rick Ramirez
+PIC_0309_924_110,ltcomp,Light Comp,apr,Yinglei Yang
+PIC_0309_924_110,anim,Animation,apr,Dustin Adair
+PIC_0309_924_110,ltcompFx,Light Comp,apr,Rick Ramirez
+PIC_0309_924_110,prcProxy,,apr,
+PIC_0309_924_110,trk,Tracking,apr,"Holly Wenger, VFX Tracking"
+PIC_0309_924_110,roto,Roto,apr,Rotomaker
+PIC_0309_924_110,lay,,apr,
+PIC_0309_924_110,cam,,apr,
+PIC_0309_924_110,animCkTesting,,apr,Christopher Knight
+PIC_0309_924_110,prcDenoise,,apr,
+PIC_0309_924_110,exp,Exports,apr,
+PIC_0309_924_110,prcCg,,apr,
+PIC_0309_926_010,comp,Comp,fin,Slava Ponomarev
+PIC_0309_926_010,anim,Animation,apr,Jason Shulman
+PIC_0309_926_010,light,Lighting/Rendering,apr,"Chris Pierz, Jonathan Bliss"
+PIC_0309_926_010,fx,FX,apr,Rick Ramirez
+PIC_0309_926_010,ltcomp,Light Comp,apr,"Chris Pierz, David Gutman, Jon Gourley, Jonathan Bliss, Yinglei Yang"
+PIC_0309_926_010,ref,Reference,apr,
+PIC_0309_926_010,animPrevis,,apr,Jason Shulman
+PIC_0309_926_010,cam,,apr,
+PIC_0309_926_010,exp,Exports,apr,
+PIC_0309_926_010,lightEarth,Lighting/Rendering,apr,Jon Gourley
+PIC_0309_926_010,ltcompEarth,Light Comp,apr,Jon Gourley
+PIC_0309_926_010,lightSpaceDock,Lighting/Rendering,apr,Yinglei Yang
+PIC_0309_926_010,ltcompSpaceDock,Light Comp,apr,Yinglei Yang
+PIC_0309_926_010,prcStars,,apr,
+PIC_0309_926_010,prcLdev,Precomps,apr,Ryan Smolarek
+PIC_0309_926_010,prcLdevbg,,apr,
+PIC_0309_926_010,prcEarth,,apr,
+PIC_0309_926_010,fxFireworks,FX,apr,Alexey Cheprakov
+PIC_0309_926_010,ltcompFxFireworks,Light Comp,apr,Alexey Cheprakov
+PIC_0309_926_010,lightFireworksINT,Lighting/Rendering,apr,David Gutman
+PIC_0309_926_010,ltcompFireworksINT,Light Comp,apr,David Gutman
+PIC_0309_926_010,prcBg,,apr,
+PIC_0309_926_010,prcBgWithoutPostfx,,apr,
+PIC_0309_926_010,prcEarth,,apr,
+PIC_0309_927_020,plate,Edit,apr,
+PIC_0309_927_020,ref,,apr,
+PIC_0309_927_020,comp,Comp,fin,Elizabeth Bodnar
+PIC_0309_927_020,light,Lighting/Rendering,apr,Steve Graves
+PIC_0309_927_020,fx,FX,apr,Rick Ramirez
+PIC_0309_927_020,ltcomp,Light Comp,apr,Steve Graves
+PIC_0309_927_020,ltcompFx,Light Comp,apr,Rick Ramirez
+PIC_0309_927_020,prcProxy,,apr,
+PIC_0309_927_020,trk,Tracking,apr,Nick Sinnott
+PIC_0309_927_020,roto,Roto,apr,Rotomaker
+PIC_0309_927_020,pnt,Paint,apr,Rotomaker
+PIC_0309_927_020,lay,,apr,
+PIC_0309_927_020,cam,,apr,
+PIC_0309_927_020,prcDenoise,,apr,
+PIC_0309_927_020,prcTest,,apr,
+PIC_0309_927_020,prcReflection,,apr,
+PIC_0309_927_030,plate,Edit,apr,
+PIC_0309_927_030,ref,,apr,
+PIC_0309_927_030,comp,Comp,fin,Elizabeth Bodnar
+PIC_0309_927_030,light,Lighting/Rendering,apr,Steve Graves
+PIC_0309_927_030,fx,FX,apr,Rick Ramirez
+PIC_0309_927_030,ltcomp,Light Comp,apr,Steve Graves
+PIC_0309_927_030,ltcompFx,Light Comp,apr,Rick Ramirez
+PIC_0309_927_030,prcProxy,,apr,
+PIC_0309_927_030,trk,Tracking,apr,Nick Sinnott
+PIC_0309_927_030,roto,Roto,apr,Rotomaker
+PIC_0309_927_030,pnt,Paint,apr,Rotomaker
+PIC_0309_927_030,lay,,apr,
+PIC_0309_927_030,cam,,apr,
+PIC_0309_927_030,und,,apr,
+PIC_0309_927_030,prcDenoise,,apr,
+PIC_0309_927_030,prcFirstlook,,apr,
+PIC_0309_927_030,prcReflections,,apr,
+PIC_0309_927_030,prcKeyandgraphics,,apr,
+PIC_0309_927_030,prcGraphicreflection,,apr,
+PIC_0309_927_030,prcStabbg,,apr,
+PIC_0309_927_030,prcBgwithoutpost2,,apr,
+PIC_0309_927_040,plate,Edit,apr,
+PIC_0309_927_040,ref,,apr,
+PIC_0309_927_040,comp,Comp,fin,Elizabeth Bodnar
+PIC_0309_927_040,light,Lighting/Rendering,apr,Steve Graves
+PIC_0309_927_040,fx,FX,apr,Rick Ramirez
+PIC_0309_927_040,ltcomp,Light Comp,apr,Steve Graves
+PIC_0309_927_040,ltcompFx,Light Comp,apr,Rick Ramirez
+PIC_0309_927_040,prcProxy,,apr,
+PIC_0309_927_040,trk,Tracking,apr,Nick Sinnott
+PIC_0309_927_040,roto,Roto,apr,Rotomaker
+PIC_0309_927_040,pnt,Paint,apr,Rotomaker
+PIC_0309_927_040,lay,,apr,
+PIC_0309_927_040,cam,,apr,
+PIC_0309_927_040,und,,apr,
+PIC_0309_927_040,prcDenoise,,apr,
+PIC_0309_927_040,prcFirstlook,,apr,
+PIC_0309_927_040,prcReflections,,apr,
+PIC_0309_927_040,prcGrain,,apr,
+PIC_0309_927_040,prcTest,,apr,
+PIC_0309_930_010,trk,Tracking,hld,
+PIC_0309_930_010,light,Lighting/Rendering,hld,
+PIC_0309_930_010,anim,Animation,hld,
+PIC_0309_930_010,comp,Comp,hld,
+PIC_0309_930_010,ltcomp,Light Comp,hld,
+PIC_0309_930_010,ref,Reference,apr,
+PIC_0309_933_010,plate,Edit,apr,
+PIC_0309_933_010,ref,,apr,
+PIC_0309_933_010,comp,Comp,fin,"Daniel Flores, Elizabeth Bodnar"
+PIC_0309_933_010,light,Lighting/Rendering,apr,Steve Graves
+PIC_0309_933_010,ltcomp,Light Comp,apr,Steve Graves
+PIC_0309_933_010,fx,FX,apr,Rick Ramirez
+PIC_0309_933_010,ltcompFx,Light Comp,apr,Rick Ramirez
+PIC_0309_933_010,prcProxy,,apr,
+PIC_0309_933_010,trk,Tracking,apr,Nick Sinnott
+PIC_0309_933_010,roto,Roto,apr,Rotomaker
+PIC_0309_933_010,pnt,Paint,apr,Rotomaker
+PIC_0309_933_010,lay,,apr,
+PIC_0309_933_010,cam,,apr,
+PIC_0309_933_010,prcDenoise,,apr,
+PIC_0309_933_010,prcReflections,,apr,
+PIC_0309_933_010,prcBg,,apr,
+PIC_0309_933_010,prcGlitchingscreen,,apr,
+PIC_0309_933_010,prcBorgloopretime,,apr,
+PIC_0309_933_020,plate,Edit,apr,
+PIC_0309_933_020,ref,,apr,
+PIC_0309_933_020,comp,Comp,fin,Elizabeth Bodnar
+PIC_0309_933_020,light,Lighting/Rendering,apr,Steve Graves
+PIC_0309_933_020,fx,FX,apr,Rick Ramirez
+PIC_0309_933_020,ltcomp,Light Comp,apr,Steve Graves
+PIC_0309_933_020,ltcompFx,Light Comp,apr,Rick Ramirez
+PIC_0309_933_020,prcProxy,,apr,
+PIC_0309_933_020,trk,Tracking,apr,Nick Sinnott
+PIC_0309_933_020,roto,Roto,apr,
+PIC_0309_933_020,pnt,Paint,apr,
+PIC_0309_933_020,lay,,apr,
+PIC_0309_933_020,cam,,apr,
+PIC_0309_933_020,prcDenoise,,apr,
+PIC_0309_937_010,plate,Edit,apr,
+PIC_0309_937_010,ref,,apr,
+PIC_0309_937_010,comp,Comp,fin,Elizabeth Bodnar
+PIC_0309_937_010,light,Lighting/Rendering,apr,Steve Graves
+PIC_0309_937_010,fx,FX,apr,Rick Ramirez
+PIC_0309_937_010,ltcomp,Light Comp,apr,Steve Graves
+PIC_0309_937_010,ltcompFx,Light Comp,apr,Rick Ramirez
+PIC_0309_937_010,prcProxy,,apr,
+PIC_0309_937_010,trk,Tracking,apr,Nick Sinnott
+PIC_0309_937_010,roto,Roto,apr,Rotomaker
+PIC_0309_937_010,pnt,Paint,apr,Rotomaker
+PIC_0309_937_010,lay,,apr,
+PIC_0309_937_010,mm,,apr,
+PIC_0309_937_010,cam,,apr,
+PIC_0309_937_010,prcDenoise,,apr,
+PIC_0309_937_010,prcGlitching,,apr,
+PIC_0309_937_010,prcReflection,,apr,
+PIC_0309_937_010,prcBg,,apr,
+PIC_0309_937_020,plate,Edit,apr,
+PIC_0309_937_020,ref,,apr,
+PIC_0309_937_020,comp,Comp,fin,Elizabeth Bodnar
+PIC_0309_937_020,light,Lighting/Rendering,apr,Steve Graves
+PIC_0309_937_020,fx,FX,apr,Rick Ramirez
+PIC_0309_937_020,ltcomp,Light Comp,apr,Steve Graves
+PIC_0309_937_020,ltcompFx,Light Comp,apr,Rick Ramirez
+PIC_0309_937_020,prcProxy,,apr,
+PIC_0309_937_020,trk,Tracking,apr,Nick Sinnott
+PIC_0309_937_020,roto,Roto,apr,Rotomaker
+PIC_0309_937_020,pnt,Paint,apr,Rotomaker
+PIC_0309_937_020,lay,,apr,
+PIC_0309_937_020,cam,,apr,
+PIC_0309_937_020,prcDenoise,,apr,
+PIC_0309_937_020,prcFirstlook,,apr,
+PIC_0309_937_020,prcReflections,,apr,
+PIC_0309_937_030,plate,Edit,apr,
+PIC_0309_937_030,ref,,apr,
+PIC_0309_937_030,comp,Comp,fin,Elizabeth Bodnar
+PIC_0309_937_030,light,Lighting/Rendering,apr,Steve Graves
+PIC_0309_937_030,fx,FX,apr,Rick Ramirez
+PIC_0309_937_030,ltcomp,Light Comp,apr,Steve Graves
+PIC_0309_937_030,ltcompFx,Light Comp,apr,Rick Ramirez
+PIC_0309_937_030,prcProxy,,apr,
+PIC_0309_937_030,trk,Tracking,apr,Nick Sinnott
+PIC_0309_937_030,roto,Roto,apr,Rotomaker
+PIC_0309_937_030,pnt,Paint,apr,Rotomaker
+PIC_0309_937_030,lay,,apr,
+PIC_0309_937_030,cam,,apr,
+PIC_0309_937_030,prcDenoise,,apr,
+PIC_0309_937_030,prcFirstlook,,apr,
+PIC_0309_937_030,prcPhaser,,apr,
+PIC_0309_937_030,prcPhaser,,apr,
+PIC_0309_937_030,prcPhaseronly,,apr,
+PIC_0309_937_030,prcSlflare,,apr,
+PIC_0309_937_030,prcSrflare,,apr,
+PIC_0309_937_030,prcReflections,,apr,
+PIC_0309_937_030,prcPhaserfire,,apr,
+PIC_0309_937_030,prcPhaseralt,,apr,
+PIC_0309_937_030,prcPhasterfirealt,,apr,
+PIC_0309_937_030,prcAltphaserfire2,,apr,
+PIC_0309_937_030,prcSplinewarp,,apr,
+PIC_0309_937_030,prcFilledit,,apr,
+PIC_0309_937_030,prcNewphaserfire,,apr,
+PIC_0309_937_030,prcFilleditalpha,,apr,
+PIC_0309_937_040,plate,Edit,apr,
+PIC_0309_937_040,ref,,apr,
+PIC_0309_937_040,comp,Comp,fin,Daniel Flores
+PIC_0309_937_040,light,Lighting/Rendering,apr,Steve Graves
+PIC_0309_937_040,ltcomp,Light Comp,apr,Steve Graves
+PIC_0309_937_040,fx,FX,apr,Rick Ramirez
+PIC_0309_937_040,ltcompFx,Light Comp,apr,Rick Ramirez
+PIC_0309_937_040,prcProxy,,apr,
+PIC_0309_937_040,trk,Tracking,apr,Nick Sinnott
+PIC_0309_937_040,roto,Roto,apr,
+PIC_0309_937_040,pnt,Paint,apr,
+PIC_0309_937_040,lay,,apr,
+PIC_0309_937_040,cam,,apr,
+PIC_0309_937_040,prcDenoise,,apr,
+PIC_0309_937_050,plate,Edit,apr,
+PIC_0309_937_050,ref,,apr,
+PIC_0309_937_050,comp,Comp,fin,Gary Lopez
+PIC_0309_937_050,light,Lighting/Rendering,apr,Steve Graves
+PIC_0309_937_050,ltcomp,Light Comp,apr,Steve Graves
+PIC_0309_937_050,fx,FX,apr,Rick Ramirez
+PIC_0309_937_050,prcProxy,,apr,
+PIC_0309_937_050,ltcompFx,Light Comp,apr,Rick Ramirez
+PIC_0309_937_050,trk,Tracking,apr,Nick Sinnott
+PIC_0309_937_050,roto,Roto,apr,
+PIC_0309_937_050,pnt,Paint,apr,
+PIC_0309_937_050,prcDegrainPnt,,apr,
+PIC_0309_937_050,lay,,apr,
+PIC_0309_937_050,cam,,apr,
+PIC_0309_937_060,plate,Edit,apr,
+PIC_0309_937_060,ref,,apr,
+PIC_0309_937_060,comp,Comp,fin,Gary Lopez
+PIC_0309_937_060,fx,FX,apr,Rick Ramirez
+PIC_0309_937_060,ltcompFx,Light Comp,apr,Rick Ramirez
+PIC_0309_937_060,prcProxy,,apr,
+PIC_0309_937_060,prcDenoise,,apr,
+PIC_0309_937_060,prcTest,,apr,
+PIC_0309_937_070,plate,Edit,apr,
+PIC_0309_937_070,ref,,apr,
+PIC_0309_937_070,comp,Comp,fin,Gary Lopez
+PIC_0309_937_070,prcProxy,,apr,
+PIC_0309_937_070,pnt,,apr,
+PIC_0309_937_070,roto,,apr,
+PIC_0309_937_070,prcDegrainPnt,,apr,
+PIC_0309_937_070,trk,Tracking,apr,Nick Sinnott
+PIC_0309_937_070,lay,,apr,
+PIC_0309_937_070,cam,,apr,
+PIC_0309_937_075,plate,Edit,apr,
+PIC_0309_937_075,ref,,apr,
+PIC_0309_937_075,comp,Comp,fin,Sean Cox
+PIC_0309_937_075,fx,FX,apr,Rick Ramirez
+PIC_0309_937_075,prcProxy,,apr,
+PIC_0309_937_075,ltcompFx,Light Comp,apr,Rick Ramirez
+PIC_0309_937_075,prcDenoise,,apr,
+PIC_0309_937_075,prcPhasers,,apr,
+PIC_0309_937_075,prcPresparks,,apr,
+PIC_0309_937_075,prcPtclsparks,,apr,
+PIC_0309_937_080,plate,Edit,apr,
+PIC_0309_937_080,ref,,apr,
+PIC_0309_937_080,comp,Comp,fin,Gary Lopez
+PIC_0309_937_080,fx,FX,apr,Rick Ramirez
+PIC_0309_937_080,prcProxy,,apr,
+PIC_0309_937_080,ltcompFx,Light Comp,apr,Rick Ramirez
+PIC_0309_937_080,prcDenoise,,apr,
+PIC_0309_937_080,prcTest,,apr,
+PIC_0309_937_090,plate,Edit,apr,
+PIC_0309_937_090,ref,,apr,
+PIC_0309_937_090,comp,Comp,fin,Gary Lopez
+PIC_0309_937_090,prcProxy,,apr,
+PIC_0309_937_090,roto,,apr,
+PIC_0309_937_090,pnt,,apr,
+PIC_0309_937_090,prcDegrainPnt,,apr,
+PIC_0309_937_090,trk,Tracking,apr,Nick Sinnott
+PIC_0309_937_090,lay,,apr,
+PIC_0309_937_090,cam,,apr,
+PIC_0309_937_100,plate,Edit,apr,
+PIC_0309_937_100,ref,,apr,
+PIC_0309_937_100,comp,Comp,fin,Doug Witsken
+PIC_0309_937_100,fx,FX,apr,Rick Ramirez
+PIC_0309_937_100,prcProxy,,apr,
+PIC_0309_937_100,ltcompFx,Light Comp,apr,Rick Ramirez
+PIC_0309_937_100,prcDenoise,,apr,
+PIC_0309_937_100,prcPhaserfire,,apr,
+PIC_0309_937_103,plate,Edit,apr,
+PIC_0309_937_103,ref,,apr,
+PIC_0309_937_103,comp,Comp,fin,Doug Witsken
+PIC_0309_937_103,fx,FX,apr,Rick Ramirez
+PIC_0309_937_103,prcProxy,,apr,
+PIC_0309_937_103,ltcompFx,Light Comp,apr,Rick Ramirez
+PIC_0309_937_103,prcDenoise,,apr,
+PIC_0309_937_105,plate,Edit,apr,
+PIC_0309_937_105,ref,,apr,
+PIC_0309_937_105,comp,Comp,fin,Gary Lopez
+PIC_0309_937_105,fx,FX,apr,Rick Ramirez
+PIC_0309_937_105,prcProxy,,apr,
+PIC_0309_937_105,ltcompFx,Light Comp,apr,Rick Ramirez
+PIC_0309_937_105,prcDenoise,,apr,
+PIC_0309_937_110,plate,Edit,apr,
+PIC_0309_937_110,ref,,apr,
+PIC_0309_937_110,comp,Comp,fin,Sean Cox
+PIC_0309_937_110,fx,FX,apr,Rick Ramirez
+PIC_0309_937_110,prcProxy,,apr,
+PIC_0309_937_110,ltcompFx,Light Comp,apr,Rick Ramirez
+PIC_0309_937_110,prcPhasers,,apr,
+PIC_0309_937_110,prcDenoise,,apr,
+PIC_0309_937_110,trk,Tracking,apr,Nick Sinnott
+PIC_0309_937_110,lay,,apr,
+PIC_0309_937_110,cam,,apr,
+PIC_0309_937_110,prcSparks,,apr,
+PIC_0309_937_110,prcPresparks,,apr,
+PIC_0309_939_010,plate,Edit,apr,
+PIC_0309_939_010,ref,,apr,
+PIC_0309_939_010,comp,Comp,fin,Gary Lopez
+PIC_0309_939_010,fx,FX,apr,Rick Ramirez
+PIC_0309_939_010,ltcompFx,Light Comp,apr,Rick Ramirez
+PIC_0309_939_010,prcProxy,,apr,
+PIC_0309_939_010,prcDenoise,,apr,
+PIC_0309_942_010,comp,Comp,fin,Javier Gallego
+PIC_0309_942_010,anim,Animation,apr,Jason Shulman
+PIC_0309_942_010,light,Lighting/Rendering,apr,"Chris Pierz, Forrest Arnold, Jonathan Bliss"
+PIC_0309_942_010,fx,FX,apr,Rick Ramirez
+PIC_0309_942_010,ltcomp,Light Comp,apr,"Chris Pierz, Forrest Arnold, Jon Gourley, Jonathan Bliss, Yinglei Yang"
+PIC_0309_942_010,ref,Reference,apr,
+PIC_0309_942_010,animPrevis,,apr,Jason Shulman
+PIC_0309_942_010,lightLighttest,,apr,Jonathan Bliss
+PIC_0309_942_010,ltcompLighttest,Light Comp,apr,Jonathan Bliss
+PIC_0309_942_010,camD,,apr,
+PIC_0309_942_010,cam,,apr,
+PIC_0309_942_010,lightEarth,Lighting/Rendering,apr,Jon Gourley
+PIC_0309_942_010,ltcompEarth,Light Comp,apr,Jon Gourley
+PIC_0309_942_010,exp,Exports,apr,
+PIC_0309_942_010,lightSpaceDock,Lighting/Rendering,apr,Yinglei Yang
+PIC_0309_942_010,ltcompSpaceDock,Light Comp,apr,Yinglei Yang
+PIC_0309_942_010,prcNebula,,apr,
+PIC_0309_942_010,prcStars,,apr,
+PIC_0309_942_010,prcLdev,Precomps,apr,Ryan Smolarek
+PIC_0309_942_010,prcLdevbg,,apr,
+PIC_0309_942_010,prcPlanetbg,,apr,
+PIC_0309_942_010,prcEarth,,apr,
+PIC_0309_942_010,prcFrame1Earth,,apr,
+PIC_0309_942_010,prcHeroentbty,,apr,
+PIC_0309_942_010,prcHerotitanbty,,apr,
+PIC_0309_946_020,plate,Edit,apr,
+PIC_0309_946_020,ref,,apr,
+PIC_0309_946_020,comp,Comp,fin,Peter Herlein
+PIC_0309_946_020,light,Lighting/Rendering,apr,Steve Graves
+PIC_0309_946_020,ltcomp,Light Comp,apr,Steve Graves
+PIC_0309_946_020,prcProxy,,apr,
+PIC_0309_946_020,fx,FX,apr,Rick Ramirez
+PIC_0309_946_020,ltcompFx,Light Comp,apr,Rick Ramirez
+PIC_0309_946_020,trk,Tracking,apr,"VFX Tracking, yannix"
+PIC_0309_946_020,prcDenoise,,apr,
+PIC_0309_946_020,prcTestcomp,,apr,
+PIC_0309_946_020,prcPlatetrack,,apr,
+PIC_0309_946_020,prcPhasers,,apr,
+PIC_0309_946_020,mm,,apr,
+PIC_0309_946_020,cam,,apr,
+PIC_0309_946_020,lay,,apr,
+PIC_0309_946_020,und,,apr,
+PIC_0309_946_030,plate,Edit,apr,
+PIC_0309_946_030,ref,,apr,
+PIC_0309_946_030,comp,Comp,fin,Gary Lopez
+PIC_0309_946_030,prcProxy,,apr,
+PIC_0309_946_030,fx,FX,apr,Rick Ramirez
+PIC_0309_946_030,ltcompFx,Light Comp,apr,Rick Ramirez
+PIC_0309_946_030,prcMikeDTest,Precomps,apr,
+PIC_0309_946_030,prcDenoise,,apr,
+PIC_0309_952_005,plate,Edit,apr,
+PIC_0309_952_005,ref,,apr,
+PIC_0309_952_005,comp,Comp,fin,Sean Cox
+PIC_0309_952_005,prcProxy,,apr,
+PIC_0309_952_005,fx,FX,apr,Rick Ramirez
+PIC_0309_952_005,ltcompFx,Light Comp,apr,Rick Ramirez
+PIC_0309_952_005,prcDenoise,,apr,
+PIC_0309_952_005,prcPhasers,,apr,
+PIC_0309_952_005,prcPhaserbase,,apr,
+PIC_0309_952_005,prcGodrays,,apr,
+PIC_0309_952_010,plate,Edit,apr,
+PIC_0309_952_010,ref,,apr,
+PIC_0309_952_010,comp,Comp,fin,Javier Gallego
+PIC_0309_952_010,prcProxy,,apr,
+PIC_0309_952_010,fx,FX,apr,Rick Ramirez
+PIC_0309_952_010,ltcompFx,Light Comp,apr,Rick Ramirez
+PIC_0309_952_010,prcSparks,,apr,
+PIC_0309_952_010,prcBurnmark,,apr,
+PIC_0309_952_010,prcPhaser,,apr,
+PIC_0309_952_010,prcFlares,,apr,
+PIC_0309_952_010,prcLensdirtgen,,apr,
+PIC_0309_952_020,plate,Edit,apr,
+PIC_0309_952_020,ref,,apr,
+PIC_0309_952_020,comp,Comp,fin,Javier Gallego
+PIC_0309_952_020,prcProxy,,apr,
+PIC_0309_952_020,trk,Tracking,apr,Nick Sinnott
+PIC_0309_952_020,lay,,apr,
+PIC_0309_952_020,cam,,apr,
+PIC_0309_952_020,und,,apr,
+PIC_0309_952_030,plate,Edit,apr,
+PIC_0309_952_030,ref,,apr,
+PIC_0309_952_030,comp,Comp,fin,Jacob Coy
+PIC_0309_952_030,prcProxy,,apr,
+PIC_0309_952_030,prcPhasers,,apr,
+PIC_0309_952_030,prcDenoise,,apr,
+PIC_0309_952_040,plate,Edit,apr,
+PIC_0309_952_040,ref,,apr,
+PIC_0309_952_040,comp,Comp,fin,Sean Cox
+PIC_0309_952_040,prcProxy,,apr,
+PIC_0309_952_040,fx,FX,apr,Rick Ramirez
+PIC_0309_952_040,ltcompFx,Light Comp,apr,Rick Ramirez
+PIC_0309_952_040,prcDenoise,,apr,
+PIC_0309_952_040,prcPhasers,,apr,
+PIC_0309_952_040,prcPresparks,,apr,
+PIC_0309_952_040,prcSparkhita,,apr,
+PIC_0309_952_040,prcSparkhitb,,apr,
+PIC_0309_952_040,prcScorchmarks,,apr,
+PIC_0309_952_040,prcPhaserskill,,apr,
+PIC_0309_957_010,plate,Edit,apr,
+PIC_0309_957_010,ref,,apr,
+PIC_0309_957_010,comp,Comp,fin,Jacob Coy
+PIC_0309_957_010,prcProxy,,apr,
+PIC_0309_957_010,fx,FX,apr,Rick Ramirez
+PIC_0309_957_010,ltcompFx,Light Comp,apr,Rick Ramirez
+PIC_0309_957_010,prcPhasers,,apr,
+PIC_0309_957_010,prcDenoise,,apr,
+PIC_0309_957_020,plate,Edit,apr,
+PIC_0309_957_020,ref,,apr,
+PIC_0309_957_020,comp,Comp,fin,Jacob Coy
+PIC_0309_957_020,prcProxy,,apr,
+PIC_0309_957_020,fx,FX,apr,Rick Ramirez
+PIC_0309_957_020,ltcompFx,Light Comp,apr,Rick Ramirez
+PIC_0309_957_020,prcDenoise,,apr,
+PIC_0309_957_020,prcPhasers,,apr,
+PIC_0309_957_022,plate,Edit,apr,
+PIC_0309_957_022,ref,,apr,
+PIC_0309_957_022,comp,Comp,fin,Slava Ponomarev
+PIC_0309_957_022,light,Lighting/Rendering,apr,Steve Graves
+PIC_0309_957_022,ltcomp,Light Comp,apr,Steve Graves
+PIC_0309_957_022,prcProxy,,apr,
+PIC_0309_957_022,fx,FX,apr,Rick Ramirez
+PIC_0309_957_022,ltcompFx,Light Comp,apr,Rick Ramirez
+PIC_0309_957_022,trk,Tracking,apr,"VFX Tracking, yannix"
+PIC_0309_957_022,mm,,apr,
+PIC_0309_957_022,cam,,apr,
+PIC_0309_957_022,lay,,apr,
+PIC_0309_957_022,und,,apr,
+PIC_0309_957_026,plate,Edit,apr,
+PIC_0309_957_026,ref,,apr,
+PIC_0309_957_026,comp,Comp,fin,Erik O' Donnell
+PIC_0309_957_026,prcProxy,,apr,
+PIC_0309_957_026,fx,FX,apr,Rick Ramirez
+PIC_0309_957_026,ltcompFx,Light Comp,apr,Rick Ramirez
+PIC_0309_957_026,prc,,apr,
+PIC_0309_957_030,plate,Edit,apr,
+PIC_0309_957_030,ref,,apr,
+PIC_0309_957_030,comp,Comp,fin,Erik O' Donnell
+PIC_0309_957_030,prcProxy,,apr,
+PIC_0309_957_030,fx,FX,apr,Rick Ramirez
+PIC_0309_957_030,ltcompFx,Light Comp,apr,Rick Ramirez
+PIC_0309_957_030,prc,,apr,
+PIC_0309_957_035,plate,Edit,apr,
+PIC_0309_957_035,ref,,apr,
+PIC_0309_957_035,comp,Comp,fin,Erik O' Donnell
+PIC_0309_957_035,prcProxy,,apr,
+PIC_0309_957_035,fx,FX,apr,Rick Ramirez
+PIC_0309_957_035,ltcompFx,Light Comp,apr,Rick Ramirez
+PIC_0309_957_035,prc,,apr,
+PIC_0309_957_050,plate,Edit,apr,
+PIC_0309_957_050,ref,,apr,
+PIC_0309_957_050,comp,Comp,fin,Peter Herlein
+PIC_0309_957_050,light,Lighting/Rendering,apr,Steve Graves
+PIC_0309_957_050,ltcomp,Light Comp,apr,Steve Graves
+PIC_0309_957_050,prcProxy,,apr,
+PIC_0309_957_050,fx,FX,apr,Rick Ramirez
+PIC_0309_957_050,ltcompFx,Light Comp,apr,Rick Ramirez
+PIC_0309_957_050,trk,Tracking,apr,"VFX Tracking, yannix"
+PIC_0309_957_050,prcDenoise,,apr,
+PIC_0309_957_050,prcTestcomp,,apr,
+PIC_0309_957_050,cam,,apr,
+PIC_0309_957_050,lay,,apr,
+PIC_0309_957_050,und,,apr,
+PIC_0309_957_090,plate,Edit,apr,
+PIC_0309_957_090,ref,,apr,
+PIC_0309_957_090,comp,Comp,fin,Erik O' Donnell
+PIC_0309_957_090,prcProxy,,apr,
+PIC_0309_957_090,fx,FX,apr,Rick Ramirez
+PIC_0309_957_090,ltcompFx,Light Comp,apr,Rick Ramirez
+PIC_0309_957_090,prc,,apr,
+PIC_0309_957_095,plate,Edit,apr,
+PIC_0309_957_095,ref,,apr,
+PIC_0309_957_095,comp,Comp,fin,Slava Ponomarev
+PIC_0309_957_095,light,Lighting/Rendering,apr,Steve Graves
+PIC_0309_957_095,ltcomp,Light Comp,apr,Steve Graves
+PIC_0309_957_095,prcProxy,,apr,
+PIC_0309_957_095,fx,FX,apr,Rick Ramirez
+PIC_0309_957_095,ltcompFx,Light Comp,apr,Rick Ramirez
+PIC_0309_957_095,trk,Tracking,apr,"VFX Tracking, yannix"
+PIC_0309_957_095,mm,,apr,
+PIC_0309_957_095,cam,,apr,
+PIC_0309_957_095,lay,,apr,
+PIC_0309_957_095,und,,apr,
+PIC_0309_959_010,comp,Comp,fin,Javier Gallego
+PIC_0309_959_010,anim,Animation,apr,Jason Shulman
+PIC_0309_959_010,light,Lighting/Rendering,apr,"Jonathan Bliss, Patricio Harris"
+PIC_0309_959_010,fx,FX,apr,Rick Ramirez
+PIC_0309_959_010,ltcomp,Light Comp,apr,"Jon Gourley, Jonathan Bliss, Patricio Harris, Yinglei Yang"
+PIC_0309_959_010,ltcompFx,Light Comp,apr,Rick Ramirez
+PIC_0309_959_010,ref,Reference,apr,
+PIC_0309_959_010,animPrevis,,apr,Jason Shulman
+PIC_0309_959_010,lightEarth,Lighting/Rendering,apr,Jon Gourley
+PIC_0309_959_010,ltcompEarth,Light Comp,apr,Jon Gourley
+PIC_0309_959_010,cam,,apr,
+PIC_0309_959_010,exp,Exports,apr,
+PIC_0309_959_010,lightSpaceDock,Lighting/Rendering,apr,Yinglei Yang
+PIC_0309_959_010,ltcompSpaceDock,Light Comp,apr,Yinglei Yang
+PIC_0309_959_010,prcNebula,,apr,
+PIC_0309_959_010,prcStars,,apr,
+PIC_0309_959_010,prcLdev,Precomps,apr,Ryan Smolarek
+PIC_0309_959_010,prcLdevbg,,apr,
+PIC_0309_959_010,prcFlare,,apr,
+PIC_0309_959_010,prcPlanetBg,,apr,
+PIC_0309_959_010,prcSpacedoc,,apr,
+PIC_0309_959_010,prcAnomalylenssetBokeh5,,apr,
+PIC_0309_959_010,prcFrame1Earth,,apr,
+PIC_0309_959_010,prcFrame1Earth,,apr,
+PIC_0310_007_010,comp,Comp,rrq,Peter Herlein
+PIC_0310_007_010,anim,Animation,vfsup,Jason Shulman
+PIC_0310_007_010,animPrevis,Previsualization,rdy,Jason Shulman
+PIC_0310_007_010,fx,FX,ip,Rick Ramirez
+PIC_0310_007_010,ref,Reference,apr,
+PIC_0310_007_010,ltcompFX,FX,rdy,"Alexey Cheprakov, David Silva, Rick Ramirez, Val Kharitonashvili"
+PIC_0310_007_010,fxTorpedo,FX,ip,Val Kharitonashvili
+PIC_0310_007_010,ltcompFxTorpedo,Light Comp,wtg,Alexey Cheprakov
+PIC_0310_007_010,lightEarth,Lighting/Rendering,rdcmpl,Jon Gourley
+PIC_0310_007_010,ltcompEarth,Light Comp,rdy,Jon Gourley
+PIC_0310_007_010,lightWeaponsINT,Lighting/Rendering,rrq,"David Gutman, Jonathan Bliss"
+PIC_0310_007_010,ltcompWeaponsINT,Light Comp,apr,David Gutman
+PIC_0310_007_010,lightSpaceDock,Lighting/Rendering,rrq,Yinglei Yang
+PIC_0310_007_010,ltcompSpaceDock,Light Comp,apr,Yinglei Yang
+PIC_0310_007_010,exp,Exports,ip,
+PIC_0310_007_010,cam,,apr,
+PIC_0310_007_010,fxExplosions,FX,onfrm,Val Kharitonashvili
+PIC_0310_007_010,ltcompFxExplosions,Light Comp,rrq,Val Kharitonashvili
+PIC_0310_007_010,fxShields,FX,ip,David Silva
+PIC_0310_007_010,ltcompFxShields,Light Comp,ip,David Silva
+PIC_0310_007_010,fxPhasers,FX,ip,Alexey Cheprakov
+PIC_0310_007_010,ltcompFxPhasers,Light Comp,wtg,Alexey Cheprakov
+PIC_0310_007_010,fxDestruction,FX,rdcmpl,Alexey Cheprakov
+PIC_0310_007_010,ltcompFxDestruction,Light Comp,apr,Alexey Cheprakov
+PIC_0310_007_010,ldev,Look Dev,rdy,Jonathan Bliss
+PIC_0310_007_010,light,Lighting/Rendering,ip,"David Gutman, Jonathan Bliss"
+PIC_0310_007_010,ltcomp,Light Comp,rdy,"David Gutman, Jon Gourley, Jonathan Bliss, Yinglei Yang"
+PIC_0310_007_010,lightExplosionsINT,Lighting/Rendering,rdycmp,"David Gutman, Jonathan Bliss"
+PIC_0310_007_010,ltcompExplosionsINT,Light Comp,rrq,David Gutman
+PIC_0310_007_010,lightUseMe,Lighting/Rendering,onfrm,"David Gutman, Jonathan Bliss"
+PIC_0310_007_010,ltcompUseMe,Light Comp,apr,Jonathan Bliss
+PIC_0310_007_010,fxExploFleet,FX,wtg,Val Kharitonashvili
+PIC_0310_007_010,ltcompFxExploFleet,Light Comp,wtg,Val Kharitonashvili
+PIC_0310_007_010,fxExploSpacedock,FX,wtg,Val Kharitonashvili
+PIC_0310_007_010,ltcompFxExploSpacedock,Light Comp,wtg,Val Kharitonashvili
+PIC_0310_007_010,fxShieldsFleet,FX,rrq,David Silva
+PIC_0310_007_010,ltcompFxShieldsFleet,Light Comp,wtg,David Silva
+PIC_0310_007_010,fxShieldsSpacedock,FX,rrq,David Silva
+PIC_0310_007_010,ltcompFxShieldsSpacedock,Light Comp,rrq,David Silva
+PIC_0310_007_010,ldevPhasers,Look Dev,rdcmpl,"Forrest Arnold, Yinglei Yang"
+PIC_0310_007_010,prcStars,,wtg,
+PIC_0310_007_010,prcTestcomp,,wtg,
+PIC_0310_007_010,prcPrelens,,wtg,
+PIC_0310_007_010,prcTorpedo,,ip,Peter Herlein
+PIC_0310_007_010,prcMikeDTest,,wtg,
+PIC_0310_012_070,plate,Edit,rdycmp,
+PIC_0310_012_070,trk,Tracking,apr,"Edith Clara, VFX Tracking"
+PIC_0310_012_070,comp,Comp,supfin,Elizabeth Bodnar
+PIC_0310_012_070,roto,Roto,rdycmp,Rotomaker
+PIC_0310_012_070,prcProxy,,rdcmpl,
+PIC_0310_012_070,ref,Reference,apr,
+PIC_0310_012_070,pnt,Paint,rdycmp,Rotomaker
+PIC_0310_012_070,prcDenoise,,wtg,
+PIC_0310_012_070,lay,,apr,
+PIC_0310_012_070,cam,,apr,
+PIC_0310_012_070,und,,apr,
+PIC_0310_012_070,prcFirstlook,,wtg,
+PIC_0310_012_070,prcReflection,,wtg,
+PIC_0310_012_070,prcKey,,wtg,
+PIC_0310_012_080,plate,Edit,rdycmp,
+PIC_0310_012_080,trk,Tracking,apr,"Edith Clara, VFX Tracking"
+PIC_0310_012_080,comp,Comp,rrq,Elizabeth Bodnar
+PIC_0310_012_080,roto,Roto,rdycmp,Rotomaker
+PIC_0310_012_080,prcProxy,,rdcmpl,
+PIC_0310_012_080,ref,Reference,apr,
+PIC_0310_012_080,pnt,Paint,rdycmp,Rotomaker
+PIC_0310_012_080,prcDenoise,,wtg,
+PIC_0310_012_080,lay,,apr,
+PIC_0310_012_080,cam,,apr,
+PIC_0310_012_080,und,,apr,
+PIC_0310_012_080,prcKeywithbg,,wtg,
+PIC_0310_012_080,prcPhaser,,wtg,
+PIC_0310_012_080,prcFlare,,wtg,
+PIC_0310_012_080,prcPhaserwflare,,wtg,
+PIC_0310_012_080,prcReflection,,wtg,
+PIC_0310_012_080,prcKeyonly,,wtg,
+PIC_0310_012_080,prcKeyupdate,,wtg,
+PIC_0310_012_200,plate,Edit,apr,
+PIC_0310_012_200,trk,Tracking,apr,"Edith Clara, VFX Tracking"
+PIC_0310_012_200,comp,Comp,fin,Elizabeth Bodnar
+PIC_0310_012_200,roto,Roto,apr,Rotomaker
+PIC_0310_012_200,prcProxy,,apr,
+PIC_0310_012_200,ref,Reference,apr,
+PIC_0310_012_200,pnt,Paint,apr,Rotomaker
+PIC_0310_012_200,prcDenoise,,apr,
+PIC_0310_012_200,lay,,apr,
+PIC_0310_012_200,cam,,apr,
+PIC_0310_012_200,prcFillwithcc,,apr,
+PIC_0310_012_200,prcReflection,,apr,
+PIC_0310_012_200,prcFleet,,apr,
+PIC_0310_012_300,plate,Edit,apr,
+PIC_0310_012_300,trk,Tracking,apr,"Holly Wenger, VFX Tracking"
+PIC_0310_012_300,comp,Comp,fin,Peter Herlein
+PIC_0310_012_300,roto,Roto,apr,Rotomaker
+PIC_0310_012_300,prcProxy,,apr,
+PIC_0310_012_300,ref,Reference,apr,
+PIC_0310_012_300,anim,Animation,apr,"Jason Shulman, Steve Graves"
+PIC_0310_012_300,light,Lighting/Rendering,apr,Jonathan Bliss
+PIC_0310_012_300,ltcomp,Light Comp,apr,"David Gutman, Jonathan Bliss, Yinglei Yang"
+PIC_0310_012_300,fx,FX,apr,Rick Ramirez
+PIC_0310_012_300,ltcompFx,Light Comp,apr,"Alexey Cheprakov, David Silva, Rick Ramirez, Val Kharitonashvili"
+PIC_0310_012_300,pnt,Paint,apr,Rotomaker
+PIC_0310_012_300,prcDenoise,,apr,
+PIC_0310_012_300,lay,,apr,
+PIC_0310_012_300,cam,,apr,
+PIC_0310_012_300,exp,Exports,apr,
+PIC_0310_012_300,prcTestcomp,,apr,
+PIC_0310_012_300,fxShields,FX,apr,David Silva
+PIC_0310_012_300,ltcompFxShields,Light Comp,apr,David Silva
+PIC_0310_012_300,fxExplosions,FX,apr,Val Kharitonashvili
+PIC_0310_012_300,ltcompFxExplosions,Light Comp,apr,Val Kharitonashvili
+PIC_0310_012_300,lightSpaceDock,Lighting/Rendering,apr,Yinglei Yang
+PIC_0310_012_300,ltcompSpaceDock,Light Comp,apr,Yinglei Yang
+PIC_0310_012_300,lightExplosionsINT,Lighting/Rendering,apr,David Gutman
+PIC_0310_012_300,ltcompExplosionsINT,Light Comp,apr,David Gutman
+PIC_0310_012_300,lightWeaponsINT,Lighting/Rendering,apr,David Gutman
+PIC_0310_012_300,ltcompWeaponsINT,Light Comp,apr,David Gutman
+PIC_0310_012_300,ldevPhasers,Look Dev,apr,Forrest Arnold
+PIC_0310_012_300,prcTemplate,,apr,
+PIC_0310_012_300,prcEarth,,apr,
+PIC_0310_012_300,prcLdev,Precomps,rev,Peter Herlein
+PIC_0310_012_300,fxDebris,FX,apr,Alexey Cheprakov
+PIC_0310_012_300,ltcompFxDebris,Light Comp,apr,Alexey Cheprakov
+PIC_0310_012_300,fxPhasers,FX,apr,Rick Ramirez
+PIC_0310_012_300,ltcompFxPhasers,Light Comp,apr,Rick Ramirez
+PIC_0310_012_300,ltcompExplosions,,apr,
+PIC_0310_012_300,fxDestruction,,apr,
+PIC_0310_012_300,ltcompFxDestruction,Light Comp,apr,
+PIC_0310_012_300,fxTorpedoes,FX,apr,Rick Ramirez
+PIC_0310_012_300,ltcompFxTorpedoes,Light Comp,apr,Rick Ramirez
+PIC_0310_012_310,plate,Edit,rdycmp,
+PIC_0310_012_310,trk,Tracking,apr,"Edith Clara, VFX Tracking"
+PIC_0310_012_310,comp,Comp,rrq,Nick Dodge
+PIC_0310_012_310,roto,Roto,rdycmp,Rotomaker
+PIC_0310_012_310,prcProxy,,rdcmpl,
+PIC_0310_012_310,ref,Reference,apr,
+PIC_0310_012_310,pnt,Paint,rdycmp,Rotomaker
+PIC_0310_012_310,lay,,apr,
+PIC_0310_012_310,cam,,apr,
+PIC_0310_012_310,prcDenoise,,wtg,
+PIC_0310_012_310,prcLdev,Precomps,wtg,Ryan Smolarek
+PIC_0310_012_320,plate,Edit,rdycmp,
+PIC_0310_012_320,trk,Tracking,apr,"Edith Clara, Nick Sinnott, VFX Tracking"
+PIC_0310_012_320,comp,Comp,rrq,Nick Dodge
+PIC_0310_012_320,roto,Roto,rdycmp,Rotomaker
+PIC_0310_012_320,prcProxy,,rdcmpl,
+PIC_0310_012_320,ref,Reference,apr,
+PIC_0310_012_320,pnt,Paint,rdycmp,Rotomaker
+PIC_0310_012_320,lay,,apr,
+PIC_0310_012_320,cam,,apr,
+PIC_0310_012_320,prcDenoise,,wtg,
+PIC_0310_012_320,prcLdev,Precomps,rev,Elizabeth Bodnar
+PIC_0310_012_325,plate,Edit,rdycmp,
+PIC_0310_012_325,trk,Tracking,apr,"Edith Clara, VFX Tracking"
+PIC_0310_012_325,comp,Comp,rrq,Nick Dodge
+PIC_0310_012_325,roto,Roto,rdycmp,Rotomaker
+PIC_0310_012_325,prcProxy,,rdcmpl,
+PIC_0310_012_325,ref,Reference,apr,
+PIC_0310_012_325,lay,,apr,
+PIC_0310_012_325,cam,,apr,
+PIC_0310_012_325,und,,apr,
+PIC_0310_012_325,pnt,Paint,rdycmp,Rotomaker
+PIC_0310_012_325,prcDenoise,,wtg,
+PIC_0310_012_325,prcLdev,Precomps,wtg,Ryan Smolarek
+PIC_0310_012_340,plate,Edit,rdycmp,
+PIC_0310_012_340,trk,Tracking,apr,"Holly Wenger, VFX Tracking"
+PIC_0310_012_340,comp,Comp,rrq,Alexis Tarakjian
+PIC_0310_012_340,roto,Roto,rdycmp,Rotomaker
+PIC_0310_012_340,prcProxy,,rdcmpl,
+PIC_0310_012_340,ref,Reference,apr,
+PIC_0310_012_340,pnt,Paint,rdycmp,Rotomaker
+PIC_0310_012_340,lay,,apr,
+PIC_0310_012_340,cam,,apr,
+PIC_0310_012_340,prcDenoise,,wtg,
+PIC_0310_022_015,plate,Edit,apr,
+PIC_0310_022_015,trk,Tracking,apr,"Edith Clara, VFX Tracking"
+PIC_0310_022_015,comp,Comp,fin,David Hochstadter
+PIC_0310_022_015,roto,Roto,apr,Rotomaker
+PIC_0310_022_015,prcProxy,,apr,
+PIC_0310_022_015,ref,Reference,apr,
+PIC_0310_022_015,pnt,Paint,apr,Rotomaker
+PIC_0310_022_015,lay,,apr,
+PIC_0310_022_015,cam,,apr,
+PIC_0310_022_015,prcPntDenoise,,apr,
+PIC_0310_022_015,prcBgUpscale,,apr,
+PIC_0310_022_030,plate,Edit,rdycmp,
+PIC_0310_022_030,trk,Tracking,apr,"Holly Wenger, VFX Tracking"
+PIC_0310_022_030,comp,Comp,rrq,David Hochstadter
+PIC_0310_022_030,roto,Roto,rdycmp,Rotomaker
+PIC_0310_022_030,prcProxy,,rdcmpl,
+PIC_0310_022_030,ref,Reference,apr,
+PIC_0310_022_030,pnt,Paint,rdycmp,Rotomaker
+PIC_0310_022_030,lay,,apr,
+PIC_0310_022_030,cam,,apr,
+PIC_0310_022_030,prcDenoise,,wtg,
+PIC_0310_022_030,prcDenoise,,wtg,
+PIC_0310_022_040,plate,Edit,rdycmp,
+PIC_0310_022_040,trk,Tracking,apr,"Holly Wenger, VFX Tracking"
+PIC_0310_022_040,comp,Comp,rrq,David Hochstadter
+PIC_0310_022_040,roto,Roto,rdycmp,Rotomaker
+PIC_0310_022_040,prcProxy,,rdcmpl,
+PIC_0310_022_040,ref,Reference,apr,
+PIC_0310_022_040,pnt,Paint,rdycmp,Rotomaker
+PIC_0310_022_040,lay,,apr,
+PIC_0310_022_040,cam,,apr,
+PIC_0310_022_040,prcDenoise,,wtg,
+PIC_0310_022_040,prcPntdenoise,,wtg,
+PIC_0310_022_040,prcBgupscale,,wtg,
+PIC_0310_022_040,prcDenoise,,wtg,
+PIC_0310_022_050,plate,Edit,apr,
+PIC_0310_022_050,trk,Tracking,apr,"Edith Clara, VFX Tracking"
+PIC_0310_022_050,comp,Comp,fin,David Hochstadter
+PIC_0310_022_050,roto,Roto,apr,Rotomaker
+PIC_0310_022_050,prcProxy,,apr,
+PIC_0310_022_050,ref,Reference,apr,
+PIC_0310_022_050,pnt,Paint,apr,Rotomaker
+PIC_0310_022_050,lay,,apr,
+PIC_0310_022_050,cam,,apr,
+PIC_0310_022_050,prcDenoise,,apr,
+PIC_0310_025_010,plate,Edit,rdycmp,
+PIC_0310_025_010,trk,Tracking,apr,"Holly Wenger, VFX Tracking"
+PIC_0310_025_010,comp,Comp,rev,David Hochstadter
+PIC_0310_025_010,roto,Roto,rdycmp,Rotomaker
+PIC_0310_025_010,prcProxy,,rdcmpl,
+PIC_0310_025_010,ref,Reference,apr,
+PIC_0310_025_010,pnt,Paint,rdycmp,Rotomaker
+PIC_0310_025_010,lay,,apr,
+PIC_0310_025_010,cam,,apr,
+PIC_0310_025_010,prcDenoise,,wtg,
+PIC_0310_026_030,plate,Edit,apr,
+PIC_0310_026_030,ref,Reference,apr,
+PIC_0310_026_030,comp,Comp,fin,Elizabeth Bodnar
+PIC_0310_026_030,trk,Tracking,apr,VFX Tracking
+PIC_0310_026_030,prcProxy,,apr,
+PIC_0310_026_030,prcDenoise,,apr,
+PIC_0310_026_030,prcPaintfix,,apr,
+PIC_0310_026_040,plate,Edit,apr,
+PIC_0310_026_040,ref,Reference,apr,
+PIC_0310_026_040,comp,Comp,fin,Gary Lopez
+PIC_0310_026_040,trk,Tracking,apr,VFX Tracking
+PIC_0310_026_040,prcProxy,,apr,
+PIC_0310_026_040,prcTest,,apr,
+PIC_0310_026_040,prcShield,,apr,
+PIC_0310_026_040,prcShield01,,apr,
+PIC_0310_026_040,prcShield02,,apr,
+PIC_0310_028_050,plate,Edit,apr,
+PIC_0310_028_050,ref,Reference,apr,
+PIC_0310_028_050,comp,Comp,fin,Daniel Flores
+PIC_0310_029_010,plate,Edit,apr,
+PIC_0310_029_010,ref,Reference,apr,
+PIC_0310_029_010,comp,Comp,fin,Jacob Coy
+PIC_0310_029_010,prcDenoise,,apr,
+PIC_0310_033_060,plate,Edit,apr,
+PIC_0310_033_060,ref,Reference,apr,
+PIC_0310_033_060,comp,Comp,fin,Gary Lopez
+PIC_0310_033_060,prcDenoise,,apr,
+PIC_0310_033_070,plate,Edit,apr,
+PIC_0310_033_070,ref,Reference,apr,
+PIC_0310_033_070,comp,Comp,fin,Gary Lopez
+PIC_0310_033_070,prcDenoise,,apr,
+PIC_0310_033_110,plate,Edit,apr,
+PIC_0310_033_110,ref,Reference,apr,
+PIC_0310_033_110,comp,Comp,fin,Jacob Coy
+PIC_0310_033_200,plate,Edit,apr,
+PIC_0310_033_200,ref,Reference,apr,
+PIC_0310_033_200,comp,Comp,fin,Jacob Coy
+PIC_0310_033_200,prcPhasers,,apr,
+PIC_0310_033_200,prcDenoise,,apr,
+PIC_0310_033_210,plate,Edit,apr,
+PIC_0310_033_210,ref,Reference,apr,
+PIC_0310_033_210,comp,Comp,fin,Jacob Coy
+PIC_0310_033_210,prcDenoise,,apr,
+PIC_0310_033_210,prcPhaser,,apr,
+PIC_0310_033_260,plate,Edit,apr,
+PIC_0310_033_260,ref,Reference,apr,
+PIC_0310_033_260,comp,Comp,fin,Gary Lopez
+PIC_0310_033_260,prcDenoise,,apr,
+PIC_0310_033_270,plate,Edit,apr,
+PIC_0310_033_270,ref,Reference,apr,
+PIC_0310_033_270,comp,Comp,fin,Gary Lopez
+PIC_0310_033_270,trk,Tracking,apr,"VFX Tracking, yannix"
+PIC_0310_033_270,prcProxy,,apr,
+PIC_0310_033_270,prcDenoise,,apr,
+PIC_0310_033_270,prcSv,,apr,
+PIC_0310_033_270,mm,,apr,
+PIC_0310_033_270,cam,,apr,
+PIC_0310_033_270,lay,,apr,
+PIC_0310_033_270,und,,apr,
+PIC_0310_033_280,plate,Edit,apr,
+PIC_0310_033_280,ref,Reference,apr,
+PIC_0310_033_280,comp,Comp,fin,Gary Lopez
+PIC_0310_033_280,prcDenoise,,apr,
+PIC_0310_034_012,plate,Edit,rdycmp,
+PIC_0310_034_012,ref,Reference,apr,
+PIC_0310_034_012,comp,Comp,rrq,Gary Lopez
+PIC_0310_034_012,prcDenoise,,wtg,
+PIC_0310_034_012,prcSparks,Precomps,apr,Sean Cox
+PIC_0310_035_010,comp,Comp,rrq,Peter Herlein
+PIC_0310_035_010,anim,Animation,apr,Jason Shulman
+PIC_0310_035_010,light,Lighting/Rendering,rdcmpl,David Gutman
+PIC_0310_035_010,animPrevis,Previsualization,rdy,Jason Shulman
+PIC_0310_035_010,fx,FX,rdy,Rick Ramirez
+PIC_0310_035_010,ltcomp,Light Comp,rrq,"David Gutman, Jon Gourley, Yinglei Yang"
+PIC_0310_035_010,ref,Reference,apr,
+PIC_0310_035_010,ltcompFX,FX,rdy,"Alexey Cheprakov, David Silva, Rick Ramirez, Val Kharitonashvili"
+PIC_0310_035_010,exp,Exports,ip,
+PIC_0310_035_010,cam,,apr,
+PIC_0310_035_010,lightEarth,Lighting/Rendering,rdcmpl,Jon Gourley
+PIC_0310_035_010,ltcompEarth,Light Comp,rdy,Jon Gourley
+PIC_0310_035_010,lightWeaponsINT,Lighting/Rendering,rdy,David Gutman
+PIC_0310_035_010,ltcompWeaponsINT,Light Comp,rdy,David Gutman
+PIC_0310_035_010,fxShields,FX,ip,"Alexey Cheprakov, David Silva"
+PIC_0310_035_010,ltcompFxShields,Light Comp,ip,David Silva
+PIC_0310_035_010,fxPhasers,FX,rdcmpl,Rick Ramirez
+PIC_0310_035_010,ltcompFxPhasers,Light Comp,wtg,Rick Ramirez
+PIC_0310_035_010,fxExplosions,FX,onfrm,Val Kharitonashvili
+PIC_0310_035_010,ltcompFxExplosions,Light Comp,rrq,Val Kharitonashvili
+PIC_0310_035_010,fxTorpedoes,FX,ip,Val Kharitonashvili
+PIC_0310_035_010,ltcompFxTorpedoes,Light Comp,wtg,Val Kharitonashvili
+PIC_0310_035_010,fxDestruction,FX,ip,Alexey Cheprakov
+PIC_0310_035_010,ltcompFxDestruction,Light Comp,apr,Alexey Cheprakov
+PIC_0310_035_010,fxShieldLayout,FX,ip,Rick Ramirez
+PIC_0310_035_010,ltcompFxShieldLayout,Light Comp,wtg,Rick Ramirez
+PIC_0310_035_010,lightExplosionsINT,Lighting/Rendering,rrq,David Gutman
+PIC_0310_035_010,ltcompExplosionsINT,Light Comp,rrq,David Gutman
+PIC_0310_035_010,fxExploFleet,FX,ip,Val Kharitonashvili
+PIC_0310_035_010,ltcompFxExploFleet,Light Comp,wtg,Val Kharitonashvili
+PIC_0310_035_010,fxExploSpacedock,FX,wtg,Val Kharitonashvili
+PIC_0310_035_010,ltcompFxExploSpacedock,Light Comp,wtg,Val Kharitonashvili
+PIC_0310_035_010,fxShieldsFleet,FX,rdycmp,David Silva
+PIC_0310_035_010,ltcompFxShieldsFleet,Light Comp,wtg,David Silva
+PIC_0310_035_010,fxShieldsSpacedock,FX,rdycmp,David Silva
+PIC_0310_035_010,ltcompFxShieldsSpacedock,Light Comp,ip,David Silva
+PIC_0310_035_010,fxHeroblasts,FX,ip,Val Kharitonashvili
+PIC_0310_035_010,ltcompFxHeroblasts,Light Comp,wtg,Val Kharitonashvili
+PIC_0310_035_010,lightSpaceDock,Lighting/Rendering,rdcmpl,Yinglei Yang
+PIC_0310_035_010,ltcompSpaceDock,Light Comp,apr,Yinglei Yang
+PIC_0310_035_010,ldevPhasers,Look Dev,onfrm,"Forrest Arnold, Yinglei Yang"
+PIC_0310_035_010,ltcompLdevPhasers,Light Comp,rdy,Forrest Arnold
+PIC_0310_035_010,prcComprefcloak,,wtg,
+PIC_0310_035_010,prcEarth,,wtg,
+PIC_0310_035_010,prcComptest,,wtg,
+PIC_0310_035_010,prcPretitan,,wtg,
+PIC_0310_035_010,prcPrelens,,wtg,
+PIC_0310_035_010,fxShipsparks,FX,rdycmp,David Silva
+PIC_0310_035_010,ltcompFxShipsparks,Light Comp,apr,David Silva
+PIC_0310_035_010,prcTorpedotitana,,wtg,
+PIC_0310_035_010,prcTtorpedosa,,wtg,
+PIC_0310_035_010,prcTest,,wtg,
+PIC_0310_035_010,prcTorpedo,,ip,
+PIC_0310_035_010,prcTorpedo,Precomps,ip,Peter Herlein
+PIC_0310_035_010,prcMikeDTest,Precomps,wtg,
+PIC_0310_035_010,prcStars,,wtg,
+PIC_0310_035_010,prcFgexplosionsndebris,,wtg,
+PIC_0310_035_010,prcCompdebrisfg,,wtg,
+PIC_0310_035_010,prcFleetphasers,,wtg,
+PIC_0310_038_010,plate,Edit,apr,
+PIC_0310_038_010,ref,Reference,apr,
+PIC_0310_038_010,comp,Comp,fin,Gary Lopez
+PIC_0310_038_010,prcDenoise,,apr,
+PIC_0310_038_020,plate,Edit,apr,
+PIC_0310_038_020,ref,Reference,apr,
+PIC_0310_038_020,comp,Comp,fin,Gary Lopez
+PIC_0310_038_020,prcMikeDTest,Precomps,apr,
+PIC_0310_038_020,prcDenoise,,apr,
+PIC_0310_038_110,plate,Edit,apr,
+PIC_0310_038_110,ref,Reference,apr,
+PIC_0310_038_110,comp,Comp,fin,Gary Lopez
+PIC_0310_038_110,prcDenoise,,apr,
+PIC_0310_038_120,plate,Edit,apr,
+PIC_0310_038_120,ref,Reference,apr,
+PIC_0310_038_120,comp,Comp,fin,Peter Herlein
+PIC_0310_038_120,prcDenoise,,apr,
+PIC_0310_038_120,prcTestcomp,,apr,
+PIC_0310_038_120,prcPhaser,,apr,
+PIC_0310_038_130,plate,Edit,apr,
+PIC_0310_038_130,ref,Reference,apr,
+PIC_0310_038_130,comp,Comp,fin,Peter Herlein
+PIC_0310_038_130,trk,Tracking,apr,"VFX Tracking, yannix"
+PIC_0310_038_130,prcProxy,,apr,
+PIC_0310_038_130,mm,,apr,
+PIC_0310_038_130,cam,,apr,
+PIC_0310_038_130,lay,,apr,
+PIC_0310_038_130,und,,apr,
+PIC_0310_038_130,prcDenoise,,apr,
+PIC_0310_038_130,prcTestcomp,,apr,
+PIC_0310_038_140,plate,Edit,apr,
+PIC_0310_038_140,ref,Reference,apr,
+PIC_0310_038_140,comp,Comp,fin,Peter Herlein
+PIC_0310_038_140,trk,Tracking,apr,"VFX Tracking, yannix"
+PIC_0310_038_140,prcProxy,,apr,
+PIC_0310_038_140,mm,,apr,
+PIC_0310_038_140,cam,,apr,
+PIC_0310_038_140,lay,,apr,
+PIC_0310_038_140,und,,apr,
+PIC_0310_038_140,prcDenoise,,apr,
+PIC_0310_038_140,prcTestcomp,,apr,
+PIC_0310_042_010,trk,Tracking,hld,
+PIC_0310_042_010,light,Lighting/Rendering,hld,
+PIC_0310_042_010,anim,Animation,hld,
+PIC_0310_042_010,comp,Comp,hld,
+PIC_0310_042_010,ltcomp,Light Comp,hld,
+PIC_0310_042_010,ref,Reference,apr,
+PIC_0310_043_015,plate,Edit,apr,
+PIC_0310_043_015,ref,Reference,apr,
+PIC_0310_043_015,comp,Comp,fin,Sarah Lopez
+PIC_0310_043_015,prcDenoise,,apr,
+PIC_0310_043_025,plate,Edit,apr,
+PIC_0310_043_025,ref,Reference,apr,
+PIC_0310_043_025,comp,Comp,fin,Jacob Coy
+PIC_0310_043_025,prcDenoise,,apr,
+PIC_0310_044_002,comp,Comp,ip,Gary Lopez
+PIC_0310_044_002,anim,Animation,apr,Jason Shulman
+PIC_0310_044_002,light,Lighting/Rendering,rdcmpl,Chris Pierz
+PIC_0310_044_002,animPrevis,Previsualization,rdy,Jason Shulman
+PIC_0310_044_002,fx,FX,rdy,Rick Ramirez
+PIC_0310_044_002,ltcomp,Light Comp,rrq,"Chris Pierz, David Gutman, Jon Gourley, Yinglei Yang"
+PIC_0310_044_002,ref,Reference,apr,
+PIC_0310_044_002,ltcompFX,FX,rdy,"Alexey Cheprakov, David Silva, Rick Ramirez, Val Kharitonashvili"
+PIC_0310_044_002,lightEarth,Lighting/Rendering,rdcmpl,Jon Gourley
+PIC_0310_044_002,ltcompEarth,Light Comp,rdy,Jon Gourley
+PIC_0310_044_002,lightWeaponsINT,Lighting/Rendering,rdcmpl,David Gutman
+PIC_0310_044_002,ltcompWeaponsINT,Light Comp,apr,David Gutman
+PIC_0310_044_002,lightSpaceDock,Lighting/Rendering,rdcmpl,Yinglei Yang
+PIC_0310_044_002,ltcompSpaceDock,Light Comp,apr,Yinglei Yang
+PIC_0310_044_002,exp,Exports,ip,
+PIC_0310_044_002,cam,,apr,
+PIC_0310_044_002,fxExplosions,FX,rrq,Val Kharitonashvili
+PIC_0310_044_002,ltcompFxExplosions,Light Comp,rrq,Val Kharitonashvili
+PIC_0310_044_002,fxShields,FX,ip,David Silva
+PIC_0310_044_002,ltcompFxShields,Light Comp,apr,David Silva
+PIC_0310_044_002,fxTorpedoes,FX,ip,Val Kharitonashvili
+PIC_0310_044_002,ltcompFxTorpedoes,Light Comp,wtg,Val Kharitonashvili
+PIC_0310_044_002,fxPhasers,FX,onfrm,Alexey Cheprakov
+PIC_0310_044_002,ltcompFxPhasers,Light Comp,wtg,Alexey Cheprakov
+PIC_0310_044_002,fxDestruction,FX,rdcmpl,Alexey Cheprakov
+PIC_0310_044_002,ltcompFxDestruction,Light Comp,apr,Alexey Cheprakov
+PIC_0310_044_002,lightExplosionsINT,Lighting/Rendering,rrq,David Gutman
+PIC_0310_044_002,ltcompExplosionsINT,Light Comp,apr,David Gutman
+PIC_0310_044_002,fxExploFleet,FX,wtg,Val Kharitonashvili
+PIC_0310_044_002,ltcompFxExploFleet,Light Comp,wtg,Val Kharitonashvili
+PIC_0310_044_002,fxExploSpacedock,FX,wtg,Val Kharitonashvili
+PIC_0310_044_002,ltcompFxExploSpacedock,Light Comp,wtg,Val Kharitonashvili
+PIC_0310_044_002,fxShieldsFleet,FX,rdycmp,David Silva
+PIC_0310_044_002,ltcompFxShieldsFleet,Light Comp,ip,David Silva
+PIC_0310_044_002,fxShieldsSpacedock,FX,rdycmp,David Silva
+PIC_0310_044_002,ltcompFxShieldsSpacedock,Light Comp,ip,David Silva
+PIC_0310_044_002,prcNebula,,wtg,
+PIC_0310_044_002,prcStars,,wtg,
+PIC_0310_044_002,prcEarth,,wtg,
+PIC_0310_044_002,prcTest,,rrq,
+PIC_0310_044_002,prcBg,,wtg,
+PIC_0310_044_002,prcTestEarth,,wtg,
+PIC_0310_044_002,ldevPhasers,Look Dev,rdcmpl,"Forrest Arnold, Yinglei Yang"
+PIC_0310_044_002,prcEarthShield,,wtg,
+PIC_0310_044_002,prcPreFlare,,wtg,
+PIC_0310_044_002,ltcompFxDestructionFleet,Light Comp,rdy,Alexey Cheprakov
+PIC_0310_044_002,prcBgEarthShield,,wtg,
+PIC_0310_044_002,prcBg,,wtg,
+PIC_0310_044_002,prcBg,,wtg,
+PIC_0310_044_002,prcTestSheild,,wtg,
+PIC_0310_044_005,plate,Edit,rdycmp,
+PIC_0310_044_005,ref,Reference,apr,
+PIC_0310_044_005,trk,Tracking,apr,"Holly Wenger, VFX Tracking"
+PIC_0310_044_005,comp,Comp,ip,Alexis Tarakjian
+PIC_0310_044_005,roto,Roto,rdycmp,Rotomaker
+PIC_0310_044_005,prcProxy,,rdcmpl,
+PIC_0310_044_005,lay,,apr,
+PIC_0310_044_005,cam,,apr,
+PIC_0310_044_005,und,,apr,
+PIC_0310_044_005,pnt,Paint,rdycmp,Rotomaker
+PIC_0310_044_005,prcDenoise,,wtg,
+PIC_0310_044_025,plate,Edit,rdycmp,
+PIC_0310_044_025,ref,Reference,apr,
+PIC_0310_044_025,trk,Tracking,apr,Nick Sinnott
+PIC_0310_044_025,comp,Comp,ip,Alexis Tarakjian
+PIC_0310_044_025,roto,Roto,rdycmp,Rotomaker
+PIC_0310_044_025,prcProxy,,rdcmpl,
+PIC_0310_044_025,lay,,apr,
+PIC_0310_044_025,cam,,apr,
+PIC_0310_044_025,und,,apr,
+PIC_0310_044_025,pnt,Paint,rdycmp,Rotomaker
+PIC_0310_044_025,prcDenoise,,wtg,
+PIC_0310_049_010,plate,Edit,apr,
+PIC_0310_049_010,ref,Reference,apr,
+PIC_0310_049_010,trk,Tracking,apr,Nick Sinnott
+PIC_0310_049_010,comp,Comp,fin,Javier Gallego
+PIC_0310_049_010,roto,Roto,apr,Rotomaker
+PIC_0310_049_010,prcProxy,,apr,
+PIC_0310_049_010,lay,,apr,
+PIC_0310_049_010,cam,,apr,
+PIC_0310_049_010,pnt,Paint,apr,Rotomaker
+PIC_0310_049_010,prcNebula,,apr,
+PIC_0310_049_010,prcStars,,apr,
+PIC_0310_049_010,prcAnomalylenssetFlare09,,apr,
+PIC_0310_049_020,plate,Edit,apr,
+PIC_0310_049_020,ref,Reference,apr,
+PIC_0310_049_020,trk,Tracking,apr,Nick Sinnott
+PIC_0310_049_020,comp,Comp,fin,Javier Gallego
+PIC_0310_049_020,roto,Roto,apr,Rotomaker
+PIC_0310_049_020,prcProxy,,apr,
+PIC_0310_049_020,lay,,apr,
+PIC_0310_049_020,cam,,apr,
+PIC_0310_049_020,pnt,Paint,apr,Rotomaker
+PIC_0310_049_020,prcNebula,,apr,
+PIC_0310_049_020,prcStars,,apr,
+PIC_0310_049_030,plate,Edit,apr,
+PIC_0310_049_030,ref,Reference,apr,
+PIC_0310_049_030,trk,Tracking,apr,Nick Sinnott
+PIC_0310_049_030,comp,Comp,fin,Javier Gallego
+PIC_0310_049_030,roto,Roto,apr,Rotomaker
+PIC_0310_049_030,prcProxy,,apr,
+PIC_0310_049_030,lay,,apr,
+PIC_0310_049_030,cam,,apr,
+PIC_0310_049_030,pnt,Paint,apr,Rotomaker
+PIC_0310_049_030,prcNebula,,apr,
+PIC_0310_049_030,prcStars,,apr,
+PIC_0310_049_030,prcVsPlanet,,apr,
+PIC_0310_049_030,prcKey,,apr,
+PIC_0310_051_010,comp,Comp,rev,Gary Lopez
+PIC_0310_051_010,anim,Animation,apr,Jason Shulman
+PIC_0310_051_010,light,Lighting/Rendering,rdycmp,Patricio Harris
+PIC_0310_051_010,animPrevis,Previsualization,rdy,Jason Shulman
+PIC_0310_051_010,fx,FX,rdy,Rick Ramirez
+PIC_0310_051_010,ltcomp,Light Comp,rrq,"Jon Gourley, Patricio Harris"
+PIC_0310_051_010,ref,Reference,apr,
+PIC_0310_051_010,ltcompFX,FX,rdy,Rick Ramirez
+PIC_0310_051_010,lightEarth,Lighting/Rendering,rdcmpl,Jon Gourley
+PIC_0310_051_010,ltcompEarth,Light Comp,rdy,Jon Gourley
+PIC_0310_051_010,lightWeaponsINT,Lighting/Rendering,rdy,
+PIC_0310_051_010,ltcompWeaponsINT,Light Comp,rdy,
+PIC_0310_051_010,exp,Exports,rdy,
+PIC_0310_051_010,cam,,apr,
+PIC_0310_051_010,prcNebula,,wtg,
+PIC_0310_051_010,prcStars,,wtg,
+PIC_0310_051_010,prcEarth,,wtg,
+PIC_0310_051_010,prcTest,,wtg,
+PIC_0310_051_010,prcPreFlare,,wtg,
+PIC_0310_051_010,prcLightShipsTest,,rrq,
+PIC_0310_054_010,trk,Tracking,hld,
+PIC_0310_054_010,light,Lighting/Rendering,hld,
+PIC_0310_054_010,anim,Animation,hld,
+PIC_0310_054_010,comp,Comp,hld,
+PIC_0310_054_010,ltcomp,Light Comp,hld,
+PIC_0310_054_010,ref,Reference,apr,
+PIC_0310_055_038,plate,Edit,apr,
+PIC_0310_055_038,ref,Reference,apr,
+PIC_0310_055_038,comp,Comp,fin,Jacob Coy
+PIC_0310_055_038,prcDenoise,,apr,
+PIC_0310_056_010,trk,Tracking,hld,
+PIC_0310_056_010,light,Lighting/Rendering,hld,
+PIC_0310_056_010,anim,Animation,hld,
+PIC_0310_056_010,comp,Comp,hld,
+PIC_0310_056_010,ltcomp,Light Comp,hld,
+PIC_0310_056_010,ref,Reference,apr,
+PIC_0310_056_060,trk,Tracking,hld,
+PIC_0310_056_060,light,Lighting/Rendering,hld,
+PIC_0310_056_060,anim,Animation,hld,
+PIC_0310_056_060,comp,Comp,hld,
+PIC_0310_056_060,ltcomp,Light Comp,hld,
+PIC_0310_056_060,ref,Reference,apr,
+PIC_0310_056_100,trk,Tracking,hld,
+PIC_0310_056_100,light,Lighting/Rendering,hld,
+PIC_0310_056_100,anim,Animation,hld,
+PIC_0310_056_100,comp,Comp,hld,
+PIC_0310_056_100,ltcomp,Light Comp,hld,
+PIC_0310_056_100,ref,Reference,apr,
+PIC_0310_062_090,trk,Tracking,hld,
+PIC_0310_062_090,light,Lighting/Rendering,hld,
+PIC_0310_062_090,anim,Animation,hld,
+PIC_0310_062_090,comp,Comp,hld,
+PIC_0310_062_090,ltcomp,Light Comp,hld,
+PIC_0310_062_090,ref,Reference,apr,
+PIC_0310_062_100,trk,Tracking,hld,
+PIC_0310_062_100,light,Lighting/Rendering,hld,
+PIC_0310_062_100,anim,Animation,hld,
+PIC_0310_062_100,comp,Comp,hld,
+PIC_0310_062_100,ltcomp,Light Comp,hld,
+PIC_0310_062_100,ref,Reference,apr,
+PIC_0310_062_110,trk,Tracking,,
+PIC_0310_062_110,light,Lighting/Rendering,,
+PIC_0310_062_110,anim,Animation,,
+PIC_0310_062_110,comp,Comp,wplat,Gary Lopez
+PIC_0310_062_110,ltcomp,Light Comp,,
+PIC_0310_062_110,ref,Reference,apr,
+PIC_0310_062_110,plate,Edit,rdycmp,
+PIC_0310_062_115,plate,Edit,apr,
+PIC_0310_062_115,ref,Reference,apr,
+PIC_0310_062_115,comp,Comp,fin,Sarah Lopez
+PIC_0310_062_115,prcDenoise,,apr,
+PIC_0310_063_010,comp,Comp,ip,Gary Lopez
+PIC_0310_063_010,fx,FX,rdcmpl,Rick Ramirez
+PIC_0310_063_010,anim,Animation,rev,Jason Shulman
+PIC_0310_063_010,light,Lighting/Rendering,rdycmp,"Forrest Arnold, Jonathan Bliss"
+PIC_0310_063_010,ltcompFx,Light Comp,ip,Rick Ramirez
+PIC_0310_063_010,ltcomp,Light Comp,rrq,"Forrest Arnold, Jon Gourley, Jonathan Bliss"
+PIC_0310_063_010,ref,Reference,apr,
+PIC_0310_063_010,lightEarth,Lighting/Rendering,rdcmpl,Jon Gourley
+PIC_0310_063_010,ltcompEarth,Light Comp,rdy,Jon Gourley
+PIC_0310_063_010,exp,Exports,ip,
+PIC_0310_063_010,cam,,apr,
+PIC_0310_063_010,prcNebula,,wtg,
+PIC_0310_063_010,prcStars,,wtg,
+PIC_0310_063_010,prcEarth,,wtg,
+PIC_0310_063_010,prcTest,,wtg,
+PIC_0310_063_010,lightWarmUp,Lighting/Rendering,rdy,Jonathan Bliss
+PIC_0310_063_010,ltcompWarmUp,Light Comp,rdy,Jonathan Bliss
+PIC_0310_063_010,prcPreFlare,,wtg,
+PIC_0310_063_020,plate,Edit,apr,
+PIC_0310_063_020,ref,Reference,apr,
+PIC_0310_063_020,comp,Comp,fin,Elizabeth Bodnar
+PIC_0310_063_020,roto,Roto,apr,Rotomaker
+PIC_0310_063_020,pnt,Paint,apr,Rotomaker
+PIC_0310_063_020,trk,Tracking,apr,Nick Sinnott
+PIC_0310_063_020,prcDenoise,,apr,
+PIC_0310_063_020,prcProxy,,apr,
+PIC_0310_063_020,prcTest,,apr,
+PIC_0310_063_020,lay,,apr,
+PIC_0310_063_020,cam,,apr,
+PIC_0310_064_002,plate,Edit,apr,
+PIC_0310_064_002,ref,Reference,apr,
+PIC_0310_064_002,comp,Comp,fin,Sarah Lopez
+PIC_0310_064_002,prcSparks,,apr,
+PIC_0310_064_005,trk,Tracking,hld,
+PIC_0310_064_005,light,Lighting/Rendering,hld,
+PIC_0310_064_005,anim,Animation,hld,
+PIC_0310_064_005,comp,Comp,hld,
+PIC_0310_064_005,ltcomp,Light Comp,hld,
+PIC_0310_064_005,ref,Reference,apr,
+PIC_0310_065_010,plate,Edit,apr,
+PIC_0310_065_010,ref,Reference,apr,
+PIC_0310_065_010,trk,Tracking,apr,Nick Sinnott
+PIC_0310_065_010,comp,Comp,fin,Javier Gallego
+PIC_0310_065_010,roto,Roto,apr,Rotomaker
+PIC_0310_065_010,prcProxy,,apr,
+PIC_0310_065_010,lay,,apr,
+PIC_0310_065_010,cam,,apr,
+PIC_0310_065_010,pnt,Paint,apr,Rotomaker
+PIC_0310_065_010,prcDenoise,,apr,
+PIC_0310_065_010,prcNebula,,apr,
+PIC_0310_065_010,prcStars,,apr,
+PIC_0310_068_010,comp,Comp,rrq,Gary Lopez
+PIC_0310_068_010,anim,Animation,apr,Jason Shulman
+PIC_0310_068_010,light,Lighting/Rendering,rrq,Jonathan Bliss
+PIC_0310_068_010,animPrevis,Previsualization,rdy,Jason Shulman
+PIC_0310_068_010,fx,FX,rdy,Rick Ramirez
+PIC_0310_068_010,ltcomp,Light Comp,ip,"Jon Gourley, Jonathan Bliss, Yinglei Yang"
+PIC_0310_068_010,ref,Reference,apr,
+PIC_0310_068_010,ltcompFX,FX,rdy,Rick Ramirez
+PIC_0310_068_010,exp,Exports,ip,
+PIC_0310_068_010,cam,,apr,
+PIC_0310_068_010,lightEarth,Lighting/Rendering,rdcmpl,Jon Gourley
+PIC_0310_068_010,ltcompEarth,Light Comp,rdy,Jon Gourley
+PIC_0310_068_010,lightSpaceDock,Lighting/Rendering,ip,Yinglei Yang
+PIC_0310_068_010,ltcompSpaceDock,Light Comp,rdy,Yinglei Yang
+PIC_0310_068_010,prcNebula,,wtg,
+PIC_0310_068_010,prcStars,,wtg,
+PIC_0310_068_010,prcEarth,,wtg,
+PIC_0310_068_010,prcTest,,wtg,
+PIC_0310_068_010,prcShips,,wtg,
+PIC_0310_068_010,prc1345,,wtg,
+PIC_0310_068_010,prc1345Tiff,,wtg,
+PIC_0310_068_010,prc1345Jpeg,,wtg,
+PIC_VEH_ussStargazer,fx,FX,omt,
+PIC_VEH_ussStargazer,mdl,Modeling,apr,"Chris Pierz, Dan Aprea, Jonathan Bliss, Steve Graves, Tim Simon, William Mauer, Yinglei Yang"
+PIC_VEH_ussStargazer,txtr,Texture,apr,"Dan Aprea, Steve Graves, Tim Simon, William Mauer, Yinglei Yang"
+PIC_VEH_ussStargazer,cncpt,Concept,apr,
+PIC_VEH_ussStargazer,ltcompFx,Light Comp,omt,
+PIC_VEH_USSExcelsior,cncpt,Concept,apr,
+PIC_VEH_USSExcelsior,mdl,Modeling,apr,"Dan Aprea, Frank Synowicz, Jonathan Bliss, Josh Mossotti, Steve Graves, Thomas Maine, Tim Simon, William Mauer, Yinglei Yang"
+PIC_VEH_USSExcelsior,rig,Rigging,rev,
+PIC_VEH_USSExcelsior,txtr,Texture,apr,"Frank Synowicz, Josh Mossotti, Steve Graves, William Mauer, Yinglei Yang"
+PIC_VEH_BorgShip,cncpt,Concept,apr,
+PIC_VEH_BorgShip,mdl,Modeling,apr,"Chris Pierz, Luis Cayo, Steve Graves, Yinglei Yang"
+PIC_VEH_BorgShip,rig,Rigging,rev,"Andrei Orehov, Tony Castro"
+PIC_VEH_BorgShip,txtr,Texture,apr,"Chris Pierz, Luis Cayo, Steve Graves, Yinglei Yang"
+PIC_ENV_ConfederateEarth,cncpt,Concept,omt,
+PIC_ENV_ConfederateEarth,mdl,Modeling,apr,"Jonathan Bliss, Steve Graves"
+PIC_ENV_ConfederateEarth,txtr,Texture,apr,"Jonathan Bliss, Steve Graves"
+PIC_VEH_BorgShip,ltcomp,Light Comp,apr,Ryan Smolarek
+PIC_VEH_LaSirena,cncpt,Concept,rev,
+PIC_VEH_LaSirena,mdl,Modeling,apr,"Chris Pierz, Steve Graves, Yinglei Yang"
+PIC_VEH_LaSirena,rig,Rigging,rev,"Andrei Orehov, Yinglei Yang"
+PIC_VEH_LaSirena,txtr,Texture,apr,"Chris Pierz, Steve Graves, Yinglei Yang"
+PIC_VEH_ussStargazer,comp,Comp,fin,Ryan Smolarek
+PIC_VEH_BorgQueenShuttle,cncpt,Concept,apr,
+PIC_VEH_BorgQueenShuttle,mdl,Modeling,apr,"Chris Pierz, Steve Graves, Yinglei Yang"
+PIC_VEH_BorgQueenShuttle,rig,Rigging,apr,"Andrei Orehov, Yinglei Yang"
+PIC_VEH_BorgQueenShuttle,txtr,Texture,apr,"Chris Pierz, Steve Graves, Yinglei Yang"
+PIC_VEH_ussStargazer,ldev,Look Dev,apr,"Christopher Knight, Tim Simon, William Mauer, Yinglei Yang"
+PIC_FX_Anomaly,fx,FX,apr,"David Nelson, Rigel Bowen"
+PIC_FX_Anomaly,light,Lighting/Rendering,hld,
+PIC_FX_Anomaly,ltcomp,Light Comp,hld,
+PIC_FX_Anomaly,comp,Comp,apr,Peter Herlein
+PIC_FX_Anomaly,ltcompFx,Light Comp,apr,"David Nelson, Rick Ramirez, Rigel Bowen, Seung Lee"
+PIC_VEH_BorgShip,comp,Comp,apr,Ryan Smolarek
+PIC_VEH_BorgQueenShuttle,comp,Comp,apr,Ryan Smolarek
+PIC_ENV_ConfederateEarth,fx,FX,apr,David Nelson
+PIC_ENV_ConfederateEarth,ltcompFx,Light Comp,apr,David Nelson
+PIC_VEH_previsUSSRoss,mdl,Modeling,rev,"William Mauer, Yinglei Yang"
+PIC_VEH_previsUSSRoss,rig,Rigging,apr,Andrei Orehov
+PIC_VEH_previsUSSRoss,txtr,Texture,apr,"William Mauer, Yinglei Yang"
+PIC_VEH_previsUSSSutherland,cncpt,Concept,omt,
+PIC_VEH_previsUSSSutherland,mdl,Modeling,rev,"Steve Graves, William Mauer"
+PIC_VEH_previsUSSSutherland,rig,Rigging,apr,Andrei Orehov
+PIC_VEH_previsUSSSutherland,txtr,Texture,apr,"Steve Graves, William Mauer"
+PIC_VEH_previsUSSRustazh,cncpt,Concept,omt,
+PIC_VEH_previsUSSRustazh,mdl,Modeling,rev,William Mauer
+PIC_VEH_previsUSSRustazh,rig,Rigging,apr,Andrei Orehov
+PIC_VEH_previsUSSRustazh,txtr,Texture,apr,William Mauer
+PIC_VEH_previsUSSTitan,cncpt,Concept,omt,
+PIC_VEH_previsUSSTitan,mdl,Modeling,apr,William Mauer
+PIC_VEH_previsUSSTitan,rig,Rigging,rev,Andrei Orehov
+PIC_VEH_previsUSSTitan,txtr,Texture,apr,William Mauer
+PIC_VEH_previsUSSGagarin,cncpt,Concept,omt,
+PIC_VEH_previsUSSGagarin,mdl,Modeling,rev,William Mauer
+PIC_VEH_previsUSSGagarin,rig,Rigging,apr,Andrei Orehov
+PIC_VEH_previsUSSGagarin,txtr,Texture,apr,William Mauer
+PIC_VEH_previsUSSEdison,mdl,Modeling,rev,Chris Pierz
+PIC_VEH_previsUSSEdison,rig,Rigging,apr,Andrei Orehov
+PIC_VEH_previsUSSEdison,txtr,Texture,apr,Chris Pierz
+PIC_VEH_previsUSSReliant,cncpt,Concept,omt,
+PIC_VEH_previsUSSReliant,mdl,Modeling,apr,William Mauer
+PIC_VEH_previsUSSReliant,rig,Rigging,apr,Andrei Orehov
+PIC_VEH_previsUSSReliant,txtr,Texture,apr,William Mauer
+PIC_ENV_previsEarth,cncpt,Concept,omt,
+PIC_ENV_previsEarth,mdl,Modeling,apr,"Jonathan Bliss, Steve Graves"
+PIC_ENV_previsEarth,txtr,Texture,apr,"Jonathan Bliss, Steve Graves"
+PIC_FX_BorgShipEnergy,cncpt,Concept,hld,
+PIC_FX_BorgShipEnergy,fx,FX,hld,"Bruce Coy, Rigel Bowen"
+PIC_FX_BorgShipEnergy,light,Lighting/Rendering,hld,
+PIC_FX_BorgShipEnergy,ltcomp,Light Comp,hld,
+PIC_FX_BorgShipEnergy,comp,Comp,hld,Ryan Smolarek
+PIC_FX_BorgShipEnergy,ltcompFx,Light Comp,hld,"Bruce Coy, Rigel Bowen"
+PIC_ENV_Vineyard,cncpt,Concept,omt,
+PIC_ENV_Vineyard,mdl,Modeling,omt,Steve Graves
+PIC_ENV_Vineyard,txtr,Texture,omt,Steve Graves
+PIC_VEH_BorgShip,ldev,Look Dev,apr,Josh Mossotti
+PIC_VEH_USSExcelsior,ldev,Look Dev,apr,"Jonathan Bliss, Josh Mossotti, Yinglei Yang"
+PIC_VEH_BorgQueenShuttle,ldev,Look Dev,apr,"Chris Pierz, Josh Mossotti, Yinglei Yang"
+PIC_CHR_BorQueenLowerHalf,mdl,Modeling,apr,"Chris Pierz, Steve Graves, Yinglei Yang"
+PIC_CHR_BorQueenLowerHalf,txtr,Texture,apr,"Chris Pierz, Steve Graves, Yinglei Yang"
+PIC_CHR_BorQueenLowerHalf,cncpt,Concept,omt,
+PIC_CHR_BorQueenLowerHalf,fx,FX,omt,
+PIC_CHR_BorQueenLowerHalf,ltcompFx,Light Comp,omt,
+PIC_VEH_BorgShip,camTurntable,,apr,
+PIC_VEH_ussStargazer,stills,,apr,
+PIC_ENV_StarField,comp,Comp,apr,Ryan Smolarek
+PIC_FX_Anomaly,fxSJ,FX,omt,Seung Lee
+PIC_FX_Anomaly,ltcompFxSJ,Light Comp,omt,
+PIC_FX_BorgShipEnergy,fxSJ,FX,hld,
+PIC_FX_BorgShipEnergy,ltcompFxSJ,Light Comp,hld,
+PIC_FX_BorgShipEnergy,fxDS,FX,hld,David Silva
+PIC_FX_BorgShipEnergy,ltcompFxDS,Light Comp,hld,David Silva
+PIC_FX_Anomaly,fxBY,FX,omt,Bruce Coy
+PIC_FX_Anomaly,ltcompFxBY,Light Comp,omt,Brandon Young
+PIC_ENV_ConfederateEarth,ldev,Look Dev,apr,Mayumi Shimokawa
+PIC_FX_Anomaly,ldev,Look Dev,omt,"Buddy Gheen, David Nelson"
+PIC_VEH_previsVulcanFighter,cncpt,Concept,hld,
+PIC_VEH_previsVulcanFighter,mdl,Modeling,hld,Chris Pierz
+PIC_VEH_previsVulcanFighter,rig,Rigging,hld,
+PIC_VEH_previsVulcanFighter,txtr,Texture,hld,Chris Pierz
+PIC_VEH_USSExcelsior,comp,Comp,apr,Sean Cox
+PIC_BLD_starfleetHQ,cncpt,Concept,omt,
+PIC_BLD_starfleetHQ,mdl,Modeling,omt,
+PIC_BLD_starfleetHQ,txtr,Texture,omt,
+PIC_FX_weaponLazerBlast,cncpt,Concept,omt,
+PIC_FX_weaponLazerBlast,fx,FX,apr,Chris Pierz
+PIC_FX_weaponLazerBlast,light,Lighting/Rendering,hld,
+PIC_FX_weaponLazerBlast,ltcomp,Light Comp,hld,
+PIC_FX_weaponLazerBlast,comp,Comp,hld,
+PIC_FX_weaponLazerBlast,ltcompFx,Light Comp,apr,Chris Pierz
+PIC_VEH_BorgShip,ldev2D,Look Dev,apr,"Jonathan Bliss, Steve Graves"
+PIC_VEH_LaSirena,ldev,Look Dev,apr,"Chris Pierz, Steve Graves, Yinglei Yang"
+PIC_ENV_Sun,cncpt,Concept,omt,
+PIC_ENV_Sun,mdl,Modeling,apr,"Rick Ramirez, Steve Graves"
+PIC_ENV_Sun,txtr,Texture,apr,"Rick Ramirez, Steve Graves"
+PIC_ENV_Sun,fx,FX,ip,"Rick Ramirez, Steve Graves"
+PIC_ENV_Sun,ltcompFx,Light Comp,apr,"Rick Ramirez, Steve Graves"
+PIC_PRP_previsSoongDrones,cncpt,Concept,omt,
+PIC_PRP_previsSoongDrones,mdl,Modeling,omt,
+PIC_PRP_previsSoongDrones,txtr,Texture,omt,
+PIC_VEH_LaSirena,ldevPreviz,,apr,"Steve Graves, Yinglei Yang"
+PIC_SpaceLightKit,cncpt,Concept,omt,
+PIC_SpaceLightKit,mdl,Modeling,omt,
+PIC_SpaceLightKit,txtr,Texture,omt,
+PIC_VEH_SoongDrone,cncpt,Concept,apr,badnamed-Kim Syberg
+PIC_VEH_SoongDrone,mdl,Modeling,apr,"Steve Graves, Tim Simon, William Mauer"
+PIC_VEH_SoongDrone,rig,Rigging,apr,"Andrei Orehov, Dustin Adair, Tony Castro"
+PIC_VEH_SoongDrone,txtr,Texture,apr,"Steve Graves, Tim Simon, William Mauer"
+PIC_VEH_previsUSSZhengHe,cncpt,Concept,hld,
+PIC_VEH_previsUSSZhengHe,mdl,Modeling,hld,"Chris Pierz, Jonathan Bliss"
+PIC_VEH_previsUSSZhengHe,rig,Rigging,hld,
+PIC_VEH_previsUSSZhengHe,txtr,Texture,hld,"Chris Pierz, Jonathan Bliss"
+PIC_ENV_Sun,ltcompFx,Light Comp,omt,Rick Ramirez
+PIC_VEH_USSExcelsior,cam,,apr,
+PIC_FX_BorgShipEnergy,ldev,Look Dev,hld,"Chris Pierz, Steve Graves"
+PIC_ENV_Sun,ldevClose,Look Dev,ip,"Rick Ramirez, Ryan Smolarek"
+PIC_ENV_Sun,ldevFar,Look Dev,ip,"Rick Ramirez, Ryan Smolarek"
+PIC_VEH_ussStargazer,ltcomp,Light Comp,apr,Yinglei Yang
+PIC_VEH_USSExcelsior,ltcomp,Light Comp,apr,Yinglei Yang
+PIC_ENV_promoPlanetFinibusThree,cncpt,Concept,hld,
+PIC_ENV_promoPlanetFinibusThree,mdl,Modeling,hld,"Steve Graves, Yinglei Yang"
+PIC_ENV_promoPlanetFinibusThree,txtr,Texture,hld,"Steve Graves, Yinglei Yang"
+PIC_ENV_promoPlanetKiley,cncpt,Concept,hld,
+PIC_ENV_promoPlanetKiley,mdl,Modeling,hld,"Steve Graves, Yinglei Yang"
+PIC_ENV_promoPlanetKiley,txtr,Texture,hld,"Steve Graves, Yinglei Yang"
+PIC_ENV_promoPlanetIce,cncpt,Concept,omt,
+PIC_ENV_promoPlanetIce,mdl,Modeling,omt,"Steve Graves, Yinglei Yang"
+PIC_ENV_promoPlanetIce,txtr,Texture,ip,"Steve Graves, Yinglei Yang"
+PIC_ENV_promoPlanetNivar,cncpt,Concept,hld,
+PIC_ENV_promoPlanetNivar,mdl,Modeling,hld,"Steve Graves, Yinglei Yang"
+PIC_ENV_promoPlanetNivar,txtr,Texture,hld,"Steve Graves, Yinglei Yang"
+PIC_ENV_promoPlanetVulcan,cncpt,Concept,apr,
+PIC_ENV_promoPlanetVulcan,mdl,Modeling,apr,"Steve Graves, Yinglei Yang"
+PIC_ENV_promoPlanetVulcan,txtr,Texture,apr,"Steve Graves, Yinglei Yang"
+PIC_FX_weaponLazerBlast,ldev,Look Dev,apr,"Chris Pierz, Dustin Adair"
+PIC_VEH_BorgQueenShuttle,ltcomp,Light Comp,apr,Yinglei Yang
+PIC_VEH_LaSirena,ltcomp,Light Comp,apr,Chris Pierz
+PIC_VEH_LaSirena,comp,,apr,
+PIC_ENV_ConfederateEarth,ltcomp,,apr,Jonathan Bliss
+PIC_ENV_ConfederateEarth,camTurntable,,apr,
+PIC_VEH_previsVulcanCorvette,cncpt,Concept,omt,
+PIC_VEH_previsVulcanCorvette,mdl,Modeling,apr,"Chris Pierz, Steve Graves, Yinglei Yang"
+PIC_VEH_previsVulcanCorvette,rig,Rigging,rev,"Andrei Orehov, Yinglei Yang"
+PIC_VEH_previsVulcanCorvette,txtr,Texture,apr,"Chris Pierz, Steve Graves, Yinglei Yang"
+PIC_FX_Anomaly,fxRR,FX,omt,Rick Ramirez
+PIC_FX_Anomaly,ltcompFxRR,Light Comp,omt,Rick Ramirez
+PIC_ENV_Sun,comp,Comp,apr,Ryan Smolarek
+PIC_FX_bqForceField,fx,FX,apr,David Silva
+PIC_FX_bqForceField,light,Lighting/Rendering,omt,
+PIC_FX_bqForceField,ltcomp,Light Comp,omt,
+PIC_FX_bqForceField,ltcompFx,Light Comp,apr,David Silva
+PIC_ENV_ConfederateEarth,comp,Comp,apr,Sean Cox
+PIC_VEH_Sovereign,cncpt,Concept,omt,
+PIC_VEH_Sovereign,mdl,Modeling,rrq,William Mauer
+PIC_VEH_Sovereign,rig,Rigging,apr,Andrei Orehov
+PIC_VEH_Sovereign,txtr,Texture,apr,William Mauer
+PIC_VEH_SoongDrone,ltcomp,Light Comp,apr,"Tim Simon, William Mauer"
+PIC_VEH_SoongDrone,Itcomp,,apr,
+PIC_VEH_SoongDrone,comp,Comp,apr,Ryan Smolarek
+PIC_VEH_previsVulcanCorvette,ldev,Look Dev,apr,Chris Pierz
+PIC_VEH_Sovereign,ldev,Look Dev,hld,
+PIC_VEH_previsUSSZhengHe,ldev,Look Dev,hld,Chris Pierz
+PIC_VEH_previsUSSReliant,ldev,Look Dev,hld,
+PIC_VEH_previsUSSEdison,ldev,Look Dev,apr,Chris Pierz
+PIC_VEH_previsUSSAkira,ldev,Look Dev,omt,
+PIC_VEH_previsUSSGagarin,ldev,Look Dev,apr,William Mauer
+PIC_VEH_previsUSSTitan,ldev,Look Dev,hld,William Mauer
+PIC_VEH_previsUSSRustazh,ldev,Look Dev,hld,
+PIC_VEH_previsUSSSutherland,ldev,Look Dev,apr,"Steve Graves, William Mauer"
+PIC_VEH_previsUSSRoss,ldev,Look Dev,apr,"William Mauer, Yinglei Yang"
+PIC_VEH_previsVulcanFighter,ldev,Look Dev,hld,Chris Pierz
+PIC_VEH_previsVulcanCorvette,comp,,apr,
+PIC_CHR_BorQueenTubule,mdl,Modeling,hld,"Steve Graves, Yinglei Yang"
+PIC_CHR_BorQueenTubule,txtr,Texture,hld,"Steve Graves, Yinglei Yang"
+PIC_CHR_BorQueenTubule,cncpt,Concept,omt,
+PIC_CHR_BorQueenTubule,fx,FX,omt,
+PIC_CHR_BorQueenTubule,ltcompFx,Light Comp,omt,
+PIC_CHR_BorQueenTubule,rig,Rigging,hld,"Dustin Adair, Steve Graves, Yinglei Yang"
+PIC_ENV_Earth,cncpt,Concept,omt,
+PIC_ENV_Earth,mdl,Modeling,apr,"Jon Gourley, Jonathan Bliss"
+PIC_ENV_Earth,txtr,Texture,apr,"Jonathan Bliss, Steve Graves"
+PIC_CHR_BQSpineTail,mdl,Modeling,apr,"Steve Graves, Yinglei Yang"
+PIC_CHR_BQSpineTail,txtr,Texture,apr,"Steve Graves, Yinglei Yang"
+PIC_CHR_BQSpineTail,cncpt,Concept,omt,
+PIC_CHR_BQSpineTail,fx,FX,apr,Brian Davis
+PIC_CHR_BQSpineTail,ltcompFx,Light Comp,rdy,Brian Davis
+PIC_CHR_BQSpineTail,rig,Rigging,apr,"Dustin Adair, Steve Graves, Yinglei Yang"
+PIC_ENV_Earth,fx,FX,apr,"David Nelson, Jonathan Bliss, Steve Graves"
+PIC_ENV_Earth,ltcompFx,Light Comp,apr,"David Nelson, Jonathan Bliss, Steve Graves"
+PIC_ENV_Earth,comp,Comp,apr,Ryan Smolarek
+PIC_CHR_BorQueenLowerHalf,comp,Comp,apr,Ryan Smolarek
+PIC_CHR_BorQueenTubule,comp,Comp,hld,Ryan Smolarek
+PIC_CHR_BQSpineTail,comp,Comp,apr,Ryan Smolarek
+PIC_VEH_ConSoongShadeDrone,cncpt,Concept,hld,
+PIC_VEH_ConSoongShadeDrone,mdl,Modeling,hld,"Steve Graves, Tim Simon"
+PIC_VEH_ConSoongShadeDrone,rig,Rigging,hld,Andrei Orehov
+PIC_VEH_ConSoongShadeDrone,txtr,Texture,hld,"Steve Graves, Tim Simon"
+PIC_VEH_ConSoongShadeDrone,comp,Comp,hld,Ryan Smolarek
+PIC_CHR_BorQueenLowerHalf,ldev,Look Dev,apr,"Chris Pierz, Yinglei Yang"
+PIC_VEH_previsUSSRoss,ltcomp,Light Comp,apr,Yinglei Yang
+PIC_VEH_LunaC,cncpt,Concept,omt,
+PIC_VEH_LunaC,mdl,Modeling,rev,William Mauer
+PIC_VEH_LunaC,rig,Rigging,apr,Andrei Orehov
+PIC_VEH_LunaC,txtr,Texture,apr,William Mauer
+PIC_VEH_LaSirena,mdlPUBLISH,Modeling,apr,Yinglei Yang
+PIC_VEH_LaSirena,mdlRDPROXY,Modeling,apr,Yinglei Yang
+PIC_VEH_previsVulcanCorvette,mdlPUBLISH,Modeling,apr,Yinglei Yang
+PIC_VEH_previsVulcanCorvette,mdlRDPROXY,Modeling,apr,Yinglei Yang
+PIC_VEH_ussStargazer,mdlPUBLISH,Modeling,apr,Yinglei Yang
+PIC_VEH_ussStargazer,mdlRDPROXY,Modeling,apr,Yinglei Yang
+PIC_VEH_USSExcelsior,mdlPUBLISH,Modeling,apr,Yinglei Yang
+PIC_VEH_USSExcelsior,mdlRDPROXY,Modeling,apr,Yinglei Yang
+PIC_VEH_BorgShip,mdlPUBLISH,Modeling,apr,Yinglei Yang
+PIC_VEH_BorgShip,mdlRDPROXY,Modeling,apr,Yinglei Yang
+PIC_VEH_BorgQueenShuttle,mdlPUBLISH,Modeling,apr,Yinglei Yang
+PIC_VEH_BorgQueenShuttle,mdlRDPROXY,Modeling,apr,Yinglei Yang
+PIC_VEH_previsUSSEdison,comp,,apr,Chris Pierz
+PIC_VEH_previsUSSEdison,mdlPUBLISH,Modeling,apr,"Chris Pierz, Yinglei Yang"
+PIC_VEH_previsUSSEdison,mdlRDPROXY,Modeling,apr,"Chris Pierz, Yinglei Yang"
+PIC_VEH_ussStargazer,fxShield,FX,omt,Steve Graves
+PIC_VEH_USSExcelsior,fxShield,FX,omt,
+PIC_VEH_BorgShip,fxShield,FX,hld,Steve Graves
+PIC_VEH_LaSirena,fxShield,FX,apr,David Silva
+PIC_VEH_previsVulcanCorvette,fxShield,FX,ip,David Silva
+PIC_VEH_ussStargazer,ltcompFxShield,Light Comp,apr,Steve Graves
+PIC_VEH_USSExcelsior,ltcompFxShield,Light Comp,wtg,
+PIC_VEH_BorgShip,ltcompFxShield,Light Comp,hld,Steve Graves
+PIC_VEH_LaSirena,ltcompFxShield,Light Comp,hld,David Silva
+PIC_VEH_previsVulcanCorvette,ltcompFxShield,Light Comp,ip,David Silva
+PIC_VEH_previsUSSRoss,comp,Comp,apr,Sean Cox
+PIC_VEH_LaSirena,mdlShield,Modeling,apr,"Chris Pierz, Steve Graves"
+PIC_VEH_previsVulcanCorvette,mdlShield,Modeling,apr,"Chris Pierz, Steve Graves"
+PIC_VEH_LaSirena,mdlShieldPUBLISH,,apr,
+PIC_VEH_previsVulcanCorvette,mdlShieldPROXY,,apr,
+PIC_VEH_LaSirena,mdlShieldPROXY,,apr,
+PIC_FX_weaponLazerBlast,rig,Rigging,apr,Tony Castro
+PIC_VEH_LaSirenaConfederate,cncpt,Concept,omt,
+PIC_VEH_LaSirenaConfederate,mdl,Modeling,apr,"Chris Pierz, Steve Graves"
+PIC_VEH_LaSirenaConfederate,rig,Rigging,rev,Andrei Orehov
+PIC_VEH_LaSirenaConfederate,txtr,Texture,apr,"Chris Pierz, Steve Graves"
+PIC_ENV_StarField,prcStarslin,,apr,
+PIC_VEH_previsUSSSutherland,ltcomp,Light Comp,apr,William Mauer
+PIC_VEH_LaSirenaConfederate,ltcomp,Light Comp,rrq,Chris Pierz
+PIC_FX_weaponLazerBlast,rigRed,Rigging,apr,Tony Castro
+PIC_FX_weaponLazerBlast,rigGreen,Rigging,apr,Tony Castro
+PIC_VEH_LaSirenaConfederate,ldev,Look Dev,apr,Chris Pierz
+PIC_VEH_LaSirenaConfederate,mdlPUBLISH,Modeling,apr,"William Mauer, Yinglei Yang"
+PIC_VEH_LaSirenaConfederate,mdlPROXY,Modeling,hld,"William Mauer, Yinglei Yang"
+PIC_VEH_previsUSSRustazh,ltcomp,Light Comp,apr,William Mauer
+PIC_VEH_previsUSSTitan,ltcomp,Light Comp,apr,William Mauer
+PIC_FX_weaponLazerBlast,anim,Animation,apr,Dustin Adair
+PIC_VEH_ussStargazer,mdlPackage,Modeling,apr,"Steve Graves, William Mauer, Yinglei Yang"
+PIC_VEH_previsUSSGagarin,ltcomp,Light Comp,apr,William Mauer
+PIC_VEH_ConSoongShadeDrone,ltcomp,Light Comp,hld,William Mauer
+PIC_CHR_BorQueenTubule,ltcomp,Light Comp,hld,Yinglei Yang
+PIC_CHR_BQSpineTail,ltcomp,Light Comp,apr,Yinglei Yang
+PIC_VEH_previsUSSAkira,ltcomp,Light Comp,omt,
+PIC_VEH_previsUSSReliant,ltcomp,Light Comp,apr,William Mauer
+PIC_VEH_Sovereign,ltcomp,Light Comp,apr,William Mauer
+PIC_VEH_LunaC,ltcomp,Light Comp,apr,William Mauer
+PIC_VEH_ConSoongShadeDrone,animTest,Animation,hld,"Chris Pierz, Dustin Adair"
+PIC_VEH_previsUSSRoss,mdlPUBLISH,Modeling,apr,William Mauer
+PIC_VEH_previsUSSRoss,mdlRDPROXY,Modeling,apr,William Mauer
+PIC_VEH_previsUSSSutherland,mdlPUBLISH,Modeling,apr,William Mauer
+PIC_VEH_previsUSSSutherland,mdlRDPROXY,Modeling,apr,William Mauer
+PIC_VEH_previsUSSRustazh,mdlPUBLISH,Modeling,apr,William Mauer
+PIC_VEH_previsUSSRustazh,mdlRDPROXY,Modeling,apr,William Mauer
+PIC_VEH_previsUSSTitan,mdlPUBLISH,Modeling,apr,William Mauer
+PIC_VEH_previsUSSTitan,mdlRDPROXY,Modeling,apr,William Mauer
+PIC_VEH_previsUSSGagarin,mdlPUBLISH,Modeling,apr,William Mauer
+PIC_VEH_previsUSSGagarin,mdlRDPROXY,Modeling,apr,William Mauer
+PIC_VEH_previsUSSReliant,mdlPUBLISH,Modeling,apr,William Mauer
+PIC_VEH_previsUSSReliant,mdlRDPROXY,Modeling,apr,William Mauer
+PIC_VEH_SoongDrone,mdlPUBLISH,Modeling,apr,
+PIC_VEH_SoongDrone,mdlRDPROXY,Modeling,apr,William Mauer
+PIC_VEH_previsVulcanCorvette,mdlPUBLISH,Modeling,apr,
+PIC_VEH_previsVulcanCorvette,mdlRDPROXY,Modeling,apr,William Mauer
+PIC_VEH_Sovereign,mdlPUBLISH,Modeling,apr,William Mauer
+PIC_VEH_Sovereign,mdlRDPROXY,Modeling,apr,William Mauer
+PIC_VEH_ConSoongShadeDrone,mdlPUBLISH,Modeling,hld,William Mauer
+PIC_VEH_ConSoongShadeDrone,mdlRDPROXY,Modeling,hld,William Mauer
+PIC_VEH_LunaC,mdlPUBLISH,Modeling,apr,William Mauer
+PIC_VEH_LunaC,mdlRDPROXY,Modeling,apr,William Mauer
+PIC_FX_LaSirenaForceShield,cncpt,Concept,omt,
+PIC_FX_LaSirenaForceShield,fx,FX,rdcmpl,"David Silva, Rick Ramirez"
+PIC_FX_LaSirenaForceShield,light,Lighting/Rendering,hld,
+PIC_FX_LaSirenaForceShield,ltcomp,Light Comp,hld,
+PIC_FX_LaSirenaForceShield,comp,Comp,hld,
+PIC_FX_LaSirenaForceShield,ltcompFx,Light Comp,apr,"David Silva, Rick Ramirez"
+PIC_CHR_BQSpineTail,animTest,Animation,apr,Dustin Adair
+PIC_CHR_BorQueenTubule,animTest,Animation,hld,Dustin Adair
+PIC_VEH_BorgShip,ldevOptimize,Modeling,ip,Jonathan Bliss
+PIC_CHR_Borgati,mdl,Modeling,omt,Steve Graves
+PIC_CHR_Borgati,txtr,Texture,omt,Steve Graves
+PIC_CHR_Borgati,cncpt,Concept,omt,
+PIC_CHR_Borgati,fx,FX,omt,
+PIC_CHR_Borgati,ltcompFx,Light Comp,omt,
+PIC_VEH_RocketLauncher,cncpt,Concept,omt,
+PIC_VEH_RocketLauncher,mdl,Modeling,apr,"Steve Graves, William Mauer"
+PIC_VEH_RocketLauncher,rig,Rigging,apr,Andrei Orehov
+PIC_VEH_RocketLauncher,txtr,Texture,apr,"Steve Graves, William Mauer"
+PIC_PRP_BorgatiHelmet,cncpt,Concept,omt,
+PIC_PRP_BorgatiHelmet,mdl,Modeling,omt,"Steve Graves, Yinglei Yang"
+PIC_PRP_BorgatiHelmet,txtr,Texture,omt,"Steve Graves, Yinglei Yang"
+PIC_VEH_StargazerRR_Projection,cncpt,Concept,hld,
+PIC_VEH_StargazerRR_Projection,mdl,Modeling,hld,
+PIC_VEH_StargazerRR_Projection,rig,Rigging,hld,
+PIC_VEH_StargazerRR_Projection,txtr,Texture,hld,
+PIC_VEH_StargazerRR_Projection,light,Lighting/Rendering,hld,"Steve Graves, Yinglei Yang"
+PIC_VEH_StargazerRR_Projection,ltcomp,Light Comp,hld,"Steve Graves, Yinglei Yang"
+PIC_ENV_WormholeSpiral,cncpt,Concept,rdy,
+PIC_ENV_WormholeSpiral,mdl,Modeling,rdy,Steve Graves
+PIC_ENV_WormholeSpiral,txtr,Texture,rdy,Steve Graves
+PIC_ENV_WormholeSpiral,fx,FX,ip,
+PIC_ENV_WormholeSpiral,ltcompFx,Light Comp,wtg,
+PIC_ENV_ConfederateEarth,mdlDrones,Modeling,apr,Jonathan Bliss
+PIC_VEH_SoongDrone,animTest,,hld,
+,animPrevis,Animation,omt,"Chris Pierz, Dustin Adair"
+PIC_VEH_USSTitan,cncpt,Concept,apr,
+PIC_VEH_USSTitan,mdl,Modeling,apr,"Chris Pierz, Steve Graves, William Mauer"
+PIC_VEH_USSTitan,rig,Rigging,apr,Andrei Orehov
+PIC_VEH_USSTitan,txtr,Texture,apr,"William Mauer, Yinglei Yang"
+PIC_ENV_RytinNebula,cncpt,Concept,rev,
+PIC_ENV_RytinNebula,mdl,Modeling,rdy,"Rick Ramirez, Steve Graves"
+PIC_ENV_RytinNebula,txtr,Texture,hld,"Rick Ramirez, Rigel Bowen, Steve Graves"
+PIC_ENV_RytinNebula,fx,FX,ip,"Rick Ramirez, Vlad Tushevskiy"
+PIC_ENV_RytinNebula,ltcompFx,Light Comp,rrq,"Rick Ramirez, Vlad Tushevskiy"
+PIC_CHR_BorQueenTubuleShoulder,mdl,Modeling,ip,Chris Pierz
+PIC_CHR_BorQueenTubuleShoulder,txtr,Texture,ip,Yinglei Yang
+PIC_CHR_BorQueenTubuleShoulder,cncpt,Concept,omt,
+PIC_CHR_BorQueenTubuleShoulder,fx,FX,omt,
+PIC_CHR_BorQueenTubuleShoulder,ltcompFx,Light Comp,omt,
+PIC_FX_bqForceField,comp,Comp,apr,Ryan Smolarek
+PIC_CHR_BorQueenTubuleShoulder,rig,Rigging,ip,Yinglei Yang
+PIC_PRP_BorgatiHelmet,rig,Rigging,omt,Steve Graves
+PIC_PRP_BorgatiHelmet,comp,Comp,omt,Ryan Smolarek
+PIC_PRP_BorgatiHelmet,ltcomp,Light Comp,omt,Steve Graves
+PIC_FX_VulcanCorvetteForceShield,cncpt,Concept,hld,
+PIC_FX_VulcanCorvetteForceShield,fx,FX,rrq,David Silva
+PIC_FX_VulcanCorvetteForceShield,light,Lighting/Rendering,hld,
+PIC_FX_VulcanCorvetteForceShield,ltcomp,Light Comp,hld,
+PIC_FX_VulcanCorvetteForceShield,comp,Comp,hld,
+PIC_FX_VulcanCorvetteForceShield,ltcompFx,Light Comp,apr,David Silva
+PIC_CHR_BorQueenTubuleNeck,ltcomp,Light Comp,omt,Yinglei Yang
+PIC_CHR_BorBorgatiTendrils,mdl,Modeling,omt,
+PIC_CHR_BorBorgatiTendrils,txtr,Texture,omt,
+PIC_CHR_BorBorgatiTendrils,cncpt,Concept,omt,
+PIC_CHR_BorBorgatiTendrils,fx,FX,omt,
+PIC_CHR_BorBorgatiTendrils,ltcompFx,Light Comp,omt,
+PIC_CHR_BorBorgatiTendrils,rig,Rigging,omt,"Dustin Adair, Yinglei Yang"
+PIC_CHR_BorBorgatiHelmet,fx,FX,rdy,
+PIC_CHR_BorBorgatiHelmet,mdl,Modeling,apr,Yinglei Yang
+PIC_CHR_BorBorgatiHelmet,txtr,Texture,apr,Yinglei Yang
+PIC_CHR_BorBorgatiHelmet,cncpt,Concept,rdy,
+PIC_CHR_BorBorgatiHelmet,ltcompFx,Light Comp,apr,Yinglei Yang
+PIC_CHR_BorBorgatiHelmet,comp,Comp,apr,Ryan Smolarek
+PIC_ENV_RytinNebula,exp,Exports,ip,
+PIC_ENV_RytinNebula,cam,,rrq,
+PIC_CHR_BorBorgatiTendrils,comp,Comp,omt,Ryan Smolarek
+PIC_CHR_BorQueenNeckWound,fx,FX,omt,
+PIC_CHR_BorQueenNeckWound,mdl,Modeling,apr,Yinglei Yang
+PIC_CHR_BorQueenNeckWound,txtr,Texture,apr,Yinglei Yang
+PIC_CHR_BorQueenNeckWound,cncpt,Concept,omt,
+PIC_CHR_BorQueenNeckWound,ltcompFx,Light Comp,omt,
+PIC_CHR_BorQueenNeckWound,ldev,Look Dev,apr,Yinglei Yang
+PIC_CHR_StarRiosAvatar,fx,FX,omt,
+PIC_CHR_StarRiosAvatar,mdl,Modeling,apr,"Chris Pierz, Jason Shulman, Jonathan Bliss"
+PIC_CHR_StarRiosAvatar,txtr,Texture,apr,"Chris Pierz, Jonathan Bliss"
+PIC_CHR_StarRiosAvatar,cncpt,Concept,omt,
+PIC_CHR_StarRiosAvatar,ltcompFx,Light Comp,omt,
+PIC_CHR_StarRiosAvatar,rig,Rigging,apr,Jason Shulman
+PIC_CHR_StarRiosAvatar,mdlPUBLISH,Modeling,hld,Chris Pierz
+PIC_CHR_StarRiosAvatar,mdlRDPROXY,Modeling,hld,Chris Pierz
+PIC_veh_fed_TitanShuttle,cncpt,Concept,omt,
+PIC_veh_fed_TitanShuttle,mdl,Modeling,omt,
+PIC_veh_fed_TitanShuttle,rig,Rigging,omt,
+PIC_veh_fed_TitanShuttle,txtr,Texture,omt,
+PIC_ENV_RytinNebula,fxRR,FX,ip,"Rick Ramirez, Vlad Tushevskiy"
+PIC_ENV_RytinNebula,ltcompFxRR,Light Comp,ip,"Rick Ramirez, Vlad Tushevskiy"
+PIC_ENV_RytinNebula,comp,Comp,apr,Gary Lopez
+PIC_VEH_fedTitanShuttle,mdl,Modeling,apr,"Vit Zelich, William Mauer"
+PIC_VEH_fedTitanShuttle,txtr,Texture,apr,"William Mauer, Yinglei Yang"
+PIC_VEH_fedTitanShuttle,cncpt,Concept,wtg,
+PIC_VEH_fedTitanShuttle,fx,FX,wtg,
+PIC_VEH_fedTitanShuttle,ltcompFx,Light Comp,wtg,
+PIC_VEH_fedTitanShuttle,rig,Rigging,apr,Andrei Orehov
+PIC_VEH_ussStargazer,rig,Rigging,apr,Andrei Orehov
+PIC_VEH_USSExcelsior,rig,Rigging,wtg,Andrei Orehov
+PIC_VEH_ConSoongShadeDrone,rigDroneDome,Rigging,hld,"Andrei Orehov, Jason Shulman"
+PIC_VEH_fedAkira,mdl,Modeling,ip,Chris Pierz
+PIC_VEH_fedAkira,txtr,Texture,ip,Chris Pierz
+PIC_VEH_fedAkira,cncpt,Concept,omt,
+PIC_VEH_fedAkira,fx,FX,omt,
+PIC_VEH_fedAkira,ltcompFx,Light Comp,omt,
+PIC_VEH_fedAkira,rig,Rigging,rev,Andrei Orehov
+PIC_VEH_fedAkira,mdlPUBLISH,Modeling,rdy,"Chris Pierz, Yinglei Yang"
+PIC_VEH_fedAkira,mdlRDPROXY,Modeling,rdy,"Chris Pierz, Yinglei Yang"
+PIC_VEH_fedAkira,ldev,Look Dev,rdcmpl,Chris Pierz
+PIC_VEH_fedAkira,comp,,rrq,
+PIC_VEH_AttackerShip,mdl,Modeling,apr,"Ken Brilliant, Vit Zelich, William Mauer"
+PIC_VEH_ussStargazer,mdlAnimProxy,Modeling,rdy,Yinglei Yang
+PIC_VEH_ConSoongShadeDrone,rigCK,,hld,
+PIC_ENV_RytinNebula,ldev,Look Dev,ip,Yinglei Yang
+PIC_CHR_GenericRig,fx,FX,omt,
+PIC_CHR_GenericRig,mdl,Modeling,omt,
+PIC_CHR_GenericRig,txtr,Texture,omt,
+PIC_CHR_GenericRig,cncpt,Concept,omt,
+PIC_CHR_GenericRig,ltcompFx,Light Comp,omt,
+PIC_CHR_GenericCharacterRig,fx,FX,rdy,
+PIC_CHR_GenericCharacterRig,mdl,Modeling,rdy,Andrei Orehov
+PIC_CHR_GenericCharacterRig,txtr,Texture,rdy,
+PIC_CHR_GenericCharacterRig,cncpt,Concept,rdy,
+PIC_CHR_GenericCharacterRig,ltcompFx,Light Comp,rdy,
+PIC_CHR_GenericCharacterRig,rig,Rigging,ip,Andrei Orehov
+PIC_VEH_TitanSpacedock,mdl,Modeling,apr,"Chris Pierz, Vit Zelich, William Mauer"
+PIC_VEH_EleosXIIMedShip,mdl,Modeling,apr,William Mauer
+PIC_VEH_USSTitan,ltcomp,Light Comp,apr,"Daniel Fazel, David Gutman"
+PIC_VEH_USSTitan,comp,Comp,apr,Ryan Smolarek
+PIC_VEH_RocketLauncher,comp,Comp,apr,Ryan Smolarek
+PIC_CHR_JuratiBust,mdl,Modeling,ip,Yinglei Yang
+PIC_CHR_JuratiBust,txtr,Texture,rdy,Yinglei Yang
+PIC_CHR_JuratiBust,cncpt,Concept,rdy,
+PIC_CHR_JuratiBust,fx,FX,rdy,
+PIC_CHR_JuratiBust,ltcompFx,Light Comp,rdy,
+PIC_CHR_JuratiBust,ldev,Look Dev,rdy,Yinglei Yang
+PIC_VEH_AttackerShip,mdlPUBLISH,Modeling,apr,Chris Pierz
+PIC_VEH_AttackerShip,mdlRDPROXY,Modeling,apr,Chris Pierz
+PIC_VEH_AttackerShip,txtr,Texture,apr,"Chris Pierz, Ken Brilliant, William Mauer, Yinglei Yang"
+PIC_VEH_AttackerShip,ldev,Look Dev,apr,Chris Pierz
+PIC_VEH_AttackerShip,light,Lighting/Rendering,apr,William Mauer
+PIC_VEH_AttackerShip,ltcomp,Light Comp,apr,William Mauer
+PIC_VEH_USSTitan,exp,Exports,apr,
+PIC_ENV_StarField,prcStarsNoNeblin,,ip,
+PIC_VEH_Shrike,mdl,Modeling,apr,"Jon Gourley, Steve Graves, William Mauer"
+PIC_VEH_Shrike,txtr,Texture,hld,"William Mauer, Yinglei Yang"
+PIC_VEH_Shrike,cncpt,Concept,wtg,
+PIC_VEH_Shrike,fx,FX,wtg,
+PIC_VEH_Shrike,ltcompFx,Light Comp,wtg,
+PIC_VEH_ShuttlePod,mdl,Modeling,apr,"Steve Graves, William Mauer, Yinglei Yang"
+PIC_VEH_ShuttlePod,txtr,Texture,apr,"William Mauer, Yinglei Yang"
+PIC_VEH_ShuttlePod,cncpt,Concept,wtg,
+PIC_VEH_ShuttlePod,fx,FX,wtg,
+PIC_VEH_ShuttlePod,ltcompFx,Light Comp,wtg,
+PIC_VEH_Shrike,rig,Rigging,apr,Andrei Orehov
+PIC_VEH_Shrike,light,Lighting/Rendering,apr,Chris Pierz
+PIC_VEH_Shrike,ltcomp,Light Comp,apr,"Chris Pierz, Daniel Fazel, David Gutman, Rick Ramirez"
+PIC_VEH_ShuttlePod,light,Lighting/Rendering,apr,Chris Pierz
+PIC_VEH_ShuttlePod,ltcomp,Light Comp,apr,Chris Pierz
+PIC_VEH_Shrike,mdlPUBLISH,Modeling,apr,Chris Pierz
+PIC_VEH_Shrike,mdlRDPROXY,Modeling,apr,Chris Pierz
+PIC_VEH_ShuttlePod,mdlPUBLISH,Modeling,apr,Chris Pierz
+PIC_VEH_ShuttlePod,mdlRDPROXY,Modeling,apr,Chris Pierz
+PIC_VEH_EleosXIIMedShip,txtr,Texture,apr,"William Mauer, Yinglei Yang"
+PIC_VEH_EleosXIIMedShip,rig,Rigging,apr,Andrei Orehov
+PIC_VEH_EleosXIIMedShip,light,Lighting/Rendering,apr,Chris Pierz
+PIC_VEH_EleosXIIMedShip,ltcomp,Light Comp,apr,Chris Pierz
+PIC_VEH_EleosXIIMedShip,mdlPUBLISH,Modeling,apr,Chris Pierz
+PIC_VEH_EleosXIIMedShip,mdlRDPROXY,Modeling,apr,Chris Pierz
+PIC_VEH_TitanSpacedock,txtr,Texture,apr,"Ken Brilliant, William Mauer, Yinglei Yang"
+PIC_VEH_TitanSpacedock,rig,Rigging,apr,Andrei Orehov
+PIC_VEH_TitanSpacedock,light,Lighting/Rendering,apr,Chris Pierz
+PIC_VEH_TitanSpacedock,ltcomp,Light Comp,apr,Chris Pierz
+PIC_VEH_TitanSpacedock,mdlPUBLISH,Modeling,apr,Chris Pierz
+PIC_VEH_TitanSpacedock,mdlRDPROXY,Modeling,apr,Chris Pierz
+PIC_VEH_fedTitanShuttle,light,Lighting/Rendering,apr,William Mauer
+PIC_VEH_fedTitanShuttle,ltcomp,Light Comp,apr,William Mauer
+PIC_VEH_fedTitanShuttle,mdlPUBLISH,Modeling,apr,"Chris Pierz, William Mauer"
+PIC_VEH_fedTitanShuttle,mdlRDPROXY,Modeling,apr,"Chris Pierz, William Mauer"
+PIC_VEH_ShuttlePod,rig,Rigging,apr,Andrei Orehov
+PIC_VEH_BorgCube,cncpt,Concept,rdy,
+PIC_VEH_BorgCube,mdl,Modeling,apr,"Chris Pierz, Steve Graves, William Mauer"
+PIC_VEH_BorgCube,rig,Rigging,rev,
+PIC_VEH_BorgCube,txtr,Texture,rdy,
+PIC_FX_LaSirenaForceShield,fxRR,,rdcmpl,Rick Ramirez
+PIC_FX_LaSirenaForceShield,ltcompFxRR,Light Comp,ip,Rick Ramirez
+PIC_ENV_RytinNebula,prcTest,,rrq,
+PIC_VEH_ussStargazer,animCrew,Animation,wtg,Jason Shulman
+PIC_ENV_SolarSystem,fx,FX,rdy,
+PIC_ENV_SolarSystem,mdl,Modeling,rdy,Jonathan Bliss
+PIC_ENV_SolarSystem,txtr,Texture,rdy,Jonathan Bliss
+PIC_ENV_SolarSystem,cncpt,Concept,rdy,
+PIC_ENV_SolarSystem,ltcompFx,Light Comp,rdy,
+PIC_ENV_Meteor,mdl,Modeling,rdy,
+PIC_ENV_Meteor,txtr,Texture,rdy,
+PIC_ENV_Meteor,cncpt,Concept,rdy,
+PIC_ENV_Meteor,fx,FX,rdy,
+PIC_ENV_Meteor,ltcompFx,Light Comp,rdy,
+PIC_VEH_BorgCube,light,Lighting/Rendering,apr,Chris Pierz
+PIC_VEH_BorgCube,ltcomp,Light Comp,apr,Chris Pierz
+,anim,Animation,rdy,
+PIC_ENV_RytinNebula,lightNacelles,Lighting/Rendering,rdy,Yinglei Yang
+PIC_ENV_RytinNebula,ltcompNacelles,Light Comp,apr,Yinglei Yang
+PIC_VEH_BorgCubeKitBash,mdl,Modeling,rdy,Chris Pierz
+PIC_VEH_BorgCubeKitBash,txtr,Texture,rdy,Chris Pierz
+PIC_VEH_BorgCubeKitBash,cncpt,Concept,rdy,
+PIC_VEH_BorgCubeKitBash,fx,FX,rdy,
+PIC_VEH_BorgCubeKitBash,ltcompFx,Light Comp,rdy,
+PIC_VEH_BorgCubeKitBash,light,Lighting/Rendering,rdcmpl,Chris Pierz
+PIC_VEH_BorgCubeKitBash,ltcomp,Light Comp,rdy,Chris Pierz
+PIC_ENV_RytinNebula,prcTviDenoise,,ip,
+PIC_CHR_Picard,mdl,Modeling,rdy,"Jason Shulman, Ken Brilliant, William Mauer"
+PIC_CHR_Picard,txtr,Texture,ip,Ken Brilliant
+PIC_CHR_Picard,cncpt,Concept,rdy,
+PIC_CHR_Picard,fx,FX,rdy,
+PIC_CHR_Picard,ltcompFx,Light Comp,rdy,
+PIC_CHR_Picard,rig,Rigging,rev,Andrei Orehov
+PIC_ENV_RytinNebula,prcNacelles,Comp,apr,Gary Lopez
+PIC_ENV_RytinNebula,prcLightning,,ip,
+PIC_VEH_BorgCube,mdlPrevis,Modeling,omt,Chris Pierz
+PIC_VEH_BorgCube,ldev,Look Dev,apr,Chris Pierz
+PIC_ENV_RytinNebula,fxNebulaWide,FX,onfrm,Rick Ramirez
+PIC_ENV_RytinNebula,ltcompFxNebulaWide,Light Comp,wtg,Rick Ramirez
+PIC_VEH_AttackerShip,rig,Rigging,apr,Andrei Orehov
+PIC_VEH_ShuttlePod,comp,Comp,apr,Ryan Smolarek
+PIC_VEH_FenrisRanger,fx,FX,rdy,
+PIC_VEH_FenrisRanger,mdl,Modeling,apr,"Chris Pierz, William Mauer"
+PIC_VEH_FenrisRanger,txtr,Texture,apr,"Chris Pierz, William Mauer"
+PIC_VEH_FenrisRanger,cncpt,Concept,rdy,
+PIC_VEH_FenrisRanger,ltcompFx,Light Comp,rdy,
+PIC_VEH_FenrisRanger,rig,Rigging,apr,Andrei Orehov
+PIC_VEH_USSTitan,mdlAnimProxy,Modeling,apr,Yinglei Yang
+PIC_VEH_FenrisRanger,ldev,Look Dev,apr,Chris Pierz
+PIC_ENV_RytinNebula,prcTestComp,,ip,
+PIC_CHR_BQSpineTail,rigAndrei,Rigging,rev,Andrei Orehov
+PIC_VEH_museumAkira,fx,FX,rdy,
+PIC_VEH_museumAkira,mdl,Modeling,rev,"Chris Pierz, William Mauer"
+PIC_VEH_museumAkira,txtr,Texture,rdy,Chris Pierz
+PIC_VEH_museumAkira,cncpt,Concept,rdy,
+PIC_VEH_museumAkira,ltcompFx,Light Comp,rdy,
+PIC_VEH_museumAkira,rig,Rigging,apr,Andrei Orehov
+PIC_VEH_museumAkira,mdlPUBLISH,Modeling,apr,"Andrei Orehov, Chris Pierz"
+PIC_VEH_museumAkira,mdlRDPROXY,Modeling,rdy,"Andrei Orehov, Chris Pierz"
+PIC_VEH_museumAkira,ldev,Look Dev,rdy,Chris Pierz
+PIC_VEH_museumDefiant,mdl,Modeling,rev,"Chris Pierz, William Mauer"
+PIC_VEH_museumDefiant,fx,FX,rdy,
+PIC_VEH_museumDefiant,txtr,Texture,rdy,Chris Pierz
+PIC_VEH_museumDefiant,cncpt,Concept,rdy,
+PIC_VEH_museumDefiant,ltcompFx,Light Comp,rdy,
+PIC_VEH_museumDefiant,ldev,Look Dev,rdy,Chris Pierz
+PIC_VEH_museumDefiant,rig,Rigging,apr,Andrei Orehov
+PIC_VEH_museumDefiant,mdlPUBLISH,Modeling,apr,"Andrei Orehov, Chris Pierz"
+PIC_VEH_museumDefiant,mdlRDPROXY,Modeling,rdy,"Andrei Orehov, Chris Pierz"
+PIC_VEH_museumEnterpriseA,cncpt,Concept,rdy,
+PIC_VEH_museumEnterpriseA,mdl,Modeling,rev,"Chris Pierz, William Mauer"
+PIC_VEH_museumEnterpriseA,rig,Rigging,rev,Andrei Orehov
+PIC_VEH_museumEnterpriseA,txtr,Texture,rdy,Chris Pierz
+PIC_VEH_museumEnterpriseA,ldev,Look Dev,rdy,Chris Pierz
+PIC_VEH_museumEnterpriseA,mdlPUBLISH,Modeling,rdy,"Andrei Orehov, Chris Pierz"
+PIC_VEH_museumEnterpriseA,mdlRDPROXY,Modeling,rdy,"Andrei Orehov, Chris Pierz"
+PIC_VEH_museumExcelsior,cncpt,Concept,rdy,
+PIC_VEH_museumExcelsior,mdl,Modeling,rdcmpl,"Chris Pierz, William Mauer"
+PIC_VEH_museumExcelsior,rig,Rigging,apr,Andrei Orehov
+PIC_VEH_museumExcelsior,txtr,Texture,rdy,Chris Pierz
+PIC_VEH_museumExcelsior,ldev,Look Dev,rdy,Chris Pierz
+PIC_VEH_museumExcelsior,mdlPUBLISH,Modeling,rdy,"Andrei Orehov, Chris Pierz"
+PIC_VEH_museumExcelsior,mdlRDPROXY,Modeling,rdy,"Andrei Orehov, Chris Pierz"
+PIC_VEH_museumNX01Refit,cncpt,Concept,rdy,
+PIC_VEH_museumNX01Refit,mdl,Modeling,rev,"Chris Pierz, William Mauer"
+PIC_VEH_museumNX01Refit,rig,Rigging,rev,Andrei Orehov
+PIC_VEH_museumNX01Refit,txtr,Texture,rdy,Chris Pierz
+PIC_VEH_museumNX01Refit,ldev,Look Dev,rdy,Chris Pierz
+PIC_VEH_museumNX01Refit,mdlPUBLISH,Modeling,rdy,"Andrei Orehov, Chris Pierz"
+PIC_VEH_museumNX01Refit,mdlRDPROXY,Modeling,rdy,"Andrei Orehov, Chris Pierz"
+PIC_ENV_borgAnomaly,cncpt,Concept,rev,
+PIC_ENV_borgAnomaly,mdl,Modeling,rdy,
+PIC_ENV_borgAnomaly,txtr,Texture,rdy,
+PIC_ENV_borgAnomaly,fx,FX,onfrm,Rick Ramirez
+PIC_ENV_borgAnomaly,ltcompFx,Light Comp,ip,Rick Ramirez
+PIC_VEH_museumNebulaA,cncpt,Concept,rdy,
+PIC_VEH_museumNebulaA,mdl,Modeling,rev,"Chris Pierz, William Mauer"
+PIC_VEH_museumNebulaA,rig,Rigging,apr,Andrei Orehov
+PIC_VEH_museumNebulaA,txtr,Texture,rdy,Chris Pierz
+PIC_VEH_museumNebulaA,ldev,Look Dev,rdy,Chris Pierz
+PIC_VEH_museumNebulaA,mdlRDPROXY,Modeling,rdy,"Andrei Orehov, Chris Pierz"
+PIC_VEH_museumNebulaA,mdlPUBLISH,Modeling,rdy,"Andrei Orehov, Chris Pierz"
+PIC_VEH_museumSaratoga,cncpt,Concept,rdy,
+PIC_VEH_museumSaratoga,mdl,Modeling,rev,"Chris Pierz, William Mauer"
+PIC_VEH_museumSaratoga,rig,Rigging,rev,Andrei Orehov
+PIC_VEH_museumSaratoga,txtr,Texture,rdy,Chris Pierz
+PIC_VEH_museumSaratoga,ldev,Look Dev,rdy,Chris Pierz
+PIC_VEH_museumSaratoga,mdlPUBLISH,Modeling,rdy,"Andrei Orehov, Chris Pierz"
+PIC_VEH_museumSaratoga,mdlRDPROXY,Modeling,rdy,"Andrei Orehov, Chris Pierz"
+PIC_VEH_museumStargazer,cncpt,Concept,rdy,
+PIC_VEH_museumStargazer,mdl,Modeling,rev,"Chris Pierz, William Mauer"
+PIC_VEH_museumStargazer,rig,Rigging,apr,Andrei Orehov
+PIC_VEH_museumStargazer,txtr,Texture,rdy,Chris Pierz
+PIC_VEH_museumStargazer,ldev,Look Dev,rdy,Chris Pierz
+PIC_VEH_museumStargazer,mdlPUBLISH,Modeling,rdy,"Andrei Orehov, Chris Pierz"
+PIC_VEH_museumStargazer,mdlRDPROXY,Modeling,rdy,"Andrei Orehov, Chris Pierz"
+PIC_VEH_museumEnterpriseTOS,cncpt,Concept,rdy,
+PIC_VEH_museumEnterpriseTOS,mdl,Modeling,rev,"Chris Pierz, William Mauer"
+PIC_VEH_museumEnterpriseTOS,rig,Rigging,rev,Andrei Orehov
+PIC_VEH_museumEnterpriseTOS,txtr,Texture,rdy,Chris Pierz
+PIC_VEH_museumEnterpriseTOS,ldev,Look Dev,rdy,Chris Pierz
+PIC_VEH_museumEnterpriseTOS,mdlPUBLISH,Modeling,rdy,"Andrei Orehov, Chris Pierz"
+PIC_VEH_museumEnterpriseTOS,mdlRDPROXY,Modeling,rdy,"Andrei Orehov, Chris Pierz"
+PIC_VEH_museumVoyager,cncpt,Concept,rdy,
+PIC_VEH_museumVoyager,mdl,Modeling,rrq,"Chris Pierz, William Mauer"
+PIC_VEH_museumVoyager,rig,Rigging,rev,Andrei Orehov
+PIC_VEH_museumVoyager,txtr,Texture,rdy,Chris Pierz
+PIC_VEH_museumVoyager,ldev,Look Dev,rdy,Chris Pierz
+PIC_VEH_museumVoyager,mdlPUBLISH,Modeling,rdy,"Andrei Orehov, Chris Pierz"
+PIC_VEH_museumVoyager,mdlRDPROXY,Modeling,rdy,"Andrei Orehov, Chris Pierz"
+PIC_VEH_museumKlingonBirdOfPrey,cncpt,Concept,rdy,
+PIC_VEH_museumKlingonBirdOfPrey,mdl,Modeling,rev,"Chris Pierz, William Mauer"
+PIC_VEH_museumKlingonBirdOfPrey,rig,Rigging,rev,Andrei Orehov
+PIC_VEH_museumKlingonBirdOfPrey,txtr,Texture,rdy,Chris Pierz
+PIC_VEH_museumKlingonBirdOfPrey,ldev,Look Dev,rdy,Chris Pierz
+PIC_VEH_museumKlingonBirdOfPrey,mdlPUBLISH,Modeling,rdy,"Andrei Orehov, Chris Pierz"
+PIC_VEH_museumKlingonBirdOfPrey,mdlRDPROXY,Modeling,rdy,"Andrei Orehov, Chris Pierz"
+PIC_VEH_museumKlingonKronosOne,cncpt,Concept,rdy,
+PIC_VEH_museumKlingonKronosOne,mdl,Modeling,rdcmpl,"Chris Pierz, William Mauer"
+PIC_VEH_museumKlingonKronosOne,rig,Rigging,rev,Andrei Orehov
+PIC_VEH_museumKlingonKronosOne,txtr,Texture,rdy,Chris Pierz
+PIC_VEH_museumKlingonKronosOne,ldev,Look Dev,rdy,Chris Pierz
+PIC_VEH_museumKlingonKronosOne,mdlPUBLISH,Modeling,rdy,"Andrei Orehov, Chris Pierz"
+PIC_VEH_museumKlingonKronosOne,mdlRDPROXY,Modeling,rdy,"Andrei Orehov, Chris Pierz"
+PIC_VEH_FenrisRanger,light,Lighting/Rendering,apr,Chris Pierz
+PIC_VEH_FenrisRanger,ltcomp,Light Comp,apr,Chris Pierz
+PIC_ENV_MiscNebulaCards,cncpt,Concept,rdy,
+PIC_ENV_MiscNebulaCards,mdl,Modeling,rdy,Chris Pierz
+PIC_ENV_MiscNebulaCards,txtr,Texture,rdy,Chris Pierz
+PIC_ENV_MiscNebulaCards,light,Lighting/Rendering,rdy,Chris Pierz
+PIC_ENV_MiscNebulaCards,ltcomp,Light Comp,rrq,Chris Pierz
+PIC_CHR_StarfleetCrewFemale,fx,FX,rdy,
+PIC_CHR_StarfleetCrewFemale,mdl,Modeling,rdy,
+PIC_CHR_StarfleetCrewFemale,txtr,Texture,rdy,
+PIC_CHR_StarfleetCrewFemale,cncpt,Concept,rdy,
+PIC_CHR_StarfleetCrewFemale,ltcompFx,Light Comp,rdy,
+PIC_CHR_StarfleetCrewMale,fx,FX,rdy,
+PIC_CHR_StarfleetCrewMale,mdl,Modeling,rdy,
+PIC_CHR_StarfleetCrewMale,txtr,Texture,rdy,
+PIC_CHR_StarfleetCrewMale,cncpt,Concept,rdy,
+PIC_CHR_StarfleetCrewMale,ltcompFx,Light Comp,rdy,
+PIC_CHR_StarfleetCrewFemale,rig,Rigging,rdy,Andrei Orehov
+PIC_CHR_StarfleetCrewMale,rig,Rigging,rdy,Andrei Orehov
+PIC_VEH_FenrisRanger,comp,Comp,apr,
+PIC_VEH_FenrisRanger,mdlPUBLISH,Modeling,rdy,William Mauer
+PIC_VEH_FenrisRanger,mdlRDPROXY,Modeling,rdy,William Mauer
+PIC_PRP_FleetShipsDestruction,cncpt,Concept,rdy,
+PIC_PRP_FleetShipsDestruction,mdl,Modeling,ip,"Chris Pierz, Patricio Harris, Steve Graves, William Mauer"
+PIC_PRP_FleetShipsDestruction,txtr,Texture,rdy,William Mauer
+PIC_PRP_FleetShipsDestruction,rig,Rigging,apr,Andrei Orehov
+PIC_PRP_FleetShipsDestruction,mdlFX,Modeling,rdy,Rick Ramirez
+PIC_VEH_ussStargazerDestruction,cncpt,Concept,rdy,
+PIC_VEH_ussStargazerDestruction,mdl,Modeling,apr,Steve Graves
+PIC_VEH_ussStargazerDestruction,rig,Rigging,apr,Andrei Orehov
+PIC_VEH_ussStargazerDestruction,txtr,Texture,rdy,
+PIC_VEH_ussStargazerDestruction,mdlPUBLISH,Modeling,rdy,Andrei Orehov
+PIC_VEH_ussStargazerDestruction,mdlRDPROXY,Modeling,rdy,Andrei Orehov
+PIC_VEH_BorgCube,comp,Comp,apr,Ryan Smolarek
+PIC_ENV_borgAnomaly,comp,Comp,apr,Gary Lopez
+PIC_ENV_borgAnomaly,prcTest,,ip,
+PIC_CHR_BorBorgatiHelmet,rig,Rigging,apr,Yinglei Yang
+PIC_VEH_EleosXIIMedShip,comp,Comp,apr,Ryan Smolarek
+PIC_VEH_fedTitanShuttle,comp,Comp,apr,Ryan Smolarek
+PIC_PRP_FleetShipsDestruction,exp,Exports,ip,
+PIC_VEH_TitanSpacedock,comp,Comp,apr,Ryan Smolarek
+PIC_VEH_StarfleetMuseum,cncpt,Concept,apr,
+PIC_VEH_StarfleetMuseum,mdl,Modeling,apr,"Vit Zelich, William Mauer"
+PIC_VEH_StarfleetMuseum,rig,Rigging,apr,Andrei Orehov
+PIC_VEH_StarfleetMuseum,txtr,Texture,apr,William Mauer
+PIC_CHR_BorBorgatiNanoTendrils,mdl,Modeling,rdy,"Andrei Orehov, Yinglei Yang"
+PIC_CHR_BorBorgatiNanoTendrils,txtr,Texture,rdy,Yinglei Yang
+PIC_CHR_BorBorgatiNanoTendrils,cncpt,Concept,rdy,
+PIC_CHR_BorBorgatiNanoTendrils,fx,FX,rdy,
+PIC_CHR_BorBorgatiNanoTendrils,ltcompFx,Light Comp,rdy,
+PIC_CHR_BorBorgatiNanoTendrils,rig,Rigging,rev,Andrei Orehov
+PIC_ENV_deepSpaceObjects,cncpt,Concept,rdy,
+PIC_ENV_deepSpaceObjects,mdl,Modeling,rdy,
+PIC_ENV_deepSpaceObjects,txtr,Texture,rdy,
+PIC_ENV_promoPlanetGeneric,mdl,Modeling,rdy,Jonathan Bliss
+PIC_ENV_promoPlanetGeneric,txtr,Texture,rdy,Jonathan Bliss
+PIC_ENV_promoPlanetGeneric,cncpt,Concept,rdy,
+PIC_ENV_promoPlanetGeneric,fx,FX,rdy,
+PIC_ENV_promoPlanetGeneric,ltcompFx,Light Comp,rdy,
+PIC_ENV_promoPlanetGeneric,rig,Rigging,wtg,Andrei Orehov
+PIC_ENV_deepSpaceObjects,mdlPlanetaryNebula,Modeling,onfrm,Rick Ramirez
+PIC_ENV_deepSpaceObjects,mdlDarkNebula,Modeling,ip,Rick Ramirez
+PIC_ENV_deepSpaceObjects,mdlRelfectionNebula,Modeling,ip,Rick Ramirez
+PIC_ENV_deepSpaceObjects,mdlOpenCluster,Modeling,rdcmpl,Rick Ramirez
+PIC_ENV_deepSpaceObjects,prcMikeDTest,Comp,wtg,
+PIC_ENV_deepSpaceObjects,prcPlanetaryNebulaLookDev,Comp,ip,Rick Ramirez
+PIC_VEH_fedStarshipTug,fx,FX,rdy,
+PIC_VEH_fedStarshipTug,lookdev,Look Dev,wtg,
+PIC_VEH_fedStarshipTug,cncpt,Concept,rdy,
+PIC_VEH_fedStarshipTug,mdl,Modeling,apr,William Mauer
+PIC_VEH_fedStarshipTug,txtr,Texture,rdy,William Mauer
+PIC_VEH_fedStarshipTug,ltcompFx,Light Comp,rdy,
+PIC_VEH_fedStarshipTug,rig,Rigging,apr,Andrei Orehov
+PIC_VEH_fedStarshipTug,mdlPUBLISH,Modeling,rdy,William Mauer
+PIC_VEH_fedStarshipTug,mdlRDPROXY,Modeling,rdy,William Mauer
+PIC_VEH_fedStarshipTugShort,cncpt,Concept,omt,
+PIC_VEH_fedStarshipTugShort,mdl,Modeling,rdy,William Mauer
+PIC_VEH_fedStarshipTugShort,rig,Rigging,rev,Andrei Orehov
+PIC_VEH_fedStarshipTugShort,txtr,Texture,rdy,William Mauer
+PIC_VEH_fedStarshipTugShort,mdlPUBLISH,Modeling,rdy,William Mauer
+PIC_VEH_fedStarshipTugShort,mdlRDPROXY,Modeling,rdy,William Mauer
+PIC_VEH_DaystromStation,cncpt,Concept,apr,
+PIC_VEH_DaystromStation,mdl,Modeling,apr,"Chris Pierz, William Mauer"
+PIC_VEH_DaystromStation,rig,Rigging,apr,Andrei Orehov
+PIC_VEH_DaystromStation,txtr,Texture,apr,William Mauer
+PIC_ENV_deepSpaceObjects,prcReflectionNebula,Comp,ip,Rick Ramirez
+PIC_VEH_fedShuttleBayGeneric,cncpt,Concept,rdy,
+PIC_VEH_fedShuttleBayGeneric,mdl,Modeling,rrq,William Mauer
+PIC_VEH_fedShuttleBayGeneric,rig,Rigging,wtg,Andrei Orehov
+PIC_VEH_fedShuttleBayGeneric,txtr,Texture,rdy,William Mauer
+PIC_VEH_fedWorkerBee00A,cncpt,Concept,rdy,
+PIC_VEH_fedWorkerBee00A,mdl,Modeling,apr,William Mauer
+PIC_VEH_fedWorkerBee00A,rig,Rigging,rev,Andrei Orehov
+PIC_VEH_fedWorkerBee00A,txtr,Texture,rdy,William Mauer
+PIC_VEH_fedIntrepid,cncpt,Concept,apr,
+PIC_VEH_fedIntrepid,mdl,Modeling,apr,"Jon Gourley, William Mauer"
+PIC_VEH_fedIntrepid,rig,Rigging,apr,Andrei Orehov
+PIC_VEH_fedIntrepid,txtr,Texture,apr,William Mauer
+PIC_VEH_fedIntrepid,mdlPUBLISH,Modeling,apr,William Mauer
+PIC_VEH_fedIntrepid,mdlRDPROXY,Modeling,apr,William Mauer
+PIC_VEH_fedWorkerBee00A,mdlPUBLISH,Modeling,rdy,William Mauer
+PIC_VEH_fedWorkerBee00A,mdlRDPROXY,Modeling,rdy,William Mauer
+PIC_VEH_fedShuttleBayGeneric,mdlPUBLISH,Modeling,rdy,William Mauer
+PIC_VEH_fedShuttleBayGeneric,mdlRDPROXY,Modeling,rdy,William Mauer
+PIC_VEH_DaystromStation,mdlPUBLISH,Modeling,apr,William Mauer
+PIC_VEH_DaystromStation,mdlRDPROXY,Modeling,apr,William Mauer
+PIC_VEH_RocketLauncher,mdlPUBLISH,Modeling,apr,William Mauer
+PIC_VEH_RocketLauncher,mdlRDPROXY,Modeling,apr,William Mauer
+PIC_VEH_USSTitan,mdlPUBlISH,Modeling,apr,William Mauer
+PIC_VEH_USSTitan,mdlRDPROXY,Modeling,apr,William Mauer
+PIC_VEH_BorgCube,mdlPUBLISH,Modeling,apr,"Chris Pierz, William Mauer"
+PIC_VEH_StarfleetMuseum,mdlPUBLISH,Modeling,apr,William Mauer
+PIC_VEH_StarfleetMuseum,mdlRDPROXY,Modeling,apr,William Mauer
+PIC_VEH_fedStarshipTug,mdlForceShield,Modeling,rdy,Chris Pierz
+PIC_ENV_borgTranswarpConduit,cncpt,Concept,rdy,
+PIC_ENV_borgTranswarpConduit,mdl,Modeling,rdy,
+PIC_ENV_borgTranswarpConduit,txtr,Texture,rdy,
+PIC_ENV_borgTranswarpConduit,fx,FX,rdcmpl,Bruce Coy
+PIC_ENV_borgTranswarpConduit,ltcompFx,Light Comp,rrq,Bruce Coy
+PIC_ENV_AlienPlanet01,cncpt,Concept,rdy,
+PIC_ENV_AlienPlanet01,mdl,Modeling,rrq,William Mauer
+PIC_ENV_AlienPlanet01,txtr,Texture,rdy,William Mauer
+PIC_ENV_AlienPlanet02,cncpt,Concept,rdy,
+PIC_ENV_AlienPlanet02,mdl,Modeling,rrq,William Mauer
+PIC_ENV_AlienPlanet02,txtr,Texture,rdy,William Mauer
+PIC_ENV_AlienPlanet01,rig,Rigging,rev,Andrei Orehov
+PIC_ENV_AlienPlanet01,mdlRDPROXY,Modeling,rdy,William Mauer
+PIC_ENV_AlienPlanet01,mdlPUBLISH,Modeling,rdy,William Mauer
+PIC_ENV_AlienPlanet02,rig,Rigging,rev,Andrei Orehov
+PIC_ENV_AlienPlanet02,mdlRDPROXY,Modeling,rdy,William Mauer
+PIC_ENV_AlienPlanet02,mdlPUBLISH,Modeling,rdy,William Mauer
+PIC_CHR_BorgatiCircuitFace,fx,FX,rdy,
+PIC_CHR_BorgatiCircuitFace,lookdev,Look Dev,wtg,
+PIC_CHR_BorgatiCircuitFace,cncpt,Concept,rdy,
+PIC_CHR_BorgatiCircuitFace,mdl,Modeling,apr,Yinglei Yang
+PIC_CHR_BorgatiCircuitFace,txtr,Texture,rdy,Yinglei Yang
+PIC_CHR_BorgatiCircuitFace,ltcompFx,Light Comp,rdy,
+PIC_CHR_BorgatiCircuitFace,rig,Rigging,wtg,Andrei Orehov
+PIC_CHR_BorgatiCircuitFace,mdlRDPROXY,Modeling,rdy,Yinglei Yang
+PIC_CHR_BorgatiCircuitFace,mdlPUBLISH,Modeling,rdy,Yinglei Yang
+PIC_VEH_fedStarshipTugShort,mdlForceShield,Modeling,rdy,Chris Pierz
+PIC_VEH_previsUSSGagarin,mdlForceShields,Modeling,rdy,Chris Pierz
+PIC_VEH_previsUSSRoss,mdlForceShield,Modeling,apr,Chris Pierz
+PIC_VEH_previsUSSReliant,mdlForceShields,Modeling,rdy,Chris Pierz
+PIC_ENV_SolarSystem,mdlMars,Modeling,rdy,Jonathan Bliss
+PIC_ENV_SolarSystem,mdlJupiter,Modeling,rdy,Jonathan Bliss
+PIC_ENV_SolarSystem,mdlSaturn,Modeling,rdy,Jonathan Bliss
+PIC_ENV_SolarSystem,mdlUranus,Modeling,rdy,Jonathan Bliss
+PIC_ENV_SolarSystem,mdlNeptune,Modeling,rdy,Jonathan Bliss
+PIC_ENV_SolarSystem,mdlPluto,Modeling,rdy,Jonathan Bliss
+PIC_ENV_SolarSystem,mdlMoon,,rdy,Jonathan Bliss
+PIC_ENV_SolarSystem,mdlAsteroid,,rdy,Jonathan Bliss
+PIC_ENV_SolarSystem,mdlMercury,,rdy,Jonathan Bliss
+PIC_ENV_SolarSystem,mdlSun,,rdy,Jonathan Bliss
+PIC_VEH_previsUSSRustazh,mdlForceShield,Modeling,apr,Chris Pierz
+PIC_VEH_fedAkira,mdlForceShield,Modeling,rdy,Chris Pierz
+PIC_VEH_Shrike,comp,Comp,apr,Ryan Smolarek
+PIC_PRP_DronesRooftopDoors,cncpt,Concept,rdy,
+PIC_PRP_DronesRooftopDoors,mdl,Modeling,rev,"Brandon MacDougall, William Mauer"
+PIC_PRP_DronesRooftopDoors,txtr,Texture,rev,"Brandon MacDougall, William Mauer"
+PIC_VEH_NX-01,cncpt,Concept,rdy,Steve Graves
+PIC_VEH_NX-01,mdl,Modeling,rdy,Steve Graves
+PIC_VEH_NX-01,txtr,Texture,rdy,Steve Graves
+PIC_VEH_NX-01,light,FX,rdy,Steve Graves
+PIC_VEH_NX-01,lookdev,Look Dev,wtg,
+PIC_VEH_NX-01,ltcomp,Light Comp,rdy,
+PIC_VEH_NX-01,rig,Rigging,wtg,Steve Graves
+PIC_VEH_ussStargazer,prcMikeDTest2,,ip,Michael De Lorenzo
+PIC_PRP_DronesRooftopDoors,rig,Rigging,rev,Andrei Orehov
+PIC_PRP_DronesRooftopDoors,mdlPUBLISH,Modeling,rdy,Andrei Orehov
+PIC_PRP_DronesRooftopDoors,mdlRDPROXY,Modeling,rdy,Andrei Orehov
+PIC_ENV_AsteroidsCPH,fx,FX,ip,
+PIC_ENV_AsteroidsCPH,lookdev,Look Dev,wtg,
+PIC_ENV_AsteroidsCPH,cncpt,Concept,rdy,
+PIC_ENV_AsteroidsCPH,mdl,Modeling,rdy,William Mauer
+PIC_ENV_AsteroidsCPH,txtr,Texture,rdy,William Mauer
+PIC_ENV_AsteroidsCPH,ltcompFx,Light Comp,rdy,
+PIC_ENV_AsteroidsCPH,rig,Rigging,rev,Andrei Orehov
+PIC_ENV_AsteroidsCPH,mdlPUBLISH,Modeling,rdy,Andrei Orehov
+PIC_ENV_AsteroidsCPH,mdlRDPROXY,Modeling,rdy,Andrei Orehov
+PIC_VEH_LunaA,cncpt,Concept,omt,
+PIC_VEH_LunaA,mdl,Modeling,rev,William Mauer
+PIC_VEH_LunaA,rig,Rigging,rev,Andrei Orehov
+PIC_VEH_LunaA,txtr,Texture,rdy,William Mauer
+PIC_VEH_museumLunaATitan,cncpt,Concept,omt,
+PIC_VEH_museumLunaATitan,mdl,Modeling,omt,William Mauer
+PIC_VEH_museumLunaATitan,rig,Rigging,omt,Andrei Orehov
+PIC_VEH_museumLunaATitan,txtr,Texture,omt,William Mauer
+PIC_VEH_LunaA,mdlPUBLISH,Modeling,rdy,Andrei Orehov
+PIC_VEH_LunaA,mdlRDPROXY,Modeling,rdy,Andrei Orehov
+PIC_VEH_museumLunaATitan,mdlPUBLISH,Modeling,omt,Andrei Orehov
+PIC_VEH_museumLunaATitan,mdlRDPROXY,Modeling,omt,Andrei Orehov
+PIC_BLD_LaunchPad,cncpt,Concept,rdy,
+PIC_BLD_LaunchPad,mdl,Modeling,rdy,"Dan Aprea, Steve Graves, William Mauer"
+PIC_BLD_LaunchPad,txtr,Texture,rdy,"Dan Aprea, Steve Graves, William Mauer"
+PIC_BLD_LaunchPad,fx,FX,rdy,
+PIC_BLD_LaunchPad,lookdev,Look Dev,wtg,
+PIC_BLD_LaunchPad,ltcompFx,Light Comp,rdy,
+PIC_VEH_EnterpriseCPH,cncpt,Concept,rdy,
+PIC_VEH_EnterpriseCPH,mdl,Modeling,rdy,
+PIC_VEH_EnterpriseCPH,rig,Rigging,rdy,
+PIC_VEH_EnterpriseCPH,txtr,Texture,rdy,
+PIC_VEH_fedAkira,mdlAkiraAvalon,Modeling,rdy,William Mauer
+PIC_VEH_fedAvalon,cncpt,Concept,omt,
+PIC_VEH_fedAvalon,mdl,Modeling,omt,
+PIC_VEH_fedAvalon,rig,Rigging,omt,
+PIC_VEH_fedAvalon,txtr,Texture,omt,
+PIC_VEH_fedUSSAvalon,cncpt,Concept,rdy,
+PIC_VEH_fedUSSAvalon,mdl,Modeling,rdy,William Mauer
+PIC_VEH_fedUSSAvalon,rig,Rigging,rev,Andrei Orehov
+PIC_VEH_fedUSSAvalon,txtr,Texture,rdy,William Mauer
+PIC_VEH_fedUSSAvalon,mdlRDPROXY,Modeling,rdy,Andrei Orehov
+PIC_VEH_fedUSSAvalon,mdlPUBLISH,Modeling,rdy,Andrei Orehov
+PIC_CHR_BorBorgatiNanoTendrils,mdlRDPROXY,Modeling,rdy,Andrei Orehov
+PIC_CHR_BorBorgatiNanoTendrils,mdlPUBLISH,Modeling,rdy,Andrei Orehov
+PIC_VEH_USSTitan,ldev,Look Dev,apr,Steve Graves
+PIC_VEH_AttackerShip,comp,Comp,apr,Ryan Smolarek
+PIC_VEH_Shrike,ldev,Look Dev,apr,Yinglei Yang
+PIC_VEH_TitanSpacedockInterior,cncpt,Concept,apr,
+PIC_VEH_TitanSpacedockInterior,mdl,Modeling,apr,"Vit Zelich, William Mauer"
+PIC_VEH_TitanSpacedockInterior,rig,Rigging,apr,Andrei Orehov
+PIC_VEH_TitanSpacedockInterior,txtr,Texture,apr,"Vit Zelich, William Mauer"
+PIC_VEH_TitanSpacedockInterior,mdlRDREADY,Modeling,apr,Andrei Orehov
+PIC_VEH_TitanSpacedockInterior,mdlPUBLISH,Modeling,apr,Andrei Orehov
+PIC_VEH_TitanSpacedockInterior,comp,Comp,apr,Ryan Smolarek
+PIC_ENV_borgTranswarpConduit,comp,Comp,apr,Gary Lopez
+PIC_FX_portalWeapon,cncpt,Concept,rdy,
+PIC_FX_portalWeapon,fx,FX,rdy,
+PIC_FX_portalWeapon,light,Lighting/Rendering,rdy,
+PIC_FX_portalWeapon,ltcomp,Light Comp,rdy,
+PIC_FX_portalWeapon,comp,Comp,rdy,
+PIC_FX_portalWeapon,ltcompFx,Light Comp,rdy,
+PIC_VEH_fedShuttleBayGeneric,mdlStarfleetFloorLogo,Modeling,rdy,"Steve Graves, Yinglei Yang"
+PIC_ENV_borgTranswarpConduit,prcAngrytranswarp,,ip,
+PIC_CHR_SpaceBaby,cncpt,Concept,rdy,
+PIC_CHR_SpaceBaby,fx,FX,rdy,
+PIC_CHR_SpaceBaby,lookdev,Look Dev,wtg,
+PIC_CHR_SpaceBaby,mdl,Modeling,rdy,Kris Kelly
+PIC_CHR_SpaceBaby,txtr,Texture,rdy,Yinglei Yang
+PIC_CHR_SpaceBaby,ltcompFx,Light Comp,rdy,
+PIC_CHR_SpaceBaby,rig,Rigging,rdy,Andrei Orehov
+PIC_CHR_SpaceBaby,mdlPUBLISH,Modeling,rdy,Andrei Orehov
+PIC_PRP_DronesRooftopDoors,lookdev,Look Dev,rdy,Steve Graves
+PIC_VEH_EnterpriseD,cncpt,Concept,rdy,
+PIC_VEH_EnterpriseD,mdl,Modeling,apr,William Mauer
+PIC_VEH_EnterpriseD,rig,Rigging,apr,Andrei Orehov
+PIC_VEH_EnterpriseD,txtr,Texture,rdy,William Mauer
+PIC_VEH_EnterpriseD,mdlPUBLISH,Modeling,rdy,Andrei Orehov
+PIC_VEH_fedIntrepid,comp,Comp,apr,Ryan Smolarek
+PIC_FX_Portal,cncpt,Concept,rev,
+PIC_FX_Portal,fx,FX,rdy,
+PIC_FX_Portal,light,Lighting/Rendering,rdy,
+PIC_FX_Portal,ltcomp,Light Comp,rdy,
+PIC_FX_Portal,comp,Comp,rdy,
+PIC_FX_Portal,ltcompFx,Light Comp,rdy,
+PIC_ENV_RytinNebula,fxVT,FX,ip,Vlad Tushevskiy
+PIC_ENV_RytinNebula,ltcompFxVT,Light Comp,rdy,Vlad Tushevskiy
+PIC_CHR_Sparrow,fx,FX,rdy,
+PIC_CHR_Sparrow,lookdev,Look Dev,wtg,
+PIC_CHR_Sparrow,cncpt,Concept,rdy,
+PIC_CHR_Sparrow,mdl,Modeling,rdy,
+PIC_CHR_Sparrow,txtr,Texture,rdy,
+PIC_CHR_Sparrow,ltcompFx,Light Comp,rdy,
+PIC_CHR_Sparrow,rig,Rigging,rev,Andrei Orehov
+PIC_ENV_borgTranswarpConduit,prcAngrytranswarpNobeam,,ip,
+PIC_ENV_borgTranswarpConduit,prcHappyTranswarp,,ip,
+PIC_PRP_StarfleetDamage,cncpt,Concept,rdy,
+PIC_PRP_StarfleetDamage,mdl,Modeling,ip,"Vit Zelich, William Mauer"
+PIC_PRP_StarfleetDamage,txtr,Texture,rdy,
+PIC_VEH_DaystromStation,ldevScale,Modeling,apr,Chris Pierz
+PIC_VEH_USSTitan,prcLightArray,Comp,apr,Ryan Smolarek
+PIC_ENV_WaterPlanet,cncpt,Concept,rdy,
+PIC_ENV_WaterPlanet,mdl,Modeling,rdcmpl,Jonathan Bliss
+PIC_ENV_WaterPlanet,txtr,Texture,ip,Jonathan Bliss
+PIC_ENV_WaterPlanet,rig,,rdy,Andrei Orehov
+PIC_ENV_WaterPlanet,mdlRDPROXY,Modeling,rdy,Andrei Orehov
+PIC_ENV_WaterPlanet,mdlPUBLISH,Modeling,rdy,Andrei Orehov
+PIC_ENV_RytinNebula,ldevSteve,Look Dev,rdy,Steve Graves
+PIC_VEH_StarfleetMuseum,comp,Comp,apr,Ryan Smolarek
+PIC_VEH_USSSulu,fx,FX,rdy,Steve Graves
+PIC_VEH_USSSulu,lookdev,Look Dev,wtg,
+PIC_VEH_USSSulu,cncpt,Concept,rdy,Steve Graves
+PIC_VEH_USSSulu,mdl,Modeling,rdy,Steve Graves
+PIC_VEH_USSSulu,txtr,Texture,rdy,Steve Graves
+PIC_VEH_USSSulu,ltcompFx,Light Comp,rdy,Steve Graves
+PIC_ENV_RytinNebula,env,Modeling,apr,"Christopher Knight, Rick Ramirez"
+PIC_ENV_borgTranswarpConduit,prcTransitionCloseup,,ip,
+PIC_ENV_borgTranswarpConduit,prcAngryNobeamSlow,,ip,
+PIC_VEH_DaystromStation,comp,Comp,apr,Ryan Smolarek
+PIC_ENV_WaterPlanet,light,Lighting/Rendering,rdy,Jonathan Bliss
+PIC_ENV_WaterPlanet,ltcomp,Light Comp,rrq,Jonathan Bliss
+PIC_VEH_USSTitan,lightInteractive,Lighting/Rendering,apr,"Daniel Fazel, David Gutman"
+PIC_VEH_USSTitan,ltcompInteractive,Light Comp,apr,"Daniel Fazel, David Gutman, Rick Ramirez"
+PIC_VEH_Shrike,lightInteractive,Lighting/Rendering,apr,"Daniel Fazel, David Gutman, Rick Ramirez"
+PIC_VEH_Shrike,ltcompInteractive,Light Comp,apr,"Daniel Fazel, David Gutman"
+PIC_VEH_USSTitanDamaged,fx,FX,rdy,
+PIC_VEH_USSTitanDamaged,lookdev,Look Dev,wtg,
+PIC_VEH_USSTitanDamaged,cncpt,Concept,rdy,
+PIC_VEH_USSTitanDamaged,mdl,Modeling,rev,"Steve Graves, William Mauer"
+PIC_VEH_USSTitanDamaged,txtr,Texture,rdy,"Steve Graves, William Mauer"
+PIC_VEH_USSTitanDamaged,ltcompFx,Light Comp,rdy,
+PIC_VEH_USSTitanDamaged,mdlRDPROXY,Modeling,rdy,"Andrei Orehov, William Mauer"
+PIC_VEH_USSTitanDamaged,mdlPUBLISH,Modeling,rdy,"Andrei Orehov, William Mauer"
+PIC_VEH_USSTitanDamaged,rig,Rigging,rev,Andrei Orehov
+PIC_VEH_USSTitan,camTurntable,,ip,
+PIC_VEH_USSTitan,camStills,,ip,
+PIC_VEH_USSTitan,camBlinking,,ip,
+PIC_VEH_USSTitan,camCubeView,,ip,
+PIC_PRP_BorgBeacon,cncpt,Concept,hld,
+PIC_PRP_BorgBeacon,mdl,Modeling,hld,
+PIC_PRP_BorgBeacon,txtr,Texture,hld,
+PIC_VEH_Shrike,mdlShield,Modeling,rdy,Chris Pierz
+PIC_VEH_USSTitan,mdlShield,Modeling,rdy,Chris Pierz
+PIC_VEH_TitanSpacedock,mdlShield,Modeling,rdcmpl,Chris Pierz
+PIC_VEH_USSTitanDamaged,mdl303damage,Modeling,rdy,William Mauer
+PIC_VEH_fedUSSEchelonNova,cncpt,Concept,omt,
+PIC_VEH_fedUSSEchelonNova,mdl,Modeling,omt,
+PIC_VEH_fedUSSEchelonNova,rig,Rigging,omt,
+PIC_VEH_fedUSSEchelonNova,txtr,Texture,omt,
+PIC_VEH_fedUSSAlita,cncpt,Concept,rdy,
+PIC_VEH_fedUSSAlita,mdl,Modeling,rev,"Chris Pierz, Patricio Harris"
+PIC_VEH_fedUSSAlita,rig,Rigging,apr,Andrei Orehov
+PIC_VEH_fedUSSAlita,txtr,Texture,ip,"Chris Pierz, Patricio Harris"
+PIC_VEH_fedUSSPathfinder,cncpt,Concept,rdy,
+PIC_VEH_fedUSSPathfinder,mdl,Modeling,rev,"Chris Pierz, Patricio Harris"
+PIC_VEH_fedUSSPathfinder,rig,Rigging,apr,Andrei Orehov
+PIC_VEH_fedUSSPathfinder,txtr,Texture,rdy,"Chris Pierz, William Mauer"
+PIC_VEH_fedUSSEchelonNova,mdlRDPROXY,Modeling,omt,
+PIC_VEH_fedUSSEchelonNova,mdlPUBLISH,Modeling,omt,
+PIC_VEH_fedUSSAlita,mdlRDPROXY,Modeling,rdy,"Andrei Orehov, William Mauer"
+PIC_VEH_fedUSSAlita,mdlPUBLISH,Modeling,apr,"Andrei Orehov, William Mauer"
+PIC_VEH_fedUSSPathfinder,mdlRDPROXY,Modeling,rdy,"Andrei Orehov, William Mauer"
+PIC_VEH_fedUSSPathfinder,mdlPUBLISH,Modeling,apr,"Andrei Orehov, William Mauer"
+PIC_VEH_fedUSSEnterpriseF,cncpt,Concept,rdy,
+PIC_VEH_fedUSSEnterpriseF,mdl,Modeling,rdcmpl,"Chris Pierz, William Mauer"
+PIC_VEH_fedUSSEnterpriseF,rig,Rigging,apr,Andrei Orehov
+PIC_VEH_fedUSSEnterpriseF,txtr,Texture,rdy,"Chris Pierz, William Mauer"
+PIC_VEH_fedUSSEnterpriseF,mdlRDPROXY,Modeling,rdy,"Andrei Orehov, Chris Pierz, William Mauer"
+PIC_VEH_fedUSSEnterpriseF,mdlPUBLISH,Modeling,apr,"Andrei Orehov, Chris Pierz, William Mauer"
+PIC_VEH_fedUSSNova,cncpt,Concept,rdy,
+PIC_VEH_fedUSSNova,mdl,Modeling,rev,"Chris Pierz, Patricio Harris"
+PIC_VEH_fedUSSNova,rig,Rigging,apr,Andrei Orehov
+PIC_VEH_fedUSSNova,txtr,Texture,rdy,"Jon Gourley, William Mauer"
+PIC_VEH_fedUSSNova,mdlRDPROXY,Modeling,rdy,"Andrei Orehov, Chris Pierz, William Mauer"
+PIC_VEH_fedUSSNova,mdlPUBLISH,Modeling,apr,"Andrei Orehov, Chris Pierz, William Mauer"
+PIC_VEH_fedUSSEchelon,cncpt,Concept,rdy,
+PIC_VEH_fedUSSEchelon,mdl,Modeling,rdcmpl,"Chris Pierz, Patricio Harris"
+PIC_VEH_fedUSSEchelon,rig,Rigging,apr,Andrei Orehov
+PIC_VEH_fedUSSEchelon,txtr,Texture,rdy,"Chris Pierz, William Mauer"
+PIC_VEH_fedUSSEchelon,mdlRDPROXY,Modeling,rdy,"Andrei Orehov, Chris Pierz, William Mauer"
+PIC_VEH_fedUSSEchelon,mdlPUBLISH,Modeling,apr,"Andrei Orehov, Chris Pierz, William Mauer"
+PIC_VEH_TitanSpacedock,camTurntable,,ip,
+PIC_FX_explosions,cncpt,Concept,rdy,
+PIC_FX_explosions,fx,FX,ip,Val Kharitonashvili
+PIC_FX_explosions,light,Lighting/Rendering,ip,
+PIC_FX_explosions,comp,Comp,rdy,
+PIC_FX_explosions,ltcomp,Light Comp,rdy,
+PIC_FX_explosions,ltcompFx,Light Comp,apr,Val Kharitonashvili
+PIC_FX_spaceFireworks,cncpt,Concept,rdy,
+PIC_FX_spaceFireworks,fx,FX,ip,Alexey Cheprakov
+PIC_FX_spaceFireworks,light,Lighting/Rendering,rdy,
+PIC_FX_spaceFireworks,comp,Comp,rdy,
+PIC_FX_spaceFireworks,ltcomp,Light Comp,rdy,"David Gutman, Jonathan Bliss"
+PIC_FX_spaceFireworks,ltcompFx,Light Comp,apr,Alexey Cheprakov
+PIC_VEH_USSTitanDamaged,camTurntable,,ip,
+PIC_VEH_USSTitanDamaged,camCubeView,,ip,
+PIC_VEH_USSTitanDamaged,comp,Comp,apr,Ryan Smolarek
+PIC_VEH_fedUSSPathfinder,camTurntable,,ip,
+PIC_VEH_USSTitan,mdlHangarBay,Modeling,ip,"Patricio Harris, William Mauer"
+PIC_VEH_ussStargazer,mdlLowRes,Modeling,rdcmpl,"Chris Pierz, William Mauer, Yinglei Yang"
+PIC_VEH_fedUSSAlita,camTurntable,,ip,
+PIC_VEH_museumAkira,mdlWeapons,Modeling,rdy,David Gutman
+PIC_VEH_fedUSSAlita,mdlWeapons,Modeling,rdy,David Gutman
+PIC_VEH_museumDefiant,mdlWeapons,Modeling,rdy,David Gutman
+PIC_VEH_previsUSSGagarin,mdlWeapons,Modeling,rdy,David Gutman
+PIC_VEH_LunaC,mdlWeapons,Modeling,rdy,David Gutman
+PIC_VEH_previsUSSSutherland,mdlWeapons,Modeling,rdy,David Gutman
+PIC_VEH_fedUSSNova,mdlWeapons,Modeling,rdy,Forrest Arnold
+PIC_VEH_fedUSSPathfinder,mdlWeapons,Modeling,rdy,Forrest Arnold
+PIC_VEH_previsUSSReliant,mdlWeapons,Modeling,rdy,David Gutman
+PIC_VEH_previsUSSRoss,mdlWeapons,Modeling,rdy,David Gutman
+PIC_VEH_previsUSSRustazh,mdlWeapons,Modeling,rdy,David Gutman
+PIC_VEH_Sovereign,mdlWeapons,Modeling,rdy,David Gutman
+PIC_VEH_fedUSSNova,camTurntable,,ip,
+PIC_FX_fleetWeapons,cncpt,Concept,rdy,
+PIC_FX_fleetWeapons,fx,FX,onfrm,Rick Ramirez
+PIC_FX_fleetWeapons,light,Lighting/Rendering,rdy,
+PIC_FX_fleetWeapons,comp,Comp,rdy,
+PIC_FX_fleetWeapons,ltcomp,Light Comp,rdy,Val Kharitonashvili
+PIC_FX_fleetWeapons,ltcompFx,Light Comp,ip,"Christopher Knight, Rick Ramirez"
+PIC_VEH_previsUSSEdison,camTurntable,,ip,
+PIC_VEH_museumAkira,camTurntable,,ip,
+PIC_VEH_museumDefiant,camTurntable,,ip,
+PIC_VEH_ussStargazer,camTurntable,,ip,
+PIC_VEH_previsUSSGagarin,camTurntable,,ip,
+PIC_VEH_LunaC,camTurntable,,ip,
+PIC_VEH_previsUSSSutherland,camTurntable,,ip,
+PIC_VEH_previsUSSReliant,camTurntable,,ip,
+PIC_VEH_previsUSSRoss,camTurntable,,ip,
+PIC_VEH_previsUSSRustazh,camTurntable,,ip,
+PIC_VEH_fedAkira,mdlWeapons,Modeling,omt,David Gutman
+PIC_VEH_Sovereign,camTurntable,,ip,
+PIC_VEH_EnterpriseD,camTurntable,,ip,
+PIC_VEH_previsUSSEdison,mdlWeapons,,ip,
+PIC_VEH_KatarinaShuttle,cncpt,Concept,rdy,
+PIC_VEH_KatarinaShuttle,mdl,Modeling,rev,"William Mauer, Yinglei Yang"
+PIC_VEH_KatarinaShuttle,rig,Rigging,rdy,Andrei Orehov
+PIC_VEH_KatarinaShuttle,txtr,Texture,rdy,"William Mauer, Yinglei Yang"
+PIC_VEH_KatarinaShuttle,mdlRDPROXY,Modeling,rdy,"Andrei Orehov, William Mauer, Yinglei Yang"
+PIC_VEH_KatarinaShuttle,mdlPUBLISH,Modeling,rdy,"Andrei Orehov, William Mauer, Yinglei Yang"
+PIC_VEH_fedUSSEnterpriseF,mdlWeapons,Modeling,rdy,"Forrest Arnold, William Mauer"
+PIC_VEH_fedUSSEchelon,mdlWeapons,Modeling,rdy,William Mauer
+PIC_FX_photonTorpedo,cncpt,Concept,rdy,
+PIC_FX_photonTorpedo,fx,FX,rdcmpl,Alexey Cheprakov
+PIC_FX_photonTorpedo,light,Lighting/Rendering,rdy,
+PIC_FX_photonTorpedo,comp,Comp,rdy,
+PIC_FX_photonTorpedo,ltcomp,Light Comp,ip,
+PIC_FX_photonTorpedo,ltcompFx,Light Comp,apr,Alexey Cheprakov
+PIC_VEH_fedUSSEnterpriseF,camTurntable,,ip,
+PIC_VEH_KatarinaShuttle,camTurntable,,ip,
+PIC_VEH_TitanSpacedock,ldevDamage,Look Dev,rev,Yinglei Yang
+PIC_VEH_USSExcelsior,mdlLowRes,Modeling,rdcmpl,"Chris Pierz, William Mauer"
+PIC_FX_shipPhasers,cncpt,Concept,rdy,
+PIC_FX_shipPhasers,fx,FX,rdy,
+PIC_FX_shipPhasers,light,Lighting/Rendering,rdy,
+PIC_FX_shipPhasers,comp,Comp,rdy,
+PIC_FX_shipPhasers,ltcomp,Light Comp,rdy,
+PIC_FX_shipPhasers,ltcompFx,Light Comp,rdy,
+PIC_FX_PhaserBeam,cncpt,Concept,rdy,
+PIC_FX_PhaserBeam,fx,FX,rdy,
+PIC_FX_PhaserBeam,light,Lighting/Rendering,rdy,
+PIC_FX_PhaserBeam,comp,Comp,rdy,
+PIC_FX_PhaserBeam,ltcomp,Light Comp,rdy,
+PIC_FX_PhaserBeam,ltcompFx,Light Comp,rdy,
+PIC_FX_PhaserBeam,anim,Animation,rdy,Jason Shulman
+PIC_FX_PhaserBeam,rig,Rigging,apr,Andrei Orehov
+PIC_FX_PhaserBeam,mdl,Modeling,rdy,
+PIC_FX_PhaserBeam,mdlRDPROXY,Modeling,rdy,Andrei Orehov
+PIC_FX_PhaserBeam,mdlPUBLISH,Modeling,rdy,Andrei Orehov
+PIC_VEH_ussStargazer,mdlWeapons,Modeling,rdy,William Mauer
+PIC_VEH_fedUSSEchelon,camTurntable,,ip,
+PIC_FX_earthShield,cncpt,Concept,rdy,
+PIC_FX_earthShield,fx,FX,ip,David Silva
+PIC_FX_earthShield,light,Lighting/Rendering,rdy,
+PIC_FX_earthShield,comp,Comp,rdy,
+PIC_FX_earthShield,ltcomp,Light Comp,rdy,
+PIC_FX_earthShield,ltcompFx,Light Comp,apr,David Silva
+PIC_FX_spaceFireworks,lightInteractive,Lighting/Rendering,rdy,"David Gutman, Jonathan Bliss"
+PIC_FX_spaceFireworks,ltcompInteractive,Light Comp,rdy,"David Gutman, Jonathan Bliss"
+PIC_FX_fleetWeapons,fxCkTesting,,rdcmpl,Christopher Knight
+PIC_FX_fleetWeapons,ltcompFxCkTesting,Light Comp,rdcmpl,Christopher Knight
+PIC_VEH_TitanSpacedock,exp,Exports,ip,
+PIC_VEH_TitanSpacedock,rigDoors,Rigging,omt,Andrei Orehov
+PIC_VEH_TitanSpacedock,TitanDock_shield,FX,rrq,David Silva
+PIC_FX_titanDockShield,cncpt,Concept,rdy,
+PIC_FX_titanDockShield,fx,FX,ip,David Silva
+PIC_FX_titanDockShield,light,Lighting/Rendering,rdy,
+PIC_FX_titanDockShield,comp,Comp,rdy,
+PIC_FX_titanDockShield,ltcomp,Light Comp,rdy,
+PIC_FX_titanDockShield,ltcompFx,Light Comp,apr,David Silva
+PIC_VEH_USSExcelsior,camTurntable,,ip,
+PIC_VEH_USSExcelsior,mdlWeapons,Modeling,rdy,William Mauer
+PIC_VEH_EnterpriseF,cncpt,Concept,hld,
+PIC_VEH_EnterpriseF,mdl,Modeling,rrq,
+PIC_VEH_EnterpriseF,rig,Rigging,hld,
+PIC_VEH_EnterpriseF,txtr,Texture,hld,
+PIC_VEH_USSTitan,mdlRepaired,Modeling,apr,William Mauer
+PIC_VEH_BorgBeacon,cncpt,Concept,hld,
+PIC_VEH_BorgBeacon,mdl,Modeling,hld,
+PIC_VEH_BorgBeacon,rig,Rigging,hld,
+PIC_VEH_BorgBeacon,txtr,Texture,hld,
+PIC_FX_fleetWeapons,lightExplosions,Lighting/Rendering,ip,Val Kharitonashvili
+PIC_FX_fleetWeapons,ltcompExplosions,Light Comp,wtg,Val Kharitonashvili
+PIC_VEH_Sovereign,mdlShields,Modeling,rdy,Chris Pierz
+PIC_VEH_USSExcelsior,mdlShields,Modeling,rdy,Chris Pierz
+PIC_VEH_previsUSSSutherland,mdlShields,Modeling,rdy,Chris Pierz
+PIC_VEH_previsUSSEdison,mdlShields,Modeling,rdy,Chris Pierz
+PIC_VEH_museumAkira,mdlShields,Modeling,rdy,Chris Pierz
+PIC_VEH_museumDefiant,mdlShields,Modeling,rdy,Chris Pierz
+PIC_VEH_fedUSSAlita,mdlShields,Modeling,rdy,Chris Pierz
+PIC_VEH_fedUSSEnterpriseF,mdlShields,Modeling,rdy,Chris Pierz
+PIC_VEH_fedUSSNova,mdlShields,Modeling,rdy,Chris Pierz
+PIC_VEH_fedUSSPathfinder,mdlShields,Modeling,rdy,Chris Pierz
+PIC_VEH_fedUSSEchelon,mdlShields,Modeling,rdy,Chris Pierz
+PIC_VEH_ussStargazer,mdlShields,Modeling,rdy,Chris Pierz
+PIC_VEH_TitanSpacedock,mdlWeapons,Modeling,rdy,"David Gutman, Forrest Arnold, Jonathan Bliss"
+PIC_PRP_FleetShipsDestruction,mdlFX,Modeling,ip,William Mauer
+PIC_VEH_fedIntrepid,mdlShields,Modeling,rdy,Chris Pierz
+PIC_VEH_USSTitanDamaged,mdlWeapons,Modeling,rdy,Forrest Arnold
+PIC_VEH_USSTitan,mdlWeapons,Modeling,rdy,Forrest Arnold
+PIC_VEH_EnterpriseF,camTurntable,,ip,
+,mpt,Matte Painting,rev,Richard Mahon
+PIC_PRP_brokenNacelle,cncpt,Concept,omt,
+PIC_PRP_brokenNacelle,mdl,Modeling,omt,"William Mauer, Yinglei Yang"
+PIC_PRP_brokenNacelle,txtr,Texture,omt,Yinglei Yang
+PIC_PRP_brokenNacelle,rig,Rigging,omt,Andrei Orehov
+PIC_PRP_brokenNacelle,mdlPUBLISH,Modeling,omt,"Andrei Orehov, Yinglei Yang"
+PIC_VEH_ussReliantDestroyed,cncpt,Concept,rdy,
+PIC_VEH_ussReliantDestroyed,mdl,Modeling,apr,Yinglei Yang
+PIC_VEH_ussReliantDestroyed,rig,Rigging,apr,Andrei Orehov
+PIC_VEH_ussReliantDestroyed,txtr,Texture,rdy,Yinglei Yang
+PIC_VEH_ussReliantDestroyed,mdlPUBLISH,Modeling,rdy,"Andrei Orehov, Yinglei Yang"
+PIC_VEH_ussReliantDestroyed,camTurntable,,ip,
+PIC_VEH_ussReliantDestroyed,mdlWeapons,Modeling,rdy,Andrei Orehov
